@@ -15,7 +15,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Every time you ask a team to share, go with the next letter of the alphabet. 
   - New pairs every day. 
 - Icebreaker
-  - We’re not cool, but you are. Teach us the latest cool phrase that you know from the last year. 
+  - Teach us the latest cool phrase that you know from the last year. 
 - What is a game? (5 mins) 
 
 - Definition: Type of play activity with rules and conflict. 
