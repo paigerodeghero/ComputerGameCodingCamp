@@ -65,18 +65,18 @@ Every day we will have a GitHub repository page that outlines each day and the a
 
   - **Activity: Play two of these games above. (5 min)**
     - Play [Pacman](https://www.google.com/logos/2010/pacman10-i.html) 
-    - Your choice of one other game: Minesweeper, Super Onion Boy or Matchimals
+    - Your choice of one other game: [Minesweeper](http://minesweeperonline.com), [Super Onion Boy](https://www.crazygames.com/game/super-onion-boy) or [Matchimals](https://www.matchimals.fun)
 
 - Kinds of games (18 min) 
-- - Solitaire: minesweeper 
+- - Solitaire: [Minesweeper](http://minesweeperonline.com) 
   - Head to head: [Tic Tac Toe](https://gametable.org/games/tic-tac-toe/), [Matchimals](https://www.matchimals.fun) 
-  - Player vs. System: world of warcraft 
-  - One against Many: Clue 
-  - Free for all: Monopoly 
-  - Team competition: Dodgeball 
+  - Player vs. System: [World of Warcraft](https://www.youtube.com/watch?v=zw08msIj6qQ) 
+  - One against Many: [Clue](https://www.youtube.com/watch?v=2SW_RbaHPJU) 
+  - Free for all: [Monopoly](https://www.youtube.com/watch?v=AuWvMgYv03g) 
+  - Team competition: [Dodgeball](https://www.youtube.com/watch?v=bJ1vEQKX-hE) 
 - **Activity: Classify two games together and think-pair-share**
-  - What kind of game is Space Invaders? (Show Space Invaders on shared screen) (5 min) 
-  - What kind of game is Halo? (Show Halo on YouTube) 
+  - What kind of game is [Space Invaders](https://www.youtube.com/watch?v=MU4psw3ccUI)? (Show Space Invaders on shared screen) (5 min) 
+  - What kind of game is [Halo](https://www.youtube.com/watch?v=iTR1VJoJZVQ)? (Show Halo on YouTube) 
   - Write down your answers and keep it to yourself (1 min) 
   - Put students in breakout rooms in pairs. Tell them to introduce themselves to one another by name and city where you live. Person with the name that earlier in the alphabet goes first. Says what they think the answer is. Second person goes. Discuss if you disagree. Come to agreement on what you believe the right answer is. 
   - Come back out of the breakout room when you’re done (show them how to get out of a breakout room). After 5 min, if you’re not out, we will bring you back automatically. 
@@ -88,13 +88,13 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Come back from breakouts when finished (or called back at specific given time). Each partner takes the first game from their partner’s list and shares the name, a summary of the game, and classifies it. We go in order of the pairs name alphabet. 
 - Game Elements 
   - Goals: (show screenshots of each) (3 min) 
-    - Capture/destroy: Chess 
-    - Territorial control: Risk 
-    - Collect: Pacman 
-    - Solve: Clue 
-    - Chase/race/escape: Pacman, Mario Kart 
-    - Spatial alignment: Tetris 
-    - Build: Minecraft 
+    - Capture/destroy: [Chess](https://www.chess.com/play/computer) 
+    - Territorial control: [Risk](https://www.warzone.com/) 
+    - Collect: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html)  
+    - Solve: [Clue](https://www.youtube.com/watch?v=2SW_RbaHPJU)  
+    - Chase/race/escape: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html), Mario Kart 
+    - Spatial alignment: [Tetris](https://www.mathsisfun.com/games/tetris.html) 
+    - Build: [Minecraft](https://www.youtube.com/watch?v=HgjO8sOmQrM) 
   - Rules: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html)  (10 mins)
     - Gameplay 
     - Length of play 
@@ -121,7 +121,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Intention/Motivation 
   - Relationship to other players 
   - Player/enemy 
-  - Super Mario Bros. (show them a screenshot from the game with each of these characters in action) 
+  - [Super Mario Bros.](https://www.youtube.com/watch?v=_KdWbAUK1PI) (show them a screenshot from the game with each of these characters in action) 
     - Mario: Plumber 
     - Luigi: Mario’s brother, his sidekick, also a plumber 
     - Goomba (Mushrooms): They walk around and kill mario if he touches them. He can jump on them to kill them. 
@@ -132,7 +132,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Player Interaction 
   - Player/player 
   - Player/computer 
-  - Art / Music 
+  - Art / [Music](https://www.youtube.com/watch?v=_9bB7r0M9kg) 
   - Super Mario vs. Super Mario 64 
   - Show difference in art. 
   - Get clipart for each character for both games and show them side by side. 
