@@ -5,9 +5,9 @@ Every day we will have a GitHub repository page that outlines each day and the a
 
 ## Day 1: Introduction to Games
 ### Schedule:
-- Zoom recording 
-- Intro to Camp 
-- Agenda for two weeks 
+- Start the Zoom recording 
+- Introduction to Clemson Game Coding Camp 
+- Go over agenda for the camp
 - Logistics (IT) 
 - Logistics of Think-Pair-Share 
   - Assignments of who has to share and what you should say. 
@@ -64,7 +64,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - [Halo:](https://www.youtube.com/watch?v=iTR1VJoJZVQ) 8:10-8:40 
 
   - Activity: Play two of these games above. (5 min) 
-    - Play Pacman: https://www.google.com/logos/2010/pacman10-i.html 
+    - Play [Pacman](https://www.google.com/logos/2010/pacman10-i.html) 
     - Your choice of one other game: Minesweeper, Super Onion Boy or Matchimals
 
 - Kinds of games (18 min) 
