@@ -95,13 +95,13 @@ Every day we will have a GitHub repository page that outlines each day and the a
     - Chase/race/escape: Pacman, Mario Kart 
     - Spatial alignment: Tetris 
     - Build: Minecraft 
-  - Rules: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html  (10 mins)
+  - Rules: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html)  (10 mins)
     - Gameplay 
     - Length of play 
     - Scoring 
     - Turn-taking 
   - **Activity: Show game rules, play game to show the rule. Change one rule and play the game again.** 
-    - Andy’s Makecode: https://makecode.com/_g9tXFKfU2Hxt 
+    - [Andy’s Makecode:](https://makecode.com/_g9tXFKfU2Hxt) 
       - Show how Pacman can eat pellets and gains a point for each pellet. 
       - Show how Pacman does not eat power pellets. Let’s add a rule for Pacman to each a power pellet and get 10 points for eating it. 
       - Come up with one more missing rule for Pacman. 
