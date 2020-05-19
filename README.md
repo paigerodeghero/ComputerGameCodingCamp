@@ -7,3 +7,6 @@ In collaboration with [Thomas Beeson](https://www.clemson.edu/academics/studenta
 ## Instructors:
 James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/))       
 Connor Phillis (Software Engineer at [KeyMark](https://www.keymarkinc.com/))
+
+
+[Schedule](outline.md)
