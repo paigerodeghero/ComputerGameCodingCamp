@@ -1,6 +1,4 @@
 # Clemson Game Coding Camp
-
-Developed and run by:  
 [Dr. Paige Anne Rodeghero](paigerodeghero.com) ([Clemson University](http://www.clemson.edu/)/[Microsoft Research](https://www.microsoft.com/en-us/research/))    
 [Dr. Andrew Begel](https://andrewbegel.com/) ([Microsoft Research](http://www.clemson.edu/))    
 
