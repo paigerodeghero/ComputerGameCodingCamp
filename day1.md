@@ -47,7 +47,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
       - Andy goes in center top to block Paige. 
       - It’s a draw. 
       - It’s not just about winning and losing. Explain how what a draw is. 
-  - Activity: Go to same tic-tac-toe link, choose 1 player game, and play tic-tac-toe against the computer. (3 min) 
+  - **Activity**: Go to same tic-tac-toe link, choose 1 player game, and play tic-tac-toe against the computer. (3 min) 
     - Play best of out of 3 games. 
     - When done, tell us whether you won, lost, or draw. 
 
@@ -63,7 +63,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - [World of Warcraft:](https://www.youtube.com/watch?v=zw08msIj6qQ) 11:41-12:10 
   - [Halo:](https://www.youtube.com/watch?v=iTR1VJoJZVQ) 8:10-8:40 
 
-  - Activity: Play two of these games above. (5 min) 
+  - **Activity**: Play two of these games above. (5 min) 
     - Play [Pacman](https://www.google.com/logos/2010/pacman10-i.html) 
     - Your choice of one other game: Minesweeper, Super Onion Boy or Matchimals
 
