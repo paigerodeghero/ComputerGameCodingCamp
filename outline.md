@@ -1,5 +1,7 @@
+# Welcome to the Camp Schedule!
+Here you will find a list of topics for each day and a link to the detailed daily schedule.
 
-# Class Outline
+## Schedule
 
 | Date    | Topic |  Link   |
 | ------- | ------| ------------------------------------------------ | 
