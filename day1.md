@@ -24,7 +24,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
 
 - Ask 2nd instructor to play tic-tac-toe with you. 
 
-- Open up the web site: https://gametable.org/games/tic-tac-toe/ 
+- Open up the web site to [Tic-Tac-Toe](https://gametable.org/games/tic-tac-toe/): 
 
   - Turn off game sound. 
   - Explain rules. 
@@ -53,15 +53,15 @@ Every day we will have a GitHub repository page that outlines each day and the a
 
 - Examples of games (5 min to explain) 
 
-  - Tic Tac Toe https://gametable.org/games/tic-tac-toe/ 
-  - Minesweeper: http://minesweeperonline.com 
-  - Space Invaders: https://www.youtube.com/watch?v=MU4psw3ccUI 0:30-1:00 
-  - Pacman https://www.google.com/logos/2010/pacman10-i.html 
-  - Donkey Kong: 
-  - Super Onion Boy: https://www.crazygames.com/game/super-onion-boy 
-  - Matchimals: https://www.matchimals.fun 
-  - World of Warcraft: https://www.youtube.com/watch?v=zw08msIj6qQ 11:41-12:10 
-  - Halo: https://www.youtube.com/watch?v=iTR1VJoJZVQ 8:10-8:40 
+  - [Tic Tac Toe](https://gametable.org/games/tic-tac-toe/) 
+  - [Minesweeper:](http://minesweeperonline.com) 
+  - [Space Invaders:](https://www.youtube.com/watch?v=MU4psw3ccUI) 0:30-1:00 
+  - [Pacman](https://www.google.com/logos/2010/pacman10-i.html) 
+  - [Donkey Kong:]() NEED URL 
+  - [Super Onion Boy:](https://www.crazygames.com/game/super-onion-boy) 
+  - [Matchimals:](https://www.matchimals.fun) 
+  - [World of Warcraft:](https://www.youtube.com/watch?v=zw08msIj6qQ) 11:41-12:10 
+  - [Halo:](https://www.youtube.com/watch?v=iTR1VJoJZVQ) 8:10-8:40 
 
   - Activity: Play two of these games above. (5 min) 
     - Play Pacman: https://www.google.com/logos/2010/pacman10-i.html 
