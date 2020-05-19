@@ -5,3 +5,14 @@ Every day we will have a GitHub repository page that outlines each day and the a
 
 ## Day 1: Introduction to Games
 ### Schedule:
+- Zoom recording 
+- Intro to Camp 
+- Agenda for two weeks 
+- Logistics (IT) 
+- Logistics of Think-Pair-Share 
+  - Assignments of who has to share and what you should say. 
+  - Assign a letter of the alphabet to each team (A, B, C, D). 
+  - Every time you ask a team to share, go with the next letter of the alphabet. 
+  - New pairs every day. 
+- Icebreaker
+  - We’re not cool, but you are. Teach us the latest cool phrase that you know from the last year. 
