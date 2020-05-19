@@ -90,25 +90,25 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Goals: (show screenshots of each) (3 min) 
     - Capture/destroy: [Chess](https://www.chess.com/play/computer) 
     - Territorial control: [Risk](https://www.warzone.com/) 
-    - Collect: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html)  
+    - Collect: [Pacman](https://www.google.com/logos/2010/pacman10-i.html)  
     - Solve: [Clue](https://www.youtube.com/watch?v=2SW_RbaHPJU)  
-    - Chase/race/escape: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html), Mario Kart 
+    - Chase/race/escape: [Pacman](https://www.google.com/logos/2010/pacman10-i.html), [Mario Kart](https://www.youtube.com/watch?v=qktchbR-EX4) 
     - Spatial alignment: [Tetris](https://www.mathsisfun.com/games/tetris.html) 
     - Build: [Minecraft](https://www.youtube.com/watch?v=HgjO8sOmQrM) 
-  - Rules: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html)  (10 mins)
+  - Rules: [Pacman](https://www.google.com/logos/2010/pacman10-i.html)  (10 mins)
     - Gameplay 
     - Length of play 
     - Scoring 
     - Turn-taking 
   - **Activity: Show game rules, play game to show the rule. Change one rule and play the game again.** 
-    - [Andy’s Makecode:](https://makecode.com/_g9tXFKfU2Hxt) 
+    - [Andy’s Makecode](https://makecode.com/_g9tXFKfU2Hxt) 
       - Show how Pacman can eat pellets and gains a point for each pellet. 
       - Show how Pacman does not eat power pellets. Let’s add a rule for Pacman to each a power pellet and get 10 points for eating it. 
       - Come up with one more missing rule for Pacman. 
       - Think-Pair-Share 
       - Collect all rules together from every team. 
       - Consequences to actions. 
-  - **Activity:(solo) Write a paragraph on your favorite game’s rules. Pick one rule to change and tell us how the gameplay will change. (10 min)** 
+  - **Activity: (solo) Write a paragraph on your favorite game’s rules. Pick one rule to change and tell us how the gameplay will change. (10 min)** 
     - Think-Share 
     - Scaffold: 
       - Name of the game. 
