@@ -68,7 +68,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
     - Your choice of one other game: [Minesweeper](http://minesweeperonline.com), [Super Onion Boy](https://www.crazygames.com/game/super-onion-boy) or [Matchimals](https://www.matchimals.fun)
 
 - Kinds of games (18 min) 
-- - Solitaire: [Minesweeper](http://minesweeperonline.com) 
+  - Solitaire: [Minesweeper](http://minesweeperonline.com) 
   - Head to head: [Tic Tac Toe](https://gametable.org/games/tic-tac-toe/), [Matchimals](https://www.matchimals.fun) 
   - Player vs. System: [World of Warcraft](https://www.youtube.com/watch?v=zw08msIj6qQ) 
   - One against Many: [Clue](https://www.youtube.com/watch?v=2SW_RbaHPJU) 
@@ -80,8 +80,8 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Write down your answers and keep it to yourself (1 min) 
   - Put students in breakout rooms in pairs. Tell them to introduce themselves to one another by name and city where you live. Person with the name that earlier in the alphabet goes first. Says what they think the answer is. Second person goes. Discuss if you disagree. Come to agreement on what you believe the right answer is. 
   - Come back out of the breakout room when you’re done (show them how to get out of a breakout room). After 5 min, if you’re not out, we will bring you back automatically. 
-  - We pick on one team to share their answers. Team names designated and picked in alphabetical order. 
-- Activity: List computer games you have played. We’ll classify it together. Think-Pair-Share (9 min) 
+  - We will pick on one team to share their answers. Team names designated and picked in alphabetical order. 
+- **Activity: List computer games you have played. We’ll classify it together. Think-Pair-Share (9 min)** 
   - Write down a list of four games that you have played. And then we will send them to breakout rooms. 
   - Explain each game’s synopsis. One partner goes through their list at a time, alternating back and forth after each individual game. 
   - Partner classifies the games. If you disagree, what else could you add to your description of the game to have gotten your partner to understand the game type? 
