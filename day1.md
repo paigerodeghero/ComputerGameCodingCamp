@@ -68,3 +68,85 @@ Every day we will have a GitHub repository page that outlines each day and the a
     - Your choice of one other game: Minesweeper, Super Onion Boy or Matchimals
 
 - Kinds of games (18 min) 
+- - Solitaire: minesweeper 
+  - Head to head: tic tac toe, Matchimals: https://www.matchimals.fun 
+  - Player vs. System: world of warcraft 
+  - One against Many: Clue 
+  - Free for all: Monopoly 
+  - Team competition: Dodgeball 
+- **Activity: Classify two games together and think-pair-share**
+  - What kind of game is Space Invaders? (Show Space Invaders on shared screen) (5 min) 
+  - What kind of game is Halo? (Show Halo on YouTube) 
+  - Write down your answers and keep it to yourself (1 min) 
+  - Put students in breakout rooms in pairs. Tell them to introduce themselves to one another by name and city where you live. Person with the name that earlier in the alphabet goes first. Says what they think the answer is. Second person goes. Discuss if you disagree. Come to agreement on what you believe the right answer is. 
+  - Come back out of the breakout room when you’re done (show them how to get out of a breakout room). After 5 min, if you’re not out, we will bring you back automatically. 
+  - We pick on one team to share their answers. Team names designated and picked in alphabetical order. 
+- Activity: List computer games you have played. We’ll classify it together. Think-Pair-Share (9 min) 
+  - Write down a list of four games that you have played. And then we will send them to breakout rooms. 
+  - Explain each game’s synopsis. One partner goes through their list at a time, alternating back and forth after each individual game. 
+  - Partner classifies the games. If you disagree, what else could you add to your description of the game to have gotten your partner to understand the game type? 
+  - Come back from breakouts when finished (or called back at specific given time). Each partner takes the first game from their partner’s list and shares the name, a summary of the game, and classifies it. We go in order of the pairs name alphabet. 
+- Game Elements 
+  - Goals: (show screenshots of each) (3 min) 
+    - Capture/destroy: Chess 
+    - Territorial control: Risk 
+    - Collect: Pacman 
+    - Solve: Clue 
+    - Chase/race/escape: Pacman, Mario Kart 
+    - Spatial alignment: Tetris 
+    - Build: Minecraft 
+  - Rules: [Pacman:](https://www.google.com/logos/2010/pacman10-i.html  (10 mins)
+    - Gameplay 
+    - Length of play 
+    - Scoring 
+    - Turn-taking 
+  - **Activity: Show game rules, play game to show the rule. Change one rule and play the game again.** 
+    - Andy’s Makecode: https://makecode.com/_g9tXFKfU2Hxt 
+      - Show how Pacman can eat pellets and gains a point for each pellet. 
+      - Show how Pacman does not eat power pellets. Let’s add a rule for Pacman to each a power pellet and get 10 points for eating it. 
+      - Come up with one more missing rule for Pacman. 
+      - Think-Pair-Share 
+      - Collect all rules together from every team. 
+      - Consequences to actions. 
+  - **Activity:(solo) Write a paragraph on your favorite game’s rules. Pick one rule to change and tell us how the gameplay will change. (10 min)** 
+    - Think-Share 
+    - Scaffold: 
+      - Name of the game. 
+      - 1 sentence summary of game. 
+      - Goal of the game. 
+      - Kind of game. 
+      - List 3 most important rules of the game. 
+      - Choose 1 rule to change. Change it and describe the impact to gameplay. 
+  - Players 
+  - Intention/Motivation 
+  - Relationship to other players 
+  - Player/enemy 
+  - Super Mario Bros. (show them a screenshot from the game with each of these characters in action) 
+    - Mario: Plumber 
+    - Luigi: Mario’s brother, his sidekick, also a plumber 
+    - Goomba (Mushrooms): They walk around and kill mario if he touches them. He can jump on them to kill them. 
+    - Koopa Troopas: Birds turned into turtles. They want to kill Mario. 
+    - Princess Toadstool: Ruler of the mushroom kingdom, Your goal is to rescue her 
+    - Toad: Protects Princess Toadstool 
+    - Bowser (King Koopa). A dragon who kidnapped Princess Toadstool and is guarding her. Defeat him to win the game. 
+  - Player Interaction 
+  - Player/player 
+  - Player/computer 
+  - Art / Music 
+  - Super Mario vs. Super Mario 64 
+  - Show difference in art. 
+  - Get clipart for each character for both games and show them side by side. 
+  - Story 
+  - Essential Conflict 
+- **Activity: Pick an existing game, play it and narrate the story.** 
+  - We pick a game and narrate it to the class. 
+  - Show off elements of the game that support the story. E.g. Luigi’s handlebar mustache. 
+  - Think-Pair-Share: Pick a character in the same game and explain to us one part of the character’s graphical costume. 
+- Homework 
+  - Pick any computer game you like and play it for 30 minutes. 
+  - Be prepared to talk about the game elements and demo the game via screen sharing on Day 2. Explain why you like the game. 
+    - Goal 
+    - Story 
+    - One rule 
+    - Players 
+    - Player interactions 
