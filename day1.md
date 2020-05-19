@@ -100,7 +100,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
     - Length of play 
     - Scoring 
     - Turn-taking 
-  - **Activity: Show game rules, play game to show the rule. Change one rule and play the game again.** 
+ - **Activity: Show game rules, play game to show the rule. Change one rule and play the game again.** 
     - [Andy’s Makecode](https://makecode.com/_g9tXFKfU2Hxt) 
       - Show how Pacman can eat pellets and gains a point for each pellet. 
       - Show how Pacman does not eat power pellets. Let’s add a rule for Pacman to each a power pellet and get 10 points for eating it. 
@@ -108,7 +108,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
       - Think-Pair-Share 
       - Collect all rules together from every team. 
       - Consequences to actions. 
-  - **Activity: (solo) Write a paragraph on your favorite game’s rules. Pick one rule to change and tell us how the gameplay will change. (10 min)** 
+ - **Activity: (solo) Write a paragraph on your favorite game’s rules. Pick one rule to change and tell us how the gameplay will change. (10 min)** 
     - Think-Share 
     - Scaffold: 
       - Name of the game. 
