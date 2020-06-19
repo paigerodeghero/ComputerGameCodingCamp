@@ -1,2 +1,69 @@
 
 # Welcome to Day 8 of the Clemson Game Coding Camp!
+- ~~Day 8 (Andy)~~
+    - ~~Standup Scrum for everyone~~
+      - ~~Everyone explain the story of their game~~
+    - ~~Easter eggs~~
+    - ~~Game platforms~~
+      - ~~Mobile~~
+      - ~~Desktop~~
+      - ~~TV (XBox, Playstation, Gameboy)~~
+    - ~~Work with Partner on Game~~
+  - Day 8 (James)
+    - Standup Scrum for everyone
+    - Resources
+      - [https://www.blender.org/](https://www.blender.org/)
+      - [https://www.youtube.com/playlist?list=PLa1F2ddGya\_-UvuAqHAksYnB0qL9yWDO6](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+    - 3D modeling
+      - Intro to tool: blender, maya.
+      - Why 3D modelling?
+        - Can be used in games.
+        - Can be used for special effects in movies.
+      - What is blender?
+        - It is a free tool.
+        - Can be used to create 3D models of objects and players.
+      - Demo a 3D model
+        - Demo a 3D model and show it to the students from all angles.
+    - Build and explain as I go.
+
+    - Fundamentals of blender
+      - How to create a project?
+        - Create a project and save it.
+        - What is a viewport.
+      - How to navigate the viewport.
+        - How to pan and zoom in viewport?
+        - How to move around in viewport?
+      - How to create basic meshes in blender.
+        - Create a cube.
+        - Create a square.
+        - Change scale of the square.
+        - Stretch the square.
+    - Intro to basic tools in blender
+      - Mesh selection.
+        - How to select faces, vertices.
+      - How to use bevel tool.
+      - How to use Knife tool.
+      - How to use extrude.
+    - Create a basic table top in blender.
+      - Make a square and reshape it to look like a table top.
+      - Use extrude tool to polish edges.
+    - Create legs for the table.
+      - Use mirror modifier to edit all 4 legs at the same time.
+      - Use above tools to smooth the legs of the table.
+    - Add a light to the scene.
+    - Intro to shading.
+      - Create a material.
+      - Create a wood like texture.
+      - Assig the texture to the material.
+      - Assign the material to the legs of the table.
+      - Create a second material and add to the table top.
+    - Render the scene.
+      - Render the scene.
+      - Play with the lighting and textures to make the look more interesting.
+    - Break for 1 hour.
+    -
+    - Introduce Maya.
+      - Another tool used for creating 3D models and animation.
+    - Demo a keyframe animation in Maya.
+      - Demo a simple keyframe animation in Maya.
+      - Walk through the keyframes and show them each keyframe.
