@@ -1,2 +1,122 @@
 
 # Welcome to Day 5 of the Clemson Game Coding Camp!
+- Day 5: Mini-Project (Andy, Paige)
+    - Assign game programming partners
+    - Paige and Andy pick the partners, someone you haven&#39;t worked with yet.
+    - Determine 3 levels: advanced, medium, beginner of student. Put pairs together.
+    - If we have an odd number, have one group of 3 people.
+    - Activity: Meeting your pair programming partner.
+      - Scaffold
+        - What is your name?
+        - How do you like to work together?
+          - Text Chat / Audio / Video
+        - What is your phone number? For backup purposes in case technology doesn&#39;t work.
+        - When can you work on the project outside of class?
+          - Negotiate mutually exclusive times to edit code.
+          - Negotiate who will edit the code if you are working together online. Only one person should touch the program while working together.
+        - What kind of programming experiences have you had in the last 3 years?
+    - Teach about saving to github.com
+      - Create a new project shared with your partner.
+        - Decide which partner will create the repo. The creator is called the Project Owner. The partner is a Contributor.
+        - Open up [http://arcade.makecode.com](http://arcade.makecode.com/)
+        - Click on New Project.
+        - Give your project a name. Negotiate the name with your project partner.
+        - Save the project to Github by pressing the Octocat button.
+        - Create GitHub repository.
+          - Repository name
+          - Repository description
+          - Choose Public repository. Always make things public unless you&#39;re doing homework for a Clemson class.
+          - Press OK.
+          - Wait for it to create the repo.
+        - The first time you ever interact with Github via MakeCode, you must authorize MakeCode for Github.
+      - Show how to invite a collaborator to your project.
+        - Click the Octocat button.
+        - Click the Person + button in the upper right.
+        - This opens a browser window to Github.com.
+        - Click the invite a Collaborator button.
+        - Ask your partner for their github username and type it in the dialog. Once it finds your partner, click on their name and choose the green button to add them to your repo.
+        - Ask your partner to click go to their github home page and click on the Notification bell in the upper right corner.
+          - You may have to wait a few minutes.
+        - Click on the Invitation to join.
+        - Click on the Accept Invitation button.
+        - Now you have write access.
+      - Show how to share a project with your partner.
+        - Open up your Makecode Project.
+        - Click the Octocat button.
+        - Choose the Share button at the top right.
+        - It will take you to a web browser with your Github.com repo.
+        - Choose the Clone or Download button (green button)
+        - Copy the https github link and send it to your partner.
+        - (Note your project partner will not be able to share the repo with anyone else. You have to do it.)
+      - Show how to load a project from github to makecode.
+        - Go to [http://arcade.makecode.com](http://arcade.makecode.com/).
+        - Find and click the Import button.
+        - Choose &quot;Your Github Repo&quot; button.
+        - Clone or create your own Github repo dialog
+          - Choose the repo name of your project.
+          - It will open in MakeCode Arcade.
+      - Show how to load your partner&#39;s project from github.
+        - Go to [http://arcade.makecode.com](http://arcade.makecode.com/)
+        - Find and click the Import button
+        - Choose &quot;Import URL…&quot;
+        - Type in the github URL from your partner.
+        - Press Go ahead.
+      - Show how to save changes to your partner&#39;s code.
+        - Make a change.
+        - Choose Octocat with the Up Arrow.
+        - Enter a description for your change.
+        - Press Commit.
+        - Press the Go Back button to go back to the main screen.
+      - To see the changes your partner has made to your project.
+        - Click on the Octocat button which now has a Down Arrow on it.
+        - Click the Green Pull Changes button.
+        - Press Go Back to see the changes in your project.
+      - What happens if you have a Commit that collides with your partner&#39;s changes?
+        - Show commit conflict dialog.
+        - Choose Resolve Commit.
+        - This will open github.com and you should save Close Pull Request at the bottom of the screen and force your partner to accept your version of the project and try again.
+      -
+      - Explain that there&#39;s one github repo per project.
+      - Tell TAs where your github repo.
+      - Tell us your user names.
+      - Teach them about pull requests for classroom activities.
+      - Teach them about Github IDEs and command line.
+    - Brainstorming
+      - Start with
+        - Aesthetics
+          - Sensation (memorable a/v effects)
+          - Fantasy (imaginary world)
+          - Narrative (storyline that keeps the player coming back)
+          - Challenge (game as obstacle course)
+          - Fellowship (builds a community of players)
+          - Discovery (urge to explore the game)
+          - Expression (enables player to express creativity)
+        - Rules
+        - Existing Design
+        - Technology
+        - Materials (arts, game mechanics)
+        - Narrative
+      - Activity: Think – pair – share
+        - Aesthetics:
+          - Japanese Anime
+        - Rules:
+          - Characters can only go up and to the right
+        - Existing Design
+          - Mario Bros.
+        - Technology:
+          - Characters can fade in and out of transparency
+        - Materials:
+          - Pick two costumes from Scratch. Make a story line out of those two characters.
+          - Take a picture of two pets or people in your house and make a game out of it.
+        - Narrative:
+          - Sibling rivalry
+          - Hero myth: life starts out with adversity, hero goes off to grow up, and comes back and accomplishes a great goal and becomes the hero she was meant to be.
+      - Activity: Combination Challenge:
+        - One of the kids chooses two brainstorming constraints and challenges teachers to come up with a game idea.
+    - Activity: Pick one of those six ideas to work on a mini-game with your partner.
+      - Design paper prototype
+    - Choose your characters
+      - Activity: Explain the character&#39;s backstory to the class.
+    - Hour 3 Scrum
+      - 10 minute standup meeting with pair partner
+      - Scaffold
