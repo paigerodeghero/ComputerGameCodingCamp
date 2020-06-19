@@ -4,7 +4,7 @@
     - Standup Scrum for everyone
     - 3D Games
     - Resources:
-      - https://www.youtube.com/playlist?list=PLX2vGYjWbI0Q-s4\_lX0h4i2zbZqlg4OfF
+      - https://www.youtube.com/playlist?list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF
     - Unity
       - Intro to Unity
         - 3D game engine that can be used to create large 3D and 2D games.
@@ -15,7 +15,7 @@
           - Save as a new project.
           - Import the table from yesterday&#39;s class.
           - Create a ball.
-          - https://youtu.be/W\_fAidYRGzs
+          - https://youtu.be/W_fAidYRGzs
         - Move the player around.
           - Make the player a rigid body.
           - Add collider to the project.
