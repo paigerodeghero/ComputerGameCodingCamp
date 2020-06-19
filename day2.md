@@ -3,8 +3,7 @@
 
 ## Day 2: Game Mechanics
 
-###	Agenda (Go over high level of the schedule for day 2)
-    - Agenda (Go over high level of the schedule for day 2) (5 min)
+  - Agenda (Go over high level of the schedule for day 2) (5 min)
       - Activities
       - Learning Goals
     - Homework Review (30 min)
