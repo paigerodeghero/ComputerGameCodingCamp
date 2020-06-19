@@ -104,7 +104,7 @@
           - Click on My Tiles.
           - Create a new tile that looks like a pellet. (Start drawing from 7,7).
           - Place it all over the tile map expect for corners and ghost box.
-          - https://makecode.com/\_EbK4wCCDj0AK
+          - https://makecode.com/_EbK4wCCDj0AK
     - Enable Pacman to eat the pellets. (5 min + 5 min)
 
         - Create a &#39;on sprite o kind player overlap at location&#39; block.
@@ -116,29 +116,29 @@
         - Drag &#39;play sound &#39; to on sprite overlap block.
         - Choose preferred sound.
         - Drag &#39;set volume 20&#39; to on start.
-        - https://makecode.com/\_f4retL4i05Dr
+        - https://makecode.com/_f4retL4i05Dr
     - When Pacman eats a pellet, increase his score. (3 min + 3 min)
 
         - Drag &#39;set score to 0&#39; to on start.
         - Drag &#39;change score by 1&#39; to on sprite overlap block.
-        - https://makecode.com/\_FKpC8pV5A9TP
+        - https://makecode.com/_FKpC8pV5A9TP
     - Create power pellets and place them in the maze. (3 min + 3 min)
 
         - Follow same steps as create pellets.
-        - https://makecode.com/\_2zvfaF3sw1dk
+        - https://makecode.com/_2zvfaF3sw1dk
         - Side note: can control the difficulty of the game. engage students in discussion of how many power pellets there should be?
     - Enable Pacman to eat the power pellets and increase his score. (1 min + 2 min)
 
         - Follow same steps used to enable Pacman to eat normal pellets.
         - When Pacman eats a power pellet make a sound.
-        - https://makecode.com/\_EU93jiKCkWq1
+        - https://makecode.com/_EU93jiKCkWq1
     - Detect when all pellets are eaten and end the level. (5 min + 10 min)
 
         - Add a variable (PelletCount) to on start.
         - Save number of pellets in the variable.
         - Change PelletCount by –1 when Pacman eats a pellet or power pellet.
         - On game update, if PelletCount = 0, Game over – you win.
-        - https://makecode.com/\_W4cL44e4w6R3
+        - https://makecode.com/_W4cL44e4w6R3
     - Make Pacman go over the end of the screen where maze is open (5 min + 10 min)
 
         - Press debug and navigate Pacman to end of tunnel to find x position of Pacman and left and right end of the tunnel.
@@ -147,7 +147,7 @@
           - Set Pacman x = 249
           - Else if Pacman x = 249 and right button is pressed
           - Set Pacman x = 7.
-        - https://makecode.com/\_1AjCV36p6UcX
+        - https://makecode.com/_1AjCV36p6UcX
     - Add Pacman animation (10 min + 20 min)
 
         - Create a new function (animatePacman).
@@ -160,7 +160,7 @@
         - Change interval to 100 ms.
         - Switch loop to on.
         - Drag &#39;call animatePacman&#39; to on start.
-        - https://makecode.com/\_Vo8MymcY7MwX
+        - https://makecode.com/_Vo8MymcY7MwX
 
   - Total Pacman creation time: 2 hour 26 min.
   - Paper Prototyping as the end of Day 2
