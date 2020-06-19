@@ -124,7 +124,6 @@
 
         - Draw cherry
   - Homework: Add 2 more ghosts. Create new AIs for each.
-  -
   - Rules
 
       - Pacman can be in the avoid ghost phase or attack ghost phase.
