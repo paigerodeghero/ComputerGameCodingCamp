@@ -1,2 +1,44 @@
 
 # Welcome to Day 7 of the Clemson Game Coding Camp!
+- Day 7 (Paige)
+    - Testing Overview (Paige will mini lecture)
+      - There are many forms of testing. Testing is basically an activity to see if the code works and if it meets all the requirements. Testing allows developers to find bugs quickly. There are multiple types of testing that developers do. There is testing that is programmed within the code and that can be automated. There is also testing with humans. We are going to cover testing with humans today. (2 mins)
+        - Testing with humans allows for types of unexpected action with a software product
+      - User testing (5 mins)
+        - Give someone your game and have them play while you observe.
+        - The goal is to understand how the game works and observe how people will use it to determine if your players:
+          - Understand how the games works or get confused
+          - Can complete or win the game
+          - Don&#39;t run into bugs or usability problems
+          - The experience is pleasant to the player
+        - Usability testing allows designers and developers to validate their prototype. With clients, you can confirm that you are meeting their expectations. You can find issues with the flow of the game, bugs, and find minor errors.
+        - Usability testing can happen multiple times throughout the project
+        - You can do usability testing with paper prototypes
+        - You can also do usability testing with a digital prototype
+        - By doing usability testing early on, you are able to (1) reduce the number of bugs implemented, (2) find any places that the game does flow well, (3) make sure that user experience is intuitive, and (4) make sure that the client or user is satisfied with the direction that you are taking with the project.
+        - **Video from Norman Group about User testing** : [https://www.youtube.com/watch?v=RhgUirqki50](https://www.youtube.com/watch?v=RhgUirqki50) (4 mins)
+        - **Video New York Subway:** [https://www.youtube.com/watch?v=7TOsJCA7DHw](https://www.youtube.com/watch?v=7TOsJCA7DHw) (2 mins)
+          - Add a list of usability bugs that
+        - Usability quality components (from Norman group) (5 mins):
+          - Learnability: How quickly do users complete basic tasks?
+          - Efficiency: How quickly do users complete tasks after learning the game?
+          - Memorability: If the users play your game, and then you ask them questions afterwards, do they remember the game?
+          - Errors: Do the users make a lot of errors? Do they recover easily from the errors?
+          - Satisfaction: How pleasant is it to use the game?
+        - Why is usability important? Because if it isn&#39;t usable, then people won&#39;t play your game.
+        - **BUGS SPECIFIC**
+        - **Activity** : Usability scenarios (10 mins)
+          - You are going on vacation to Seattle (leaving from Charleston) from August 15-August 20th. With your partner, go to the Delta and American Airlines website and see what the best deal is that you can find.
+          - Write down what the best deal was. **(DO NOT BUY A PLANE TICKET)**
+          - Did you find any challenges when doing this? If so, write them down.
+      - Blind testing
+        - Give someone your game and have them play it without you. They give you a report-back afterwards.
+        - Activity: Each pair picks a game to play. Each person plays it alone. Then report back to the other the facts about the game.
+          - Scaffold the components of the game that should be in the report.
+      - Activity User Testing
+        - With your partner, go to MakeCode and pick a new game. Play it for 10 minutes. After you both play it three times, write down the goal of the game. **Discuss PAIGE FINISH WRITING. Give 20 and pick 5. + plus 1 creative 1**
+    - Artificial Intelligence
+    - **MakeCode Richard Knoll**
+    - Homework
+      - Describe the core concept of your project week game in a Tweet of 135 characters or less. (Elevator pitch)
+    - Work with Partner on Game
