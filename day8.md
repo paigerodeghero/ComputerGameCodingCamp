@@ -1,14 +1,5 @@
 
 # Welcome to Day 8 of the Clemson Game Coding Camp!
-- ~~Day 8 (Andy)~~
-    - ~~Standup Scrum for everyone~~
-      - ~~Everyone explain the story of their game~~
-    - ~~Easter eggs~~
-    - ~~Game platforms~~
-      - ~~Mobile~~
-      - ~~Desktop~~
-      - ~~TV (XBox, Playstation, Gameboy)~~
-    - ~~Work with Partner on Game~~
   - Day 8 (James)
     - Standup Scrum for everyone
     - Resources
