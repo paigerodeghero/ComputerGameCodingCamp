@@ -93,7 +93,7 @@
           - Expression (enables player to express creativity)
         - Rules
         - Existing Design
-        - Technology
+        - Technology (press a or b button or a & b button at the same time)
         - Materials (arts, game mechanics)
         - Narrative
       - Activity: Think – pair – share
