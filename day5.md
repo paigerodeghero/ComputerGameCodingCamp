@@ -93,7 +93,7 @@
           - Expression (enables player to express creativity)
         - Rules
         - Existing Design
-        - Technology (press a or b button or a & b button at the same time & characters can fade in and out of transparency)
+        - Technology (press a or b button or a + b button at the same time & characters can fade in and out of transparency)
         - Materials (arts, game mechanics)
         - Narrative
       - Activity: Think – pair – share
