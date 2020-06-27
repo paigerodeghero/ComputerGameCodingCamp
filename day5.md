@@ -10,7 +10,7 @@
         - What is your name?
         - How do you like to work together?
           - Text Chat / Audio / Video
-        - What is your phone number? For backup purposes in case technology doesn&#39;t work.
+        - What is your phone number? For backup purposes in case technology doesn't work.
         - When can you work on the project outside of class?
           - Negotiate mutually exclusive times to edit code.
           - Negotiate who will edit the code if you are working together online. Only one person should touch the program while working together.
@@ -82,41 +82,73 @@
       - Teach them about pull requests for classroom activities.
       - Teach them about Github IDEs and command line.
     - Brainstorming
-      - Start with
-        - Aesthetics
-          - Sensation (memorable a/v effects)
-          - Fantasy (imaginary world)
-          - Narrative (storyline that keeps the player coming back)
-          - Challenge (game as obstacle course)
-          - Fellowship (builds a community of players)
-          - Discovery (urge to explore the game)
-          - Expression (enables player to express creativity)
-        - Rules
-        - Existing Design
-        - Technology (press a or b button or a + b button at the same time & characters can fade in and out of transparency)
-        - Materials (arts, game mechanics)
-        - Narrative
-      - Activity: Think – pair – share
-        - Aesthetics:
-          - Japanese Anime
-        - Rules:
-          - Characters can only go up and to the right
-        - Existing Design
-          - Mario Bros.
-        - Technology:
-          - Characters can fade in and out of transparency
-        - Materials:
-          - Pick two costumes from Scratch. Make a story line out of those two characters.
-          - Take a picture of two pets or people in your house and make a game out of it.
-        - Narrative:
-          - Sibling rivalry
-          - Hero myth: life starts out with adversity, hero goes off to grow up, and comes back and accomplishes a great goal and becomes the hero she was meant to be.
-      - Activity: Combination Challenge:
-        - One of the kids chooses two brainstorming constraints and challenges teachers to come up with a game idea.
-    - Activity: Pick one of those six ideas to work on a mini-game with your partner.
+      - Characters: 
+          - The Fighter: A hero who fights the enemy with their fists, feet, or weapon.
+            - Examples: Street Fighter, Karateka, Mortal Kombat
+          - The Big Bad: A dastardly villian who appears to be stronger than the hero, but has a hidden weakness.
+            - Examples: Gannon, Donkey Kong
+          - The Sage: A mystic, an odd character allied with the hero who provides helpful hints at crucial times during the game.
+            - Examples: Legon of Zelda, Skyrim, Metal Gear Solid
+          - The Sidekick: A companion to the hero who provides comic relief or aids the hero in solving their quest.
+            - Examples: Luigi in Mario Bros,  Yoshi in Mario World, Sonic 2's Tails. 
+       - Narrative:
+          - Overcoming the monster: The hero must flight and slay the monster that threatens their community. 
+            - Examples: Beowulf, Dracula, King Kong, Pacman, Mario Bros., Space Invaders, Asteroids, Galaga
+          - Rags to Riches: An insignificant person is dismissed by others. Something happens to elevate them, revelaing that person to be exceptional.       
+            - Examples: Ugly Duckling, Aladdin, Superman
+          - The Quest: The hero must set out on a long hazardous journey to battle obstacles until they are triumphant.
+            - Examples: Lord of the Rings, Harry Potter, Wizard of Oz
+          - Voyage and Return: The hero travels out of their normal world into the unknown and overwhelming, before escaping back to the safety of their home.
+            - Examples: Alice in Wonderland, Finding Nemo, Gulliver's Travels, Legend of Zelda, Super Mario Bros.
+          - Rebirth: The hero falls under a dark spell (e.g. sleep, sickness, enchantment) before breaking free and being redeemed.
+            - Examples: Sleeping Beauty, Beauty and the Beast
+          - The Neverending Story: A repetitive story with infinite challenges that get more and more difficult to beat
+            - Examples: Donkey Kong, Q*bert, Tetris
+      - Activity: Think-Pair-Share
+        - With a partner, choose two characters from the MakeCode Sprite gallery. Choose one of the narratives above and create a storyline for a game in which these two characters play starring roles.
+        - Alternate activity: Show two pictures of pets/animals in your house and create a narrative that describes their relationship to one another. Use this to develop a game storyline with these two animals.
+      - Rules: Defines how the characters can move through the game world and describes the actions they can take and their effects.
+        - Navigation
+          - Walking, Running, Swimming, Flying
+          - Constraints to only walk up/down, left/right
+        - Information
+          - Reading a scroll
+          - Listening to a character
+        - Inventory
+          - Picking up an item
+          - Choosing to use an item
+          - Dropping an item
+          - Losing an item
+        - Obstacles
+          - Jumping 
+          - Running through
+          - Punching at
+        - Fighting
+          - Punching at
+          - Jumping on top of
+          - Kicking
+          - Running through
+          - Round-off back handspring
+        - Dying
+          - Getting run over
+          - Getting hit
+          - Jumping into a pit
+          - Running into yourself
+        - Winning
+          - Eating all the food
+          - Defeating all the enemies
+          - Solving all the puzzles
+      - Technology:
+        - Mapping the game buttons to player actions
+        - Secret game modes
+          - Example: Pressing A and B buttons together makes the character invisible to monsters.
+      - Activity: Combination Challenge
+        - One of the students chooses two rules, two characters, and one narrative, and challenges the teachers to come up with a game idea.
+    - Activity: Pick one of these ideas to work on a simple game with your partner.
+      - Choose your characters.
+      - Find your narrative.
+      - Define the game's rules.
       - Design paper prototype
-    - Choose your characters
-      - Activity: Explain the character&#39;s backstory to the class.
     - Hour 3 Scrum
       - 10 minute standup meeting with pair partner
-      - Scaffold
+   
