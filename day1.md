@@ -9,11 +9,11 @@ Every day we will have a GitHub repository page that outlines each day and the a
 - Introduction to Clemson Game Coding Camp 
 - Go over agenda for the camp
 - Logistics (IT) 
-- Logistics of Think-Pair-Share 
+- Logistics of Think-Team-Share 
   - Assignments of who has to share and what you should say. 
   - Assign a letter of the alphabet to each team (A, B, C, D). 
   - Every time you ask a team to share, go with the next letter of the alphabet. 
-  - New pairs every day. 
+  - Same team every day. 
 - Icebreaker
   - Teach us the latest cool phrase that you know from the last year. 
 - What is a game? (5 mins) 
@@ -74,18 +74,18 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - One against Many: [Clue](https://www.youtube.com/watch?v=2SW_RbaHPJU) 
   - Free for all: [Monopoly](https://www.youtube.com/watch?v=AuWvMgYv03g) 
   - Team competition: [Dodgeball](https://www.youtube.com/watch?v=bJ1vEQKX-hE) 
-- **Activity: Classify two games together and think-pair-share**
+- **Activity: Classify two games together and think-team-share**
   - What kind of game is [Space Invaders](https://www.youtube.com/watch?v=MU4psw3ccUI)? (Show Space Invaders on shared screen) (5 min) 
   - What kind of game is [Halo](https://www.youtube.com/watch?v=iTR1VJoJZVQ)? (Show Halo on YouTube) 
   - Write down your answers and keep it to yourself (1 min) 
-  - Put students in breakout rooms in pairs. Tell them to introduce themselves to one another by name and city where you live. Person with the name that earlier in the alphabet goes first. Says what they think the answer is. Second person goes. Discuss if you disagree. Come to agreement on what you believe the right answer is. 
+  - Put students in breakout rooms in teams. Tell them to introduce themselves to one another by name and city where you live. Person with the name that earlier in the alphabet goes first. Says what they think the answer is. Second person goes. Discuss if you disagree. Come to agreement on what you believe the right answer is. 
   - Come back out of the breakout room when you’re done (show them how to get out of a breakout room). After 5 min, if you’re not out, we will bring you back automatically. 
   - We will pick on one team to share their answers. Team names designated and picked in alphabetical order. 
-- **Activity: List computer games you have played. We’ll classify it together. Think-Pair-Share (9 min)** 
+- **Activity: List computer games you have played. We’ll classify it together. Think-Team-Share (9 min)** 
   - Write down a list of four games that you have played. And then we will send them to breakout rooms. 
   - Explain each game’s synopsis. One partner goes through their list at a time, alternating back and forth after each individual game. 
   - Partner classifies the games. If you disagree, what else could you add to your description of the game to have gotten your partner to understand the game type? 
-  - Come back from breakouts when finished (or called back at specific given time). Each partner takes the first game from their partner’s list and shares the name, a summary of the game, and classifies it. We go in order of the pairs name alphabet. 
+  - Come back from breakouts when finished (or called back at specific given time). Each partner takes the first game from their partner’s list and shares the name, a summary of the game, and classifies it. We go in order of the teams name alphabet. 
 - Game Elements 
   - Goals: (show screenshots of each) (3 min) 
     - Capture/destroy: [Chess](https://www.chess.com/play/computer) 
@@ -105,7 +105,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
       - Show how Pacman can eat pellets and gains a point for each pellet. 
       - Show how Pacman does not eat power pellets. Let’s add a rule for Pacman to each a power pellet and get 10 points for eating it. 
       - Come up with one more missing rule for Pacman. 
-      - Think-Pair-Share 
+      - Think-Team-Share 
       - Collect all rules together from every team. 
       - Consequences to actions. 
  - **Activity: (solo) Write a paragraph on your favorite game’s rules. Pick one rule to change and tell us how the gameplay will change. (10 min)** 
@@ -141,7 +141,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
 - **Activity: Pick an existing game, play it and narrate the story.** 
   - We pick a game and narrate it to the class. 
   - Show off elements of the game that support the story. E.g. Luigi’s handlebar mustache. 
-  - Think-Pair-Share: Pick a character in the same game and explain to us one part of the character’s graphical costume. 
+  - Think-Team-Share: Pick a character in the same game and explain to us one part of the character’s graphical costume. 
 - Homework 
   - Pick any computer game you like and play it for 30 minutes. 
   - Be prepared to talk about the game elements and demo the game via screen sharing on Day 2. Explain why you like the game. 
