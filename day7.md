@@ -33,7 +33,7 @@
           - Did you find any challenges when doing this? If so, write them down.
       - Blind testing
         - Give someone your game and have them play it without you. They give you a report-back afterwards.
-        - Activity: Each pair picks a game to play. Each person plays it alone. Then report back to the other the facts about the game.
+        - Activity: Each team picks a game to play. Each person plays it alone. Then report back to the other the facts about the game.
           - Scaffold the components of the game that should be in the report.
       - Activity User Testing
         - With your partner, go to MakeCode and pick a new game. Play it for 10 minutes. After you both play it three times, write down the goal of the game. **Discuss PAIGE FINISH WRITING. Give 20 and pick 5. + plus 1 creative 1**
