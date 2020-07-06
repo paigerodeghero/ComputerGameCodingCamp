@@ -3,9 +3,9 @@
 - Day 5: Mini-Project (Andy, Paige)
     - Assign game programming partners
     - Paige and Andy pick the partners, someone you haven&#39;t worked with yet.
-    - Determine 3 levels: advanced, medium, beginner of student. Put pairs together.
+    - Determine 3 levels: advanced, medium, beginner of student. Put teams together.
     - If we have an odd number, have one group of 3 people.
-    - Activity: Meeting your pair programming partner.
+    - Activity: Meeting your team.
       - Scaffold
         - What is your name?
         - How do you like to work together?
@@ -104,7 +104,7 @@
             - Examples: Sleeping Beauty, Beauty and the Beast
           - The Neverending Story: A repetitive story with infinite challenges that get more and more difficult to beat
             - Examples: Donkey Kong, Q*bert, Tetris
-      - Activity: Think-Pair-Share
+      - Activity: Think-Team-Share
         - With a partner, choose two characters from the MakeCode Sprite gallery. Choose one of the narratives above and create a storyline for a game in which these two characters play starring roles.
         - Alternate activity: Show two pictures of pets/animals in your house and create a narrative that describes their relationship to one another. Use this to develop a game storyline with these two animals.
       - Rules: Defines how the characters can move through the game world and describes the actions they can take and their effects.
@@ -150,5 +150,5 @@
       - Define the game's rules.
       - Design paper prototype
     - Hour 3 Scrum
-      - 10 minute standup meeting with pair partner
+      - 10 minute standup meeting with team
    
