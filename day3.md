@@ -183,8 +183,8 @@
         - We get out a chess board or monopoly board and put all the pieces in a legit configuration.
         - Each student writes down the state of the game for themselves.
         - We hide the board.
-        - Each student pairs up with another to discuss their game state and create the union of their two descriptions.
-        - One pair speaks up and tells us how to recreate the state of the board.
+        - Each student teams up with another to discuss their game state and create the union of their two descriptions.
+        - One team speaks up and tells us how to recreate the state of the board.
         - We compare with the original and see what&#39;s missing.
     - Game Programming
       - Graphics
