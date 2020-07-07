@@ -3,10 +3,10 @@
 ##Day 3: Game Programming
 
 ### Introduction to MakeCode
-    1. Teach kids how to download game to physical BrainPad device and play the game there. [https://www.brainpad.com/start-making/](https://www.brainpad.com/start-making/) (30 mins)
+   1. Teach kids how to download game to physical BrainPad device and play the game there. [https://www.brainpad.com/start-making/](https://www.brainpad.com/start-making/) (30 mins)
         - Go through what BrainPad is.
         - Find Pacman Game
-      2. Create a ghost and place him in the maze. (5 min + 10 min)
+     2. Create a ghost and place him in the maze. (5 min + 10 min)
         - Drag &#39;set mySprite to sprite of kind player&#39; to on start.
         - Change mySprite to Clyde.
         - Change player to enemy.
