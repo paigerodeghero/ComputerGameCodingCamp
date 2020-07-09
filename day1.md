@@ -16,6 +16,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Same team every day. 
 - Icebreaker
   - Teach us the latest cool phrase that you know from the last year. 
+- Teach screensharing and have every student share their screen.
 - What is a game? (5 mins) 
 
 - Definition: Type of play activity with rules and conflict. 
