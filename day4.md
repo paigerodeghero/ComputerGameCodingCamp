@@ -44,9 +44,7 @@
       - Multi-page.
       - Instructions on how to teach people how to use your game.
       - Make a Game over screen
-    - Drawing a pretty maze with tilemap
-      - Using preexisting tile map categories: Forest, Dungeon, etc.
-      - Show them how to create Pacman&#39;s maze.
+ 
     - Show them gallery of MakeCode Arcade projects online and let&#39;s go through them and dissect one.
       - Select &quot;Catch&quot; and click &quot;Start Tutorial&quot;
       - Have the students pull up the game and play the game for 3 minutes
@@ -59,4 +57,14 @@
           - Work alone. Go through game code (10 mins). Figure out as much as the game code you can.
           - Meet with partner (15 mins). Each partner walks the other partner through the game code at a high level.
           - Meet back in class. Each student will walk through their chosen game and share with peers. (20 mins)
- 
+      
+      - Activity
+        - Drawing a pretty maze with tilemap
+        - Using preexisting tile map categories: Forest, Dungeon, etc.
+        - Show them how to create Pacman&#39;s maze.
+   
+   - Homework: Draw a new maze. (20 mins)
+        - Let&#39;s draw a new PacMan maze. Do this on paper. You can use another piece of paper as a ruler if you do not have one. Create your own maze, but make sure that _you do not have any dead ends_. Don&#39;t forget to leave a place for Pacman to start the game. Leave an empty spot somewhere else in case Pacman encounters any future enemies.
+        - This might take multiple sheets of paper and thinking about how the maze works to get a working prototype. That is okay!
+        - Program this new maze into your Pacman game tilemap before class tomorrow.
+
