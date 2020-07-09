@@ -47,4 +47,4 @@
           - Work alone. Go through game code (10 mins). Figure out as much as the game code you can.
           - Meet with partner (15 mins). Each partner walks the other partner through the game code at a high level.
           - Meet back in class. Each student will walk through their chosen game and share with peers. (20 mins)
-    - **MakeCode Talk with Peli**
+ 
