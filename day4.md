@@ -10,7 +10,19 @@
           - Email (use a non-school email address, if you have one)
           - Password
           - Verify email account
+          
+          
       - Send Paige a private message on Zoom with your email you used for GitHub    
+      - Activity: Meeting your team.
+      - Scaffold
+        - What is your name?
+        - How do you like to work together?
+          - Text Chat / Audio / Video
+        - What is your phone number? For backup purposes in case technology doesn't work.
+        - When can you work on the project outside of class?
+          - Negotiate mutually exclusive times to edit code.
+          - Negotiate who will edit the code if you are working together online. Only one person should touch the program while working together.
+        - What kind of programming experiences have you had in the last 3 years?
       - Paige invites students to Github Classroom. (10 mins)
       - Paige invites students to their first github project.
       - Students accept the project.
