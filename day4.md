@@ -10,6 +10,7 @@
           - Email (use a non-school email address, if you have one)
           - Password
           - Verify email account
+      - Send Paige a private message on Zoom with your email you used for GitHub    
       - Paige invites students to Github Classroom. (10 mins)
       - Paige invites students to their first github project.
       - Students accept the project.
