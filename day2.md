@@ -216,9 +216,5 @@
         - Parents (those without knowledge of how the game is designed). This means they don&#39;t know how your game works. When you have them test your game, you may find that they don&#39;t operate the game in the way that you intended. That means that it might not be intuitive enough.
         - You the designer. You know how the game works. You built it. When you test the game, you will know exactly how it should function. However, when you are testing, you will probably miss some test cases. You might not think about playing the game the way someone else might think it is supposed to be played. Therefore we test our games and our projects.
         - Other peers who are the gamers. Your peers are the in-between point. They know how the game should work because you explained it to them, but they didn&#39;t build it. They will be helpful testers, but might miss somethings that those without the knowledge of how the game is designed might find.
-      - Homework: Draw a new maze. (20 mins)
-        - Let&#39;s draw a new PacMan maze. Do this on paper. You can use another piece of paper as a ruler if you do not have one. Create your own maze, but make sure that _you do not have any dead ends_. Don&#39;t forget to leave a place for Pacman to start the game. Leave an empty spot somewhere else in case Pacman encounters any future enemies.
-        - This might take multiple sheets of paper and thinking about how the maze works to get a working prototype. That is okay!
-        - Program this new maze into your Pacman game tilemap before class tomorrow.
-
+   
  
