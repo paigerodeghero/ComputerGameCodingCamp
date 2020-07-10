@@ -81,4 +81,9 @@
       - Design paper prototype
     - Hour 3 Scrum
       - 10 minute standup meeting with team
+      - Teach three questions that should teams should go over each Scrum
+        - What did you do?
+        - Where are you stuck?
+        - What are you going to do next?
+        
    
