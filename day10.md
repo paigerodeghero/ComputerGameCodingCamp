@@ -1,5 +1,7 @@
 
 # Welcome to Day 10 of the Clemson Game Coding Camp!
+-Richard Knoll talk 
+
   - Day 10 (Conner)
     - Standup Scrum for everyone
     - Multi-player games
