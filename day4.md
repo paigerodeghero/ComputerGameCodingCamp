@@ -1,6 +1,7 @@
 
 # Welcome to Day 4 of the Clemson Game Coding Camp!
   - Day 4: Github and Instruction Screens and Second Game
+    -Homework Review
     - Github
       - Intro to github: 1 min
       - Activity: Watch this Intro to Github video: [https://www.youtube.com/watch?v=w3jLJU7DT5E](https://www.youtube.com/watch?v=w3jLJU7DT5E) (4 mins)
