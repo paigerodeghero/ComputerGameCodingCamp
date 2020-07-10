@@ -53,7 +53,6 @@
       - Render the scene.
       - Play with the lighting and textures to make the look more interesting.
     - Break for 1 hour.
-    -
     - Introduce Maya.
       - Another tool used for creating 3D models and animation.
     - Demo a keyframe animation in Maya.
