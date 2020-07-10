@@ -15,7 +15,43 @@
           
       - Send Paige a private message on Zoom with your email you used for GitHub    
       - Activity: Meeting your team.
-      - Scaffold
+      Introductory Interview with Project Partner 
+
+Name 
+
+Intended major 
+
+Why did you apply to Clemson U? 
+
+What is your background with computers? What skills do you have? 
+
+What do you find most interesting about computers and how does this impact your college plans? 
+
+How do you manage your time when you get busy with a lot of tasks? 
+
+Have you worked on a team project before? If yes, 
+
+How often did your team meet together? 
+
+Did your team have a leader? What did that leader do? 
+
+What was your role on the team? 
+
+How well did you get along with your teammates related to work, or related to non-work? 
+
+Who are the other members of your family? Do you live with them? 
+
+What are your hobbies/interests/passions that are not related to this class? 
+
+Do you have any unique skills/tricks that you can show me now? 
+
+Who was your favorite teacher in high school? What did they teach? Why were they your favorite? 
+
+What was the last non-software-related book you read and describe what it was about in 2 sentences. 
+
+What is the best movie you saw in 2019, and why was it your favorite? 
+
+Do you have a personal herio in your life? Who is it and why are they your hero? 
         - What is your name?
         - How do you like to work together?
           - Text Chat / Audio / Video
