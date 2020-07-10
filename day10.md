@@ -48,6 +48,4 @@
       - Hour 1 Scrum
       - Hour 2 Scrum
       - Hour 3 Scrum
-    - Homework:
-      - Finish game.
-      - Publish game (let others play your game) and email teachers with URL to the game to pass out to everyone in class.
+   
