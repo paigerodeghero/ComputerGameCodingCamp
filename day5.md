@@ -74,6 +74,25 @@
           - Example: Pressing A and B buttons together makes the character invisible to monsters.
       - Activity: Combination Challenge
         - One of the students chooses two rules, two characters, and one narrative, and challenges the teachers to come up with a game idea.
+    How to work in a pair  
+
+Set up regular times during class to check in with one another 
+
+Every 10 minutes, 15 minutes, 30, minutes, 1 hour? 
+
+The more attention you give to your partner, the more welcome and included they will feel. 
+
+How shall we divide the work between us? What parts of the project would you like to work on?  
+
+How should you get your partner’s attention when they’re not looking at you? 
+
+How do you define success? What is our goal? 
+
+For how long should you work to solve a difficult problem before asking your partner for help? For long should you both work to solve a difficult problem before asking the class instructor for help? 
+
+Takeaway lessons: Communicate. Proactively. As Often as You Can Stand It. 
+    
+    
     - Activity: Pick one of these ideas to work on a simple game with your partner.
       - Choose your characters.
       - Find your narrative.
