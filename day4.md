@@ -38,6 +38,11 @@
           - Show the diff and what it means.
           - Press Commit.
         - Notice the Octocat button has a checkmark next to it indicating that all code is up to date on github.
+     - Activity
+        - Drawing a pretty maze with tilemap
+        - Using preexisting tile map categories: Forest, Dungeon, etc.
+        - Show them how to create Pacman&#39;s maze.
+    
     - Startup screen, game over screen, instructions
       - Startup screen
       - Title
@@ -59,10 +64,7 @@
           - Meet with partner (15 mins). Each partner walks the other partner through the game code at a high level.
           - Meet back in class. Each student will walk through their chosen game and share with peers. (20 mins)
       
-      - Activity
-        - Drawing a pretty maze with tilemap
-        - Using preexisting tile map categories: Forest, Dungeon, etc.
-        - Show them how to create Pacman&#39;s maze.
+     
    
    - Homework: Draw a new maze. (20 mins)
         - Let&#39;s draw a new PacMan maze. Do this on paper. You can use another piece of paper as a ruler if you do not have one. Create your own maze, but make sure that _you do not have any dead ends_. Don&#39;t forget to leave a place for Pacman to start the game. Leave an empty spot somewhere else in case Pacman encounters any future enemies.
