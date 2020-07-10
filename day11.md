@@ -88,3 +88,51 @@ Napster allowed people to share music in a fully peer-to-peer fashion, and is co
 
 - How is what Napster did different from what Apple did? (3 min)
 - Napster was eventually went bankrupt because of several of copyright infringement lawsuits, could apple have faced the same fate? (3 min)
+
+---
+
+## The Ethics of Microtransactions
+
+First, some definitions, [source](https://variety.com/2017/gaming/features/what-is-a-loot-box-1203047991/)
+
+- DLC - Downloadable content, large portions of games that were not included with the original purchase. This could include new levels or storylines to games. Considered a precursor to microtransactions.
+
+- Microtransactions - Originally introduced by Bethesda in the Elder Scrolls IV, this is the practice of selling items in game that were not included in the original purchase. Originally limited to cosmetics this has grown to include things like loot boxes, advanced high level items, or tickets to skip sections of games. This is most prevalent in mobile games and often targeted towards kids.
+
+- Loot Boxes - A form of Microtransaction, the player purchases an item that has random chances of producing other items of varying value. Is this gambling?
+
+### Prelude
+
+- Has anyone purchased microtransactions before?
+- How long ago was it?
+- Would you do it again?
+- Was it your money?
+
+(3 minutes)
+
+### Case Studies
+
+[Based on](https://andrewbegel.com/info461/activities/situating-software-organizations.html)
+
+- 10 min analysis
+- 7 minute discussion
+- 5 minute retrospective
+
+#### Group Analysis
+
+1. Find a company who makes a game with microtransactions.
+2. Analyze the target age group of the game
+3. What types of microtransactions are sold in the game, what are their prices?
+4. If the game sells lootboxes, see if you can't find the average monetary value of their contents. [example](https://www.polygon.com/2016/5/26/11785084/overwatch-loot-system-guide)
+5. Compare this game with similar games, does it offer better value?
+6. Does the company provide fair value through their microtransactions
+
+#### Post-Presentation Round Table
+
+1. Are there any games that have exploitative practices with their microtransactions that are particularly bad? Why?
+2. Are there any games that sell microtransactions in a way that you support?
+3. Are certain types of microtransactions ethical
+    1. Cosmetics (Fortnite)
+    2. Action Points (Candy Crush)
+    3. Weapons (Idk)
+    4. Characters (Battlefront II)
