@@ -11,7 +11,7 @@
         - Show commit conflict dialog.
         - Choose Resolve Commit.
         - This will open github.com and you should save Close Pull Request at the bottom of the screen and force your partner to accept your version of the project and try again.
-    - Brainstorming
+   - Brainstorming
       - Characters: 
           - The Fighter: A hero who fights the enemy with their fists, feet, or weapon.
             - Examples: Street Fighter, Karateka, Mortal Kombat
