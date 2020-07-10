@@ -2,9 +2,6 @@
 # Welcome to Day 5 of the Clemson Game Coding Camp!
 - Day 5: Mini-Project (Andy, Paige)
   - **MakeCode Talk with Peli**
-    - Assign game programming partners
-    - Paige and Andy pick the partners, someone you haven&#39;t worked with yet.
-    - Determine 3 levels: advanced, medium, beginner of student. Put teams together.
  
       - To see the changes your partner has made to your project.
         - Click on the Octocat button which now has a Down Arrow on it.
