@@ -36,7 +36,7 @@
             - Examples: Donkey Kong, Q*bert, Tetris
       - Activity: Think-Team-Share
         - With a partner, choose two characters from the MakeCode Sprite gallery. Choose one of the narratives above and create a storyline for a game in which these two characters play starring roles.
-        - Alternate activity: Show two pictures of pets/animals in your house and create a narrative that describes their relationship to one another. Use this to develop a game storyline with these two animals.
+        - Activity: Show two pictures of pets/animals in your house and create a narrative that describes their relationship to one another. Use this to develop a game storyline with these two animals. Attach the pictures to the chat in Zoom.  (teach how to share files on Zoom)
       - Rules: Defines how the characters can move through the game world and describes the actions they can take and their effects.
         - Navigation
           - Walking, Running, Swimming, Flying
