@@ -53,26 +53,26 @@
         - Type in name for your project.
         - Click create.
         - Click on GitHub sync button on the bottom.
-        - https://makecode.com/\_KeiAjw5TuHsr
+        - https://makecode.com/_KeiAjw5TuHsr
     - Create Pacman sprite (5 min + 5 min)
 
         - Use &#39;set mySprite to sprinte kind of player&#39; block to on start.
         - Click on the sprite edit area.
         - Create pacman sprite.
         - Rename mysprite to Pacman.
-        - https://makecode.com/\_UcL9833saViy
+        - https://makecode.com/_UcL9833saViy
     - Place Pacman on the screen. (1 min + 2 min)
 
         - Use &#39;place mySprite on top of tilemap col row&#39; block.
         - Change myprite to Pacman and set at position col 5 row 2.
-        - https://makecode.com/\_MUYLm9YkeYEy
+        - https://makecode.com/_MUYLm9YkeYEy
     - Make Pacman Move with the gamepad. (3 min + 5 min)
 
         - Create a &#39;on game update&#39; block.
         - Drag &#39;move mySprite with buttons&#39; block to on game update.
         - Press + on the block.
         - Add 50,50 for vx and vy velocity.
-        - https://makecode.com/\_WHrM73LaV40p
+        - https://makecode.com/_WHrM73LaV40p
     - Draw the Maze (ugly maze just a block for walls) (5 min + 10 min)
 
         - Drag &#39;set tilemap to&#39; block the top of on start.
@@ -83,19 +83,19 @@
         - Select the newly created tile.
         - Draw a basic maze for the game.
         - Rearrange Pacman&#39;s position if needed.
-        - https://makecode.com/\_dtJD0Agwg27k
+        - https://makecode.com/_dtJD0Agwg27k
         - Ensure there are no dead ends (don&#39;t explain this).
     - Camera follow Pacman (1min + 2 min)
 
         - Drag &#39;camera follow sprite mySprite&#39; block to on game update.
         - Change mySptite to Pacman.
-        - https://makecode.com/\_YWAAXhHV6gpE
+        - https://makecode.com/_YWAAXhHV6gpE
     - Introduce Walls (3 min + 3 min)
 
         - Click on edit tilemap area.
         - Click on draw walls.
         - Draw the walls over blue tiles and click done.
-        - https://makecode.com/\_d0f0TXYzUErh
+        - https://makecode.com/_d0f0TXYzUErh
         - Collisions
         - Can&#39;t go through walls.
       - Create pellets and place them in the maze. (3 min + 3 min)
@@ -111,7 +111,7 @@
         - Click the drop down and select the pellet tile.
         - Drag a &#39;set at tilemap col row&#39; block inside the above block.
         - Replace row col with location.
-        - https://makecode.com/\_We6D2FDU3bzo
+        - https://makecode.com/_We6D2FDU3bzo
       - When Pacman eats a pellet, play a sound. (2 min + 5 min)
         - Drag &#39;play sound &#39; to on sprite overlap block.
         - Choose preferred sound.
