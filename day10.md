@@ -50,4 +50,4 @@
       - Hour 3 Scrum
     - Homework:
       - Finish game.
-      - Publish game and email teachers with URL to the game to pass out to everyone in class.
+      - Publish game (let others play your game) and email teachers with URL to the game to pass out to everyone in class.
