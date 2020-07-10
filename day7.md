@@ -38,7 +38,6 @@
       - Activity User Testing
         - With your partner, go to MakeCode and pick a new game. Play it for 10 minutes. After you both play it three times, write down the goal of the game. **Discuss PAIGE FINISH WRITING. Give 20 and pick 5. + plus 1 creative 1**
     - Artificial Intelligence
-    - **MakeCode Richard Knoll**
     - Homework
       - Describe the core concept of your project week game in a Tweet of 135 characters or less. (Elevator pitch)
     - Work with Partner on Game
