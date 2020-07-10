@@ -1,6 +1,7 @@
 
 # Welcome to Day 8 of the Clemson Game Coding Camp!
   - Day 8 (James)
+    - Go over homework from yesterday.
     - Standup Scrum for everyone
     - Resources
       - [https://www.blender.org/](https://www.blender.org/)
