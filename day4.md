@@ -24,6 +24,10 @@
           - Negotiate mutually exclusive times to edit code.
           - Negotiate who will edit the code if you are working together online. Only one person should touch the program while working together.
         - What kind of programming experiences have you had in the last 3 years?
+        - What are you looking forward to at Clemson U this year?
+        - What are your hobbies or passions?
+        - Tell me about a trip you took that was far away from where you live?
+        - Can you do any special tricks? Show me one through the video chat.
       - Paige invites students to Github Classroom. (10 mins)
       - Paige invites students to their first github project.
       - Students accept the project.
