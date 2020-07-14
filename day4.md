@@ -84,12 +84,13 @@ Do you have a personal herio in your life? Who is it and why are they your hero?
         - Show them how to create Pacman&#39;s maze.
     
     - Startup screen, game over screen, instructions
-      - Startup screen
+      - Startup screen (https://arcade.makecode.com/#editor) Cat Jumper
       - Title
       - Author
       - Multi-page.
       - Instructions on how to teach people how to use your game.
       - Make a Game over screen
+      - We have a start screen so that the game doesn't just immediately start.  You need to start it yourself when you are ready.
  
     - Show them gallery of MakeCode Arcade projects online and let&#39;s go through them and dissect one.
       - Select &quot;Catch&quot; and click &quot;Start Tutorial&quot;
