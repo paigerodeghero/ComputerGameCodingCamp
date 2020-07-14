@@ -30,6 +30,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
 - Open up the web site to [Tic-Tac-Toe](https://gametable.org/games/tic-tac-toe/): 
 
   - Turn off game sound. 
+  - Show startup screen.  Make a few comments about it here.
   - Explain rules. 
   - Goal: how to win by getting three in a row, column, or diagonal. 
   - Two players: X goes first. 
