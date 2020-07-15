@@ -93,6 +93,9 @@ Every day we will have a GitHub repository page that outlines each day and the a
   - Explain each game’s synopsis. One partner goes through their list at a time, alternating back and forth after each individual game. 
   - Partner classifies the games. If you disagree, what else could you add to your description of the game to have gotten your partner to understand the game type? 
   - Come back from breakouts when finished (or called back at specific given time). Each partner takes the first game from their partner’s list and shares the name, a summary of the game, and classifies it. We go in order of the teams name alphabet. 
+  
+  BREAK
+  
 - Game Elements 
   - Goals: (show screenshots of each) (3 min) 
     - Capture/destroy: [Chess](https://www.chess.com/play/computer) 
