@@ -11,6 +11,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
 - Go over video and recording
 - Can turn video on or off.  Video and audio on or off. Etc
 - Student introductions (Name, location, and a hobby)
+- Have everyone do screen sharing
 - Go over agenda for the camp
 - Go over research study
 - Logistics (IT) 
