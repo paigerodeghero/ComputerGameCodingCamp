@@ -8,9 +8,12 @@ Every day we will have a GitHub repository page that outlines each day and the a
 - Start the Zoom recording 
 - Introduction to Clemson Game Coding Camp 
 - Go over agenda for the camp
+- Go over video and recording
+- Go over research study
 - Logistics (IT) 
   - When you are done with an activity, use the raise hand feature in Zoom.
   - Demonstrate raised hand in Zoom.
+  - Demonstrate thumbs up in Zoom.
 - Logistics of Think-Team-Share 
   - Assignments of who has to share and what you should say. 
   - Assign a letter of the alphabet to each team (A, B, C, D). 
