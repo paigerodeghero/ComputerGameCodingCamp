@@ -9,7 +9,7 @@
     - Homework Review (30 min)
       - Everyone presents their game via screen sharing.
       - Explain how to do screen sharing on Zoom.
-
+    - Share Google Doc
     - Review the Story (3 min)
       - What is a story?
       - Are we continuing a storyline from the game from yesterday?
