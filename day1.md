@@ -7,6 +7,7 @@ Every day we will have a GitHub repository page that outlines each day and the a
 ### Schedule:
 - Start the Zoom recording 
 - Introduction to Clemson Game Coding Camp 
+- Everyone needs to introduce each other 
 - Go over agenda for the camp
 - Go over video and recording
 - Go over research study
