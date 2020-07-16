@@ -3,6 +3,7 @@
 ##Day 3: Game Programming
 
 ### Introduction to MakeCode
+   0. Go over homework
    1. Teach kids how to download game to physical BrainPad device and play the game there. [https://www.brainpad.com/start-making/](https://www.brainpad.com/start-making/) (30 mins)
         - Go through what BrainPad is.
         - Find Pacman Game
