@@ -44,6 +44,7 @@
   - **Resources** :
 
       - [https://www.classicgaming.cc/classics/pac-man/sounds](https://www.classicgaming.cc/classics/pac-man/sounds)
+      - https://docs.google.com/document/d/15I1Iyj40Zl9Hk4wFv98oNpkEx6D7PsEflIcRgfEh8r4/edit?usp=sharing
 
   - Order of building Pacman. Do this in MakeCode Arcade.
     - Create Pacman project in makecode arcade. (1 min + 2 min)
