@@ -10,6 +10,18 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
    1. Teach kids how to download game to physical BrainPad device and play the game there. [https://www.brainpad.com/start-making/](https://www.brainpad.com/start-making/) (30 mins)
         - Go through what BrainPad is.
         - Find Pacman Game
+   2. Add Pacman animation (10 min + 20 min)
+        - Create a new function (animatePacman).
+        - Add animation from extensions.
+        - Drag &#39;animate sprint … loop&#39; to the new function.
+        - Click on create animate frame area.
+        - Recreate the exact same Pacman spite. This will give us 1 frame.
+        - Copy the frame and make necessary changes.
+        - Rearrange frame order.
+        - Change interval to 100 ms.
+        - Switch loop to on.
+        - Drag &#39;call animatePacman&#39; to on start.
+        - https://makecode.com/_Vo8MymcY7MwX
    2. Create a ghost and place him in the maze. (5 min + 10 min)
         - Drag &#39;set mySprite to sprite of kind player&#39; to on start.
         - Change mySprite to Clyde.
@@ -19,7 +31,7 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
         - Duplicate &#39;place Pacman on top of tilemap col row&#39;.
         - Change Pacman to Clyde.
         - Set row to 4 and col to 5.
-        - https://makecode.com/\_ao0YoARCxPq6
+        - https://makecode.com/_ao0YoARCxPq6
    3. Create random movement for the ghost. (10 min + 15 min)
         - Assign initial velocity to the ghost.
         - Drag out an on game update block.
@@ -28,12 +40,12 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
           - Explain sprite wholly within a tile block.
         - Find possible new directions to go in. All directions up for grabs.
         - Choose a random direction from that list.
-        - https://makecode.com/\_i1CDXcTxiM7P
+        - https://makecode.com/_i1CDXcTxiM7P
    4. Add a floating animation for ghost. (5 min + 10 min)
         - Add a new function &#39;animateClyde&#39;.
         - Add animation blocks.
         - Activate animation in on start.
-        - https://makecode.com/\_2Y994k4bw2T7
+        - https://makecode.com/_2Y994k4bw2T7
    5. Add collision between Pacman and ghost. (2 min + 5 min)
         - Pacman dies and goes back to start.
         - Ghost goes back to start position.
@@ -46,16 +58,16 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
         - Change life by -1 in the block.
         - Place Pacman and Clyde to starting position.
         - Play a cool sound.
-        - https://makecode.com/\_azX0k7LyALh0
+        - https://makecode.com/_azX0k7LyALh0
    6. Restore balance to game. (1 min + 2 min)
         - Remove go backwards from list of new directions for ghost to go in.
-        - https://makecode.com/\_1gR8cjW9HKK6
+        - https://makecode.com/_1gR8cjW9HKK6
    7. Create better AI for the ghost. (10 min + 15 min)
         - Turn not just at a collision with a wall, but at any new tile position.
         - Explain how to check for turning only when entering a new tile position after turning previously, else you&#39;ll spin in place.
         - Find possible new directions to go in.
         - Choose a random direction from that list.
-        - https://makecode.com/\_011hVshPgYgf
+        - https://makecode.com/_011hVshPgYgf
    8. Bonce ghost back if stuck in tunnel. (2 min + 5 min)
         - Create a new function clydeStuck.
         - Check if clyde col is 0 and heading is 270, then.
@@ -63,17 +75,17 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
         - Check if clyde col is 15 and heading is 90, then.
         - Set clyde velocity to –50,0.
         - Call clydeStuck in clydeMovement function.
-        - https://makecode.com/\_gbp49eFCff14
+        - https://makecode.com/_gbp49eFCff14
    9. Restore balance to game. (1 min + 1 min)
         - Give Pacman a limited number of lives.
         - Go to the pacman/ghost collision block and keep track of # pacman lives.
-        - https://makecode.com/\_53j7E709j3Ec
+        - https://makecode.com/_53j7E709j3Ec
    10. If Pacman eats power pellet, he should be able to kill the ghost. (2 min + 5 min)
         - Add a variable to game to keep track of &quot;scared ghost&quot; mode. Set to false at beginning of the game.
         - Set to true in collision with power pellet.
         - In collision with ghost, add if statement to check for scared ghost mode and if true, ghost dies instead of pacman.
           - Ghost goes back to ghost box, but Pacman gets points and continues on. 100 points.
-        - https://makecode.com/\_A86RKyJEeJHg
+        - https://makecode.com/_A86RKyJEeJHg
    11. Restore balance to game. (1 min + 2 min)
         - Set a 30 second time limit for scared ghost mode.
         - Create a countdown timer. At end, turn off scared ghost mode (goes back to avoid ghost mode).
@@ -81,12 +93,12 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
           - We need to keep the power pellet sound going while power pellet advantage is on while the countdown is going.
           - Introduce background music to indicate a game mode.
         - If Pacman eats another power pellet, reset timer back to 30 seconds.
-        - https://makecode.com/\_MvectzKDmd2Y
+        - https://makecode.com/_MvectzKDmd2Y
    12. Make it clear when you&#39;re in scared ghost mode. (5min + 10min)
         - Create a scared ghost costume for the ghost sprite.
         - Create a scared ghost animation with the scared ghost costume for floating.
         - Set the ghost to the scared ghost costume and animation when you go into scared ghost mode and back to normal costume and floating animation when you finish scared ghost mode.
-        - https://makecode.com/\_JCpfu2aEH0qV
+        - https://makecode.com/_JCpfu2aEH0qV
    13. Improve AI for ghost (10 min + 15 min)
         - Introduce Chase mode.
         - Chase mode aims the ghost at Pacman.
@@ -103,18 +115,18 @@ https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/
           - If R, Rotate-vector(vx, vy, by 90 degrees).
           - Change my vx and vy to that direction.
           - Move one step forward in the direction of travel.
-        - https://makecode.com/\_gowgbaiTLiWX
+        - https://makecode.com/_gowgbaiTLiWX
    14. Restore balance to the game (10 min + 15 min)
         - Ghost has two modes: Scatter and Chase. Switch between modes every 30 seconds.
         - Introduce Scatter mode to balance out Chase mode.
         - Scatter mode reuses earlier AI for random movement.
         - Scatter == Chase with top left corner as your target point.
         - Modify Scatter mode to aim at a corner of the screen to be more predictable.
-        - https://makecode.com/\_1Ebagqby0Pbo
+        - https://makecode.com/_1Ebagqby0Pbo
    15. Restore balance to the game (1 min + 2 min)
         - Mess with Pacman and Ghost speeds.
         - When Pacman pellet, ghost goes into scatter mode and stays there and Ghost speed drops to 50% below Pacman.
-        - https://makecode.com/\_9J2AcC3TiDdY
+        - https://makecode.com/_9J2AcC3TiDdY
    1. Extra Credit
       1. Add a second ghost.
       2. Add a second AI for ghost 2.
