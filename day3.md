@@ -2,6 +2,9 @@
 # Welcome to Day 3 of the Clemson Game Coding Camp!
 ##Day 3: Game Programming
 
+Resources:
+https://docs.google.com/document/d/10GdXNLsxNCRCX_H4Ugw0zRshu9PshgqEwfH3HOs7T20/edit?usp=sharing
+
 ### Introduction to MakeCode
    0. Go over homework
    1. Teach kids how to download game to physical BrainPad device and play the game there. [https://www.brainpad.com/start-making/](https://www.brainpad.com/start-making/) (30 mins)
