@@ -1,5 +1,7 @@
 
 # Welcome to Day 4 of the Clemson Game Coding Camp!
+  - Continue making Pacman in makecode arcade.
+    - Resources: https://docs.google.com/document/d/1kmrGkTAZQe7nQ-JRIqVzcDKVQCC6lUXhYZX3Z6ECMoc/edit?usp=sharing
   - Day 4: Github and Instruction Screens and Second Game
     - Homework Review
     - Github
