@@ -3,7 +3,6 @@
   - Continue making Pacman in makecode arcade.
     - Resources: https://docs.google.com/document/d/1kmrGkTAZQe7nQ-JRIqVzcDKVQCC6lUXhYZX3Z6ECMoc/edit?usp=sharing
   - Day 4: Github and Instruction Screens and Second Game
-    - Homework Review
     - Github
       - Intro to github: 1 min
       - Activity: Watch this Intro to Github video: [https://www.youtube.com/watch?v=w3jLJU7DT5E](https://www.youtube.com/watch?v=w3jLJU7DT5E) (4 mins)
