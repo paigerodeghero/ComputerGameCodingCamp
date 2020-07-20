@@ -62,6 +62,53 @@
           - Show the diff and what it means.
           - Press Commit.
         - Notice the Octocat button has a checkmark next to it indicating that all code is up to date on github.
+        
+      - Prototyping with paper wireframes (Paige)
+        - Basics (5 mins)
+          - Definition of prototyping: Creating an initial prototype Reasons for prototyping: to (1) test and (2) to see if it meets the clients or users needs and desires. Sometimes we do not know what users or clients need or want by words themselves. Prototyping allows to get early and quick feedback. It helps the developer to understand what they actually should be developing by clarifying it with potential users. It also provides an opportunity to see if the functionality is both logical and user friendly. Is the product intuitive and easily usable? If not, how can we change it? How can we improve the initial design? Many projects go through multiple iterations of prototyping. If developer&#39;s skill the prototyping phase, that means that there could be (1) more bugs that could have
+      - Tools (send supplies list July 1)
+        - Paper
+        - Graph paper
+        - Colored pens and pencils
+        - Index cards
+        - Scissors and tape
+        - Coins (can be faked by computer program)
+        - **Markers**
+        - Dice (fake by computer program)
+      - UI/UX ([https://www.youtube.com/watch?v=JMjozqJS44M](https://www.youtube.com/watch?v=JMjozqJS44M) 7.5 mins)
+      - Simple prototype activity (20 mins)
+        - Activity:
+          - Draw a music application with a black marker and paper (e.g. Apple Music or Spotify)
+          - List all of the application&#39;s function (e.g. play music)
+          - Take a picture of your application
+          - Share the list with your partner
+            - For every function that your partner mentioned, that you do not have, add it to your drawing.
+            - Take a second picture of your application
+            - Upload picture and share with the class
+          - Prototype Competition. Whoever has the most unique features wins.
+        - Talk about how too many features isn&#39;t always the best idea. More bugs can be introduced. So, how do we know what the right features are? How do we know if we have too many features?
+      - Game design paper prototype: [https://www.youtube.com/watch?v=dt1bQsZ68iw](https://www.youtube.com/watch?v=dt1bQsZ68iw) (3 mins)
+      - Requirements: One important note is that you need to write out what the requirements are for the product that you are creating. By having that written out, you are more easily able to create a clear prototype and product. Thinking about what you are going to do before you do it is essential. (2 mins)
+      - Just like in the video, let&#39;s design a start screen for our Pacman game.
+        - Create a list of the requirements of a start screen (5 mins)
+          - Play Game
+          - Save Progress
+          - Load saved game
+          - Settings
+          - Help
+        - Activity: (Think/Share)
+          - Draw a start screen to support all these requirements.
+          - Upload picture and share with the class.
+      - Prototype Pacman
+        - Activity:
+          - Draw the maze you drew for today&#39;s Pacman activity on big piece of paper. Draw in pellets in pencil.
+          - Place start screen page on top of maze.
+          - When player &quot;clicks&quot; on Play Game, remove the start screen page.
+          - Now create a Pacman paper character and place him on the maze in his start position.
+          - Create a Pacman controller that goes up/down/left/right.
+          - Play Pacman.
+          - As Pacman moves over a pellet, erase it from the maze.
+          - Sing the Pacman movement music as Pacman goes through the game.
      - Activity
         - Drawing a pretty maze with tilemap
         - Using preexisting tile map categories: Forest, Dungeon, etc.
