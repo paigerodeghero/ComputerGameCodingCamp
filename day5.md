@@ -1,7 +1,94 @@
 
 # Welcome to Day 5 of the Clemson Game Coding Camp!
 - Day 5: Mini-Project (Andy, Paige)
-
+-Homework review
+   - Paige invites students to Github Classroom. (10 mins)
+      - Paige invites students to their first github project.
+      - Students accept the project.
+      - Show how to save a project from makecode to github repo. (10 mins)
+        - Open up [http://arcade.makecode.com](http://arcade.makecode.com/)
+        - Open up your most recent game.
+        - Make a change to your project. Drag out a new block or something.
+          - Notice the Octocat button changed to show an up-arrow. That means there&#39;s something to save to Github.
+        - Press the Octocat button.
+        - Introduce the Commit page.
+          - Describe your changes.
+          - Show the diff and what it means.
+          - Press Commit.
+        - Notice the Octocat button has a checkmark next to it indicating that all code is up to date on github.
+        
+      - Prototyping with paper wireframes (Paige)
+        - Basics (5 mins)
+          - Definition of prototyping: Creating an initial prototype Reasons for prototyping: to (1) test and (2) to see if it meets the clients or users needs and desires. Sometimes we do not know what users or clients need or want by words themselves. Prototyping allows to get early and quick feedback. It helps the developer to understand what they actually should be developing by clarifying it with potential users. It also provides an opportunity to see if the functionality is both logical and user friendly. Is the product intuitive and easily usable? If not, how can we change it? How can we improve the initial design? Many projects go through multiple iterations of prototyping. If developer&#39;s skill the prototyping phase, that means that there could be (1) more bugs that could have
+      - Tools (send supplies list July 1)
+        - Paper
+        - Graph paper
+        - Colored pens and pencils
+        - Index cards
+        - Scissors and tape
+        - Coins (can be faked by computer program)
+        - **Markers**
+        - Dice (fake by computer program)
+      - UI/UX ([https://www.youtube.com/watch?v=JMjozqJS44M](https://www.youtube.com/watch?v=JMjozqJS44M) 7.5 mins)
+      - Simple prototype activity (20 mins)
+        - Activity:
+          - Draw a music application with a black marker and paper (e.g. Apple Music or Spotify)
+          - List all of the application&#39;s function (e.g. play music)
+          - Take a picture of your application
+          - Share the list with your partner
+            - For every function that your partner mentioned, that you do not have, add it to your drawing.
+            - Take a second picture of your application
+            - Upload picture and share with the class
+          - Prototype Competition. Whoever has the most unique features wins.
+        - Talk about how too many features isn&#39;t always the best idea. More bugs can be introduced. So, how do we know what the right features are? How do we know if we have too many features?
+      - Game design paper prototype: [https://www.youtube.com/watch?v=dt1bQsZ68iw](https://www.youtube.com/watch?v=dt1bQsZ68iw) (3 mins)
+      - Requirements: One important note is that you need to write out what the requirements are for the product that you are creating. By having that written out, you are more easily able to create a clear prototype and product. Thinking about what you are going to do before you do it is essential. (2 mins)
+      - Just like in the video, let&#39;s design a start screen for our Pacman game.
+        - Create a list of the requirements of a start screen (5 mins)
+          - Play Game
+          - Save Progress
+          - Load saved game
+          - Settings
+          - Help
+        - Activity: (Think/Share)
+          - Draw a start screen to support all these requirements.
+          - Upload picture and share with the class.
+      - Prototype Pacman
+        - Activity:
+          - Draw the maze you drew for today&#39;s Pacman activity on big piece of paper. Draw in pellets in pencil.
+          - Place start screen page on top of maze.
+          - When player &quot;clicks&quot; on Play Game, remove the start screen page.
+          - Now create a Pacman paper character and place him on the maze in his start position.
+          - Create a Pacman controller that goes up/down/left/right.
+          - Play Pacman.
+          - As Pacman moves over a pellet, erase it from the maze.
+          - Sing the Pacman movement music as Pacman goes through the game.
+     - Activity
+        - Drawing a pretty maze with tilemap
+        - Using preexisting tile map categories: Forest, Dungeon, etc.
+        - Show them how to create Pacman&#39;s maze.
+    
+    - Startup screen, game over screen, instructions
+      - Startup screen (https://arcade.makecode.com/#editor) Cat Jumper
+      - Title
+      - Author
+      - Multi-page.
+      - Instructions on how to teach people how to use your game.
+      - Make a Game over screen
+      - We have a start screen so that the game doesn't just immediately start.  You need to start it yourself when you are ready.
+ 
+    - Show them gallery of MakeCode Arcade projects online and let&#39;s go through them and dissect one.
+      - Select &quot;Catch&quot; and click &quot;Start Tutorial&quot;
+      - Have the students pull up the game and play the game for 3 minutes
+      - We play it for a second in front of them and talk through it
+      - Teach acceleration
+      - Activity
+        - Then have students select any MakeCode arcade game and play with for 5 minutes. Meet with partner.
+          - What is the story? (5 mins total) Come back and each person explains the partner&#39;s chosen game. (10 mins)
+          - Meeting with partner. What is the game logic? What are the mechanics? (5 mins) Come back and explain partner&#39;s game logic and mechanics (10 mins)
+          - Work alone. Go through game code (10 mins). Figure out as much as the game code you can.
+          - Meet with partner (15 mins). Each partner walks the other partner through the game code at a high level.
+          - Meet back in class. Each student will walk through their chosen game and share with peers. (20 mins)
  
       - To see the changes your partner has made to your project.
         - Click on the Octocat button which now has a Down Arrow on it.
