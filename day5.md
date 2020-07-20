@@ -1,7 +1,22 @@
 
 # Welcome to Day 5 of the Clemson Game Coding Camp!
 - Day 5: Mini-Project (Andy, Paige)
+
 -Homework review
+   - Show them gallery of MakeCode Arcade projects online and let&#39;s go through them and dissect one.
+      - Select &quot;Catch&quot; and click &quot;Start Tutorial&quot;
+      - Have the students pull up the game and play the game for 3 minutes
+      - We play it for a second in front of them and talk through it
+      - Teach acceleration
+      - Activity
+        - Then have students select any MakeCode arcade game and play with for 5 minutes. Meet with partner.
+          - What is the story? (5 mins total) Come back and each person explains the partner&#39;s chosen game. (10 mins)
+          - Meeting with partner. What is the game logic? What are the mechanics? (5 mins) Come back and explain partner&#39;s game logic and mechanics (10 mins)
+          - Work alone. Go through game code (10 mins). Figure out as much as the game code you can.
+          - Meet with partner (15 mins). Each partner walks the other partner through the game code at a high level.
+          - Meet back in class. Each student will walk through their chosen game and share with peers. (20 mins)
+ 
+ 
    - Paige invites students to Github Classroom. (10 mins)
       - Paige invites students to their first github project.
       - Students accept the project.
@@ -77,27 +92,8 @@
       - Make a Game over screen
       - We have a start screen so that the game doesn't just immediately start.  You need to start it yourself when you are ready.
  
-    - Show them gallery of MakeCode Arcade projects online and let&#39;s go through them and dissect one.
-      - Select &quot;Catch&quot; and click &quot;Start Tutorial&quot;
-      - Have the students pull up the game and play the game for 3 minutes
-      - We play it for a second in front of them and talk through it
-      - Teach acceleration
-      - Activity
-        - Then have students select any MakeCode arcade game and play with for 5 minutes. Meet with partner.
-          - What is the story? (5 mins total) Come back and each person explains the partner&#39;s chosen game. (10 mins)
-          - Meeting with partner. What is the game logic? What are the mechanics? (5 mins) Come back and explain partner&#39;s game logic and mechanics (10 mins)
-          - Work alone. Go through game code (10 mins). Figure out as much as the game code you can.
-          - Meet with partner (15 mins). Each partner walks the other partner through the game code at a high level.
-          - Meet back in class. Each student will walk through their chosen game and share with peers. (20 mins)
  
-      - To see the changes your partner has made to your project.
-        - Click on the Octocat button which now has a Down Arrow on it.
-        - Click the Green Pull Changes button.
-        - Press Go Back to see the changes in your project.
-      - What happens if you have a Commit that collides with your partner&#39;s changes?
-        - Show commit conflict dialog.
-        - Choose Resolve Commit.
-        - This will open github.com and you should save Close Pull Request at the bottom of the screen and force your partner to accept your version of the project and try again.
+
    - Brainstorming
       - Characters: 
           - The Fighter: A hero who fights the enemy with their fists, feet, or weapon.
