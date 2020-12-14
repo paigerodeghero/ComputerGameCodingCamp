@@ -15,6 +15,6 @@ TBA for 2021
 Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021.
 
 ## Media:
-[The Accessible Computer Science Education Fall Workshop: "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication"](https://www.microsoft.com/en-us/research/video/how-a-remote-video-game-coding-camp-improved-autistic-college-students-self-efficacy-in-communication/)
+[The Accessible Computer Science Education Fall Workshop Invited Talk at Microsoft: "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication"](https://www.microsoft.com/en-us/research/video/how-a-remote-video-game-coding-camp-improved-autistic-college-students-self-efficacy-in-communication/)
 
 [CGCC Schedule](outline.md)
