@@ -11,4 +11,7 @@ Conner Phillis (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (20
 ## Teaching Assistants:
 TBA for 2021
 
+## Publications:
+Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021.
+
 [CGCC Schedule](outline.md)
