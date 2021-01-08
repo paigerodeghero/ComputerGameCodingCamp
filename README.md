@@ -9,7 +9,7 @@ James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/
 Conner Phillis (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (CGCC 2020, 2021)
 
 ## Teaching Assistants:
-TBA for 2021
+Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)
 
 ## Peer-Reviewed Research Publications:
 Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021.
