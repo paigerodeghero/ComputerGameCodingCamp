@@ -7,7 +7,7 @@ In collaboration with [Thomas Beeson](https://www.clemson.edu/academics/studenta
 ## Instructors:
 James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/)) (CGCC 2020, 2021)  
 Makayla Moster (PhD student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)  
-Conner Phillis (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (CGCC 2020, 2021) 
+Conner Phillis (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (CGCC 2020, 2021)  
 Matthew Re (Undergraduate student at [University of South Carolina](https://sc.edu/)) (CGCC 2021) 
 
 ## Teaching Assistants:
