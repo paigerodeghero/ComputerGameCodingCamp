@@ -14,7 +14,7 @@ Matthew Re (Undergraduate student at [University of South Carolina](https://sc.e
 Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)
 
 ## Peer-Reviewed Research Publications:
-(1) Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021. [Link](https://andrewbegel.com/papers/autism-coding-camp.pdf) 
+(1) Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021. [Paper Link](https://andrewbegel.com/papers/autism-coding-camp.pdf)
 :tada: **_Best Paper Award_**
 
 ## Media:
