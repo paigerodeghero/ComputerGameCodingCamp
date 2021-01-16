@@ -1,5 +1,5 @@
 
-# :tiger2: Clemson Game Coding Camp (CGCC) :tiger2:
+# :tiger2: Clemson Game Coding Camp (CGCC)
 [Dr. Paige Anne Rodeghero](paigerodeghero.com) ([Clemson University](http://www.clemson.edu/))    
 [Dr. Andrew Begel](https://andrewbegel.com/) ([Microsoft Research](http://www.clemson.edu/)/[University of Washington](http://www.washington.edu/))    
 [Thomas Beeson](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html))
