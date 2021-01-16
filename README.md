@@ -1,21 +1,21 @@
 
-# :tiger2: Clemson Game Coding Camp (CGCC)
+# :tiger2: Code at Clemson 
 [Paige Anne Rodeghero, PhD](paigerodeghero.com) ([Clemson University](http://www.clemson.edu/))    
 [Andrew Begel, PhD](https://andrewbegel.com/) ([Microsoft Research](http://www.clemson.edu/)/[University of Washington](http://www.washington.edu/))    
 [Thomas Beeson, Ed.S, MA, BCBA](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson University - Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html))
 
 ## Instructors:
-James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/)) (CGCC 2020, 2021)  
-Makayla Moster (PhD student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)  
-Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (CGCC 2020, 2021)  
-Matthew Re (Undergraduate student at [University of South Carolina](https://sc.edu/)) (CGCC 2021) 
+James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021)  
+Makayla Moster (PhD student at [Clemson University](http://www.clemson.edu/)) (2021)  
+Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (2020, 2021)  
+Matthew Re (Undergraduate student at [University of South Carolina](https://sc.edu/)) (2021) 
 
 ## Teaching Assistants:
-Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)
+Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (2021)
 
 ## Camp Guest Speakers:
-Peli de Halleux, PhD, Microsoft MakeCode Team (CGCC 2020)   
-Richard Knoll, Microsoft MakeCode Team (CGCC 2020)
+Peli de Halleux, PhD, Microsoft MakeCode Team (2020)   
+Richard Knoll, Microsoft MakeCode Team (2020)
 
 ## Peer-Reviewed Research Publications:
 (1) Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021. :tada: **_Best Paper Award_** :tada: [Paper Link](https://andrewbegel.com/papers/autism-coding-camp.pdf) 
