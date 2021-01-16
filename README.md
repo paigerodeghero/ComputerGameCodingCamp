@@ -14,7 +14,7 @@ Matthew Re (Undergraduate student at [University of South Carolina](https://sc.e
 Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)
 
 ## Camp Guest Speakers:
-Peli de Halleux, Microsoft MakeCode Team (CGCC 2020)   
+Peli de Halleux, PhD, Microsoft MakeCode Team (CGCC 2020)   
 Richard Knoll, Microsoft MakeCode Team (CGCC 2020)
 
 ## Peer-Reviewed Research Publications:
