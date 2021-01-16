@@ -1,5 +1,5 @@
 
-# Clemson Game Coding Camp (CGCC)
+# :tiger2: Clemson Game Coding Camp (CGCC) :tiger2:
 [Dr. Paige Anne Rodeghero](paigerodeghero.com) ([Clemson University](http://www.clemson.edu/))    
 [Dr. Andrew Begel](https://andrewbegel.com/) ([Microsoft Research](http://www.clemson.edu/)/[University of Washington](http://www.washington.edu/))    
 [Thomas Beeson](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html))
@@ -14,7 +14,7 @@ Matthew Re (Undergraduate student at [University of South Carolina](https://sc.e
 Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (CGCC 2021)
 
 ## Camp Guest Speakers:
-Peli de Halleux, Microsoft MakeCode Team (CGCC 2020) 
+Peli de Halleux, Microsoft MakeCode Team (CGCC 2020)   
 Richard Knoll, Microsoft MakeCode Team (CGCC 2020)
 
 ## Peer-Reviewed Research Publications:
