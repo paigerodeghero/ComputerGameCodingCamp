@@ -10,9 +10,6 @@ Makayla Moster (PhD student at [Clemson University](http://www.clemson.edu/)) (2
 Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (2020, 2021)  
 Matthew Re (Undergraduate student at [University of South Carolina](https://sc.edu/)) (2021) 
 
-## Teaching Assistants:
-Caroline Patterson (Undergraduate student at [Clemson University](http://www.clemson.edu/)) (2021)
-
 ## Camp Guest Speakers:
 Peli de Halleux, PhD, Microsoft MakeCode Team (2020)   
 Richard Knoll, Microsoft MakeCode Team (2020)
