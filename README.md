@@ -1,5 +1,5 @@
 
-# :tiger2: Code at Clemson 
+# :tiger2: Clemson Game Coding Camp
 
 ## Lead by:
 [Paige Anne Rodeghero, PhD](paigerodeghero.com) ([Clemson University](http://www.clemson.edu/))    
