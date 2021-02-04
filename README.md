@@ -6,8 +6,8 @@
 [Andrew Begel, PhD](https://andrewbegel.com/) ([Microsoft Research](http://www.clemson.edu/)/[University of Washington](http://www.washington.edu/))   
 
 ## Collaborators 
-[Thomas Beeson, Ed.S, MA, BCBA](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson University - Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html)) (2020, 2021)  
 [Jeanette Ashworth, PhD](https://www.jeanetteashworth.com/) (2021)
+[Thomas Beeson, Ed.S, MA, BCBA](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson University - Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html)) (2020, 2021)  
 
 ## Instructors & Content Developers:
 James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021)  
