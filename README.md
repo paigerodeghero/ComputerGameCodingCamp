@@ -10,7 +10,7 @@
 [Thomas Beeson, Ed.S, MA, BCBA](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson University - Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html)) (2020, 2021)  
 
 ## Instructors & Content Developers:
-Jason Lehmann, B.S. (QA Lead at [Aspiritech](https://www.aspiritech.org/) (2021)
+Jason Lehmann, B.S. (QA Lead at [Aspiritech](https://www.aspiritech.org/) (2021) 
 Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (2020, 2021)  
 James Dominic, M.S. (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021)  
 Ella Kokinda, B.S. (PhD student at [Clemson University](http://www.clemson.edu/)) (2021)    
