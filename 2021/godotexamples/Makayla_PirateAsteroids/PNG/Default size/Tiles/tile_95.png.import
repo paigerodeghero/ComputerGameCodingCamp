@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tile_95.png-4d1d50af155d408d6a21c2bb78dd781d.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://PNG/Default size/Tiles/tile_95.png"
+dest_files=[ "res://.import/tile_95.png-4d1d50af155d408d6a21c2bb78dd781d.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

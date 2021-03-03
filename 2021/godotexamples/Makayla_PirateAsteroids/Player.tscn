@@ -1,0 +1,47 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://PNG/Retina/Ships/ship (2).png" type="Texture" id=1]
+[ext_resource path="res://Player.gd" type="Script" id=2]
+[ext_resource path="res://CannonBall.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Explosion.tscn" type="PackedScene" id=4]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 17.0
+height = 36.0
+
+[node name="Player" type="RigidBody2D"]
+contacts_reported = 1
+contact_monitor = true
+linear_damp = 1.0
+angular_damp = 5.0
+script = ExtResource( 2 )
+CannonBall = ExtResource( 3 )
+
+[node name="Sprite" type="Sprite" parent="."]
+rotation = -1.5708
+scale = Vector2( 0.75, 0.75 )
+texture = ExtResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+rotation = -1.5708
+shape = SubResource( 1 )
+
+[node name="Cannon" type="Position2D" parent="."]
+position = Vector2( 40, 0 )
+
+[node name="CannonTimer" type="Timer" parent="."]
+wait_time = 0.5
+one_shot = true
+autostart = true
+
+[node name="Explosion" parent="." instance=ExtResource( 4 )]
+
+[node name="InvulnerabilityTimer" type="Timer" parent="."]
+wait_time = 2.0
+one_shot = true
+[connection signal="body_entered" from="." to="." method="_on_Player_body_entered"]
+[connection signal="timeout" from="CannonTimer" to="." method="_on_CannonTimer_timeout"]
+[connection signal="animation_finished" from="Explosion/AnimationPlayer" to="." method="_on_AnimationPlayer_animation_finished"]
+[connection signal="timeout" from="InvulnerabilityTimer" to="." method="_on_InvulnerabilityTimer_timeout"]
+
+[editable path="Explosion"]

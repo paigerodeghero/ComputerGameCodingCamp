@@ -1,0 +1,50 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Main.gd" type="Script" id=1]
+[ext_resource path="res://Player.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Enemy.tscn" type="PackedScene" id=3]
+[ext_resource path="res://PNG/Retina/Tiles/tile_73.png" type="Texture" id=4]
+[ext_resource path="res://HUD.tscn" type="PackedScene" id=5]
+
+[sub_resource type="Curve2D" id=1]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1023, 0, 0, 0, 0, 0, 1023, 599, 0, 0, 0, 0, 0, 599, 0, 0, 0, 0, 0, 1 )
+}
+
+[node name="Main" type="Node"]
+pause_mode = 2
+script = ExtResource( 1 )
+Enemy = ExtResource( 3 )
+
+[node name="Player" parent="." instance=ExtResource( 2 )]
+pause_mode = 1
+
+[node name="EnemyPath" type="Path2D" parent="."]
+curve = SubResource( 1 )
+
+[node name="EnemySpawn" type="PathFollow2D" parent="EnemyPath"]
+position = Vector2( 0, 1 )
+rotation = -0.000977546
+
+[node name="Enemies" type="Node" parent="."]
+pause_mode = 1
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="TextureRect" type="TextureRect" parent="ParallaxBackground/ParallaxLayer"]
+margin_right = 2047.0
+margin_bottom = 1201.0
+texture = ExtResource( 4 )
+stretch_mode = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HUD" parent="." instance=ExtResource( 5 )]
+pause_mode = 1
+[connection signal="dead" from="Player" to="." method="game_over"]
+[connection signal="lives_changed" from="Player" to="HUD" method="update_lives"]
+[connection signal="shoot" from="Player" to="." method="_on_Player_shoot"]
+[connection signal="start_game" from="HUD" to="." method="new_game"]
