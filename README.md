@@ -37,7 +37,7 @@ Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/
 [James Dominic, M.S.](https://domini4.github.io/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021)  
 [Ella Kokinda, B.S.](https://ella.dev/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021)    
 [Makayla Moster, B.S.](https://makayla-moster.github.io) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021)  
-Matthew Re (Undergraduate student at [University of South Carolina](https://sc.edu/)) (2021) 
+Matthew Re, B.S. ([University of South Carolina](https://sc.edu/)) (2021) 
 
 &nbsp;
 # \*Camp Guest Speakers\*
