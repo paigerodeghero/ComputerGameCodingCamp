@@ -22,7 +22,7 @@ Email: [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact]
 
 
 &nbsp;
-# \*Team\* 
+# \*Camp Team\* 
 
 ### Lead by:
 [Paige Anne Rodeghero, PhD](paigerodeghero.com) ([Clemson University](http://www.clemson.edu/))    
