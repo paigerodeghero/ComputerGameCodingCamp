@@ -2,9 +2,21 @@
 # &#x1f42f; Clemson Game Coding Camp &#x1f42f;
 Clemson Game Coding Camp is an exciting two-week camp for high school students and rising seniors on the autism spectrum (ASD) that exposes them to high-level video game development and networking with peers. Throughout the two-week camp, campers learn the high-level processes of software development, game development, interpersonal communication, collaboration, and end up with their own game, from scratch.  
 
-Campers have the option to partipate in-person or virtually.  In-person campers will stay on Clemson University's campus.
+The two-week coding camp is being provided in two formats, virtual through Zoom and in-person (on the Clemson University campus).
 
-Campers can register for the first half (week 1) or both weeks.  
+This camp is offered as a two week program with meetings Monday-Friday. Students may participate fully online, fully in-person, or choose one week to be online and the other week to be in-person. It is recommended that students register for both weeks. 
+
+In addition to learning to code, students who reside on campus will participate in activities and instruction designed to further develop their executive functioning, problem-solving, and self-advocacy skills, which are necessary for college success.
+
+If in-person course is selected for both weeks, arrival will be Sunday, June 13 and stay until Saturday, June 26. Due to COVID, if you choose 2 weeks in person a weekend stay is required. There is no additional fee.
+
+
+## Camp Dates:
+
+Week 1 Monday, June 14 through Friday, June 18, 2021 
+Week 2 Monday, June 21 through Friday, June 25, 2021
+
+The Zoom virtual sessions will run from 12:30 - 3:30pm EST Monday through Friday. The in-person students will have morning instruction related to college readiness and coding sessions from 12:30 - 3:30pm EST Monday through Friday.
 
 ## [Sign up here!](https://www.clemson.edu/summer/summer-scholars/cusp.html?utm_medium=email&_hsmi=118725944&_hsenc=p2ANqtz-9aFnvVFjiX19Y8_Jph8Qiatj7tRdb49FShUfV97XVcsNc23R1kEiQ6SNQmc4CUelt1RDkynHwR7xBmtYiyxgtMjDK7isSjyYylvk2O89UEs-dN8gg&utm_content=118725944&utm_source=hs_email)
 
