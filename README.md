@@ -17,8 +17,7 @@ The Zoom virtual sessions will run from 12:30 - 3:30pm EST Monday through Friday
 
 
 
-## 	&#x2753; Questions? Contact Us
-Email: [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact])
+## 	&#x2753; Questions? Contact us at: [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact])
 
 
 &nbsp;
