@@ -9,8 +9,11 @@ Campers can register for the first half (week 1) or both weeks.
 ## [Sign up here!](https://www.clemson.edu/summer/summer-scholars/cusp.html?utm_medium=email&_hsmi=118725944&_hsenc=p2ANqtz-9aFnvVFjiX19Y8_Jph8Qiatj7tRdb49FShUfV97XVcsNc23R1kEiQ6SNQmc4CUelt1RDkynHwR7xBmtYiyxgtMjDK7isSjyYylvk2O89UEs-dN8gg&utm_content=118725944&utm_source=hs_email)
 
 
+
+
 ## Questions? Contact Us
 Email: [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact])
+
 
 
 ## Team 
