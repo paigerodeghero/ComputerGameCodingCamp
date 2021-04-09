@@ -54,11 +54,11 @@ Richard Knoll, Microsoft MakeCode Team (2020)
 
 &nbsp;
 # \*Want to collaborate?\*
-We are always looking for collaborators. Feel free to reach out and email our team!
+We are always looking for collaborators. Feel free to reach out and [email](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact]) our team!
 
 &nbsp;
 # \*Sponsorships\*
-We'd love to provide our campers with swag and goodies that are shipped to their homes before our camp every year.  We would also like to support our volunteers if at all possible for all the time that they devote to this camp.  If you'd like to help fund our camp, please email cgcc@clemson.edu
+We'd love to provide our campers with swag and goodies that are shipped to their homes before our camp every year.  We would also like to support our volunteers if at all possible for all the time that they devote to this camp.  If you'd like to help fund our camp, please email [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact]).
 
 &nbsp;
 # \*Acknowledgements\*
