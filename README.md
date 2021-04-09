@@ -13,7 +13,7 @@ Week 2 Monday, June 21 through Friday, June 25, 2021
 
 The Zoom virtual sessions will run from 12:30 - 3:30pm EST Monday through Friday. The in-person campers will have morning instruction related to college readiness and coding sessions from 12:30 - 3:30pm EST Monday through Friday.
 
-## [&#x1F3AE; Sign up here!](https://www.clemson.edu/summer/summer-scholars/cusp.html?utm_medium=email&_hsmi=118725944&_hsenc=p2ANqtz-9aFnvVFjiX19Y8_Jph8Qiatj7tRdb49FShUfV97XVcsNc23R1kEiQ6SNQmc4CUelt1RDkynHwR7xBmtYiyxgtMjDK7isSjyYylvk2O89UEs-dN8gg&utm_content=118725944&utm_source=hs_email)
+## &#x1F3AE; [Sign up here!](https://www.clemson.edu/summer/summer-scholars/cusp.html?utm_medium=email&_hsmi=118725944&_hsenc=p2ANqtz-9aFnvVFjiX19Y8_Jph8Qiatj7tRdb49FShUfV97XVcsNc23R1kEiQ6SNQmc4CUelt1RDkynHwR7xBmtYiyxgtMjDK7isSjyYylvk2O89UEs-dN8gg&utm_content=118725944&utm_source=hs_email)
 
 
 
