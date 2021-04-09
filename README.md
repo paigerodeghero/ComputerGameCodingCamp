@@ -9,8 +9,8 @@ This camp is offered as a two week program with meetings Monday-Friday. Students
 In addition to learning to code, students who reside on campus will participate in activities and instruction designed to further develop their executive functioning, problem-solving, and self-advocacy skills, which are necessary for college success.
 
 
-2021 Camp Dates:
-Week 1 Monday, June 14 through Friday, June 18, 2021 
+**2021 Camp Dates:** 
+Week 1 Monday, June 14 through Friday, June 18, 2021   
 Week 2 Monday, June 21 through Friday, June 25, 2021
 
 The Zoom virtual sessions will run from 12:30 - 3:30pm EST Monday through Friday. The in-person students will have morning instruction related to college readiness and coding sessions from 12:30 - 3:30pm EST Monday through Friday.
