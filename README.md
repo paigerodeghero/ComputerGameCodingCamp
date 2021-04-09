@@ -1,14 +1,12 @@
 
 # Clemson Game Coding Camp
-
-## About
 Clemson Game Coding Camp is an exciting two-week camp for high school students and rising seniors on the autism spectrum (ASD) that exposes them to high-level video game development and networking with peers. Throughout the two-week camp, campers learn the high-level processes of software development, game development, interpersonal communication, collaboration, and end up with their own game, from scratch.  
 
 Campers have the option to partipate in-person or virtually.  In-person campers will stay on Clemson University's campus.
 
 Campers can register for the first half (week 1) or both weeks.  
 
-## Sign up
+## Sign up!
 [Sign up here.](https://www.clemson.edu/summer/summer-scholars/cusp.html?utm_medium=email&_hsmi=118725944&_hsenc=p2ANqtz-9aFnvVFjiX19Y8_Jph8Qiatj7tRdb49FShUfV97XVcsNc23R1kEiQ6SNQmc4CUelt1RDkynHwR7xBmtYiyxgtMjDK7isSjyYylvk2O89UEs-dN8gg&utm_content=118725944&utm_source=hs_email)
 
 ## Contact Us:
