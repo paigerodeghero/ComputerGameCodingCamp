@@ -10,7 +10,7 @@ Campers can register for the first half (week 1) or both weeks.
 
 
 
-
+&nbsp;
 ## Questions? Contact Us
 Email: [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact])
 
