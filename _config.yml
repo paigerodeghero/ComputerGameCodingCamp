@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
+
 github:
   is_project_page: false
+
+name: something
+title: null
