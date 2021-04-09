@@ -6,7 +6,7 @@ The two-week coding camp is being provided in two formats, virtual through Zoom 
 
 This camp is offered as a two week program with meetings Monday-Friday. Students may participate fully online, fully in-person, or choose one week to be online and the other week to be in-person. It is recommended that students register for both weeks. 
 
-&nbsp;In addition to learning to code, students who reside on campus will participate in activities and instruction designed to further develop their executive functioning, problem-solving, and self-advocacy skills, which are necessary for college success.
+In addition to learning to code, students who reside on campus will participate in activities and instruction designed to further develop their executive functioning, problem-solving, and self-advocacy skills, which are necessary for college success.
 
 
 ## Camp Dates:
