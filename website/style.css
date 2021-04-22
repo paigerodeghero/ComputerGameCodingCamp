@@ -124,16 +124,22 @@ h2, h4  {
   50% { border-color: #659F22}
 }
 
+/* Use footerScrollContent when there's scrolling on the page, it keeps the footer as the last thing on the page. */
+
 .footerScrollContent {
   position: relative !important;
   bottom: 0;
   width: 100%;
   text-align: center;
+  padding-top: 15% !important;
 }
+
+/* Use footer when there's no scrolling - it puts the footer at the bottom of the page all nice-like */
 
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   text-align: center;
+  padding-top: 15% !important;
 }
