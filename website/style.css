@@ -108,8 +108,8 @@ h2, h4  {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .01em; /* Adjust as needed */
   animation:
-    typing 4.5s steps(30, end),
-    blink-caret .7s step-end infinite;
+    typing 4.5s steps(30, end);
+    /* blink-caret .7s step-end infinite; */
 }
 
 /* The typing effect */
@@ -119,10 +119,10 @@ h2, h4  {
 }
 
 /* The typewriter cursor effect */
-@keyframes blink-caret {
+/* @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: #659F22}
-}
+} */
 
 /* Use footerScrollContent when there's scrolling on the page, it keeps the footer as the last thing on the page. */
 
