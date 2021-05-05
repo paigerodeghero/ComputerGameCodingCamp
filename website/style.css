@@ -1,0 +1,145 @@
+/* @font-face {
+    font-family: 'source_code_proregular';
+    src: url('sourcecodepro-regular-webfont.woff2') format('woff2'),
+         url('sourcecodepro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+} */
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('font/hack-regular-webfront.woff2') format('woff2'), /* Super Modern Browsers */
+       url('font/hack-regular-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('font/Hack-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('font/hack-bold-webfront.woff2') format('woff2'), /* Super Modern Browsers */
+       url('font/hack-bold-webfont.woff') format('woff'); /* Pretty Modern Browsers */
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('font/hack-italic-webfront.woff2') format('woff2'), /* Super Modern Browsers */
+       url('font/hack-italic-webfont.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('font/hack-bolditalic-webfront.woff2') format('woff2'), /* Super Modern Browsers */
+       url('font/hack-bolditalic-webfont.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: italic;
+  font-weight: bold;
+}
+
+body, h1, h2, h3, h4, h5, h6, a, p, div, li, ol, ul {
+  font-family: 'MyWebFont' !important;
+  background-color: black;
+  color: white;
+  font-weight: normal;
+}
+
+h1 {
+  color: white;
+  font-family: 'MyWebFont';
+  font-weight: normal;
+  font-size: 36px;
+}
+
+h2 {
+  color: #88FB04;
+  font-family: 'MyWebFont';
+  font-weight: normal;
+  font-size: 28px;
+}
+.greenFont{
+  color: #88FB04;
+}
+
+h1, h3, h5 {
+  color: white;
+}
+
+h2, h4  {
+  color: #88FB04;
+}
+
+.navBar {
+  color: black;
+  background-color: #88FB04;
+}
+
+.navBarHover:hover{
+  color:black;
+  background-color: #659F22;
+}
+
+.people{
+  display: flex;
+  align-items: stretch;
+  clear: both;
+}
+
+.people div{
+  align-items: center;
+  padding-top: 7%;
+  padding-left: 5%;
+  font-family: 'MyWebFont';
+}
+
+.people img{
+  padding-top: 5%;
+  width: 25%;
+  height: 25%;
+}
+
+.typewriter h1 {
+  /* color: #fff; */
+  /* font-family: monospace; */
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid #659F22; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .01em; /* Adjust as needed */
+  animation:
+    typing 4.5s steps(30, end);
+    /* blink-caret .7s step-end infinite; */
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+/* @keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #659F22}
+} */
+
+/* Use footerScrollContent when there's scrolling on the page, it keeps the footer as the last thing on the page. */
+
+.footerScrollContent {
+  position: relative !important;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 15% !important;
+}
+
+/* Use footer when there's no scrolling - it puts the footer at the bottom of the page all nice-like */
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 15% !important;
+}

@@ -1,6 +1,6 @@
 
 # &#x1f42f; Computer Game Coding Camp for Autism &#x1f42f;
-Computer Game Coding Camp for Autism is a two-week camp for high school students and rising seniors on the autism spectrum (ASD) that exposes them to high-level video game development and networking with peers. Throughout the two-week camp, campers learn the high-level processes of software development, game development, interpersonal communication, collaboration, and end up with their own game, from scratch.    
+Computer Game Coding Camp (CGCC) for Autism is a two-week camp for high school students and rising seniors on the autism spectrum (ASD) that exposes them to high-level video game development and networking with peers. Throughout the two-week camp, campers learn the high-level processes of software development, game development, interpersonal communication, collaboration, and end up with their own game, from scratch.    
 
 We are excited to host this camp for the second year in a row. This year, our two-week coding camp will be provided in two formats, virtual through Zoom and in-person (on the Clemson University campus). Campers may participate fully online, fully in-person, or choose one week to be online and the other week to be in-person. It is recommended that campers register for both weeks. 
 
