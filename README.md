@@ -41,6 +41,7 @@ Matthew Re, B.S. ([University of South Carolina](https://sc.edu/)) (2021)
 
 &nbsp;
 # \*Camp Guest Speakers\*
+Kaylin Norman-Slack, The Pokémon Company International (2021)   
 Peli de Halleux, PhD, Microsoft MakeCode Team (2020)   
 Richard Knoll, Microsoft MakeCode Team (2020)
 
