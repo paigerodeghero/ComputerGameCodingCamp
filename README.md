@@ -64,7 +64,6 @@ We'd love to provide our campers with swag and goodies that are shipped to their
 
 &nbsp;
 # \*Acknowledgements\*
-First, we would like to thank our campers for participanting in the camps.  Second, we would like to give a loud shout out to the Microsoft MakeCode Team for their all of their assistance with technical issues both during the camp and the many months before. Third, we would like to thank our guest speakers Peli de Halleux and Richard Knoll.
-
+First, we would like to thank our campers for participanting in the camps.  Second, we would like to give a loud shout out to the Microsoft MakeCode Team for their all of their assistance with technical issues both during the camp and the many months before. Third, we would like to thank our guest speakers. 
 
 
