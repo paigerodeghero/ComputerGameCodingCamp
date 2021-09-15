@@ -1,0 +1,1244 @@
+id,day,talking,listening,words
+1,1,Freddie,"Adam, Freddie, Mason, TA",117
+2,1,TA,Mason,43
+3,1,Mason,"TA, Freddieand Adam",35
+4,1,TA,Mason,107
+5,1,TA,"Mason, Freddie, Adam",160
+6,1,Mason,"TA, Freddie, Adam",6
+7,1,TA,"Freddie, Mason, Adam",58
+8,1,Adam,The group ,139
+9,1,TA,"Adam, Freddie",64
+10,1,Freddie,TA ,23
+11,1,TA,Freddie,6
+12,1,Freddie,TA,14
+13,1,TA,Freddie,12
+14,1,Freddie,TA,32
+15,1,TA,Freddie,42
+16,1,Freddie,TA,10
+17,1,TA,"Adam, Freddie, Mason",121
+18,1,Freddie,"TA, Adam, Mason",158
+19,1,TA,Freddie,20
+20,1,Freddie,TA,25
+21,1,TA,Freddie/Adam,11
+22,1,Adam,"TA, Freddie, Mason",124
+23,1,TA,Adam,9
+24,1,Adam,"TA, Freddie, Mason",74
+25,1,TA,Group/Mason,162
+26,1,Freddie,TA,8
+27,1,TA,Freddie,35
+28,1,Freddie,TA,3
+29,1,TA,Freddie,108
+30,1,Freddie,TA,8
+31,1,TA,Freddie,162
+32,1,Freddie,TA,34
+33,1,TA,Freddie/group,106
+34,1,TA,"Freddie, Adam, Mason",88
+35,1,Adam,Group,14
+36,1,Freddie,Adam,2
+37,1,Adam,Freddie,16
+38,1,TA,"Adam, Freddie",41
+39,1,Freddie,TA,10
+40,1,TA,Freddie,15
+41,1,Freddie,TA,11
+42,1,Adam,Freddie,11
+43,1,TA,Group,13
+44,1,Freddie,TA/Group,13
+45,1,TA,Freddie,21
+46,1,Adam,TA,15
+47,1,TA,Adam/Freddie,14
+48,1,Adam,TA,14
+49,1,Adam,TA,8
+50,1,TA,Adam,21
+51,1,Adam,TA,6
+52,1,TA,Adam,1
+53,1,Freddie,Adam/TA,27
+54,1,Adam,Freddie,27
+55,1,Adam,Freddie/TA,25
+56,1,TA,Group,11
+57,1,Freddie,TA,1
+58,1,TA,Freddie,7
+59,1,Freddie,TA,2
+60,1,TA,Freddie/Mason/Adam,76
+61,1,Freddie,TA,5
+62,1,Adam,Group,5
+63,1,TA,Adam,8
+64,1,Adam,TA,10
+65,1,Freddie,Adam,9
+66,1,TA,Adam/Freddie,111
+67,1,Freddie,TA,17
+68,1,Adam,TA,6
+69,1,TA,Group,228
+70,1,Freddie,Group,4
+71,1,Adam,Group,6
+72,1,Freddie,Adam,16
+73,1,Adam,Freddie,17
+74,1,Freddie,Adam,10
+75,1,Adam,Freddie,4
+76,1,Freddie,Adam,11
+77,1,TA,Group,25
+78,1,Freddie,Group,5
+79,1,Adam,Freddie,2
+80,1,Freddie,Adam,35
+81,1,Adam,Freddie,24
+82,1,Freddie,Adam,17
+83,1,TA,"Freddie, Adam, Mason",78
+84,1,Freddie,TA,11
+85,1,TA,Freddie,11
+86,1,Adam,"Freddie, Mason, TA",1
+87,1,TA,"Freddie, Adam, Mason",15
+88,1,Freddie,"TA, Adam, Mason",50
+89,1,Adam,Freddie,6
+90,1,TA,"Freddie, Adam, Mason",32
+91,1,Freddie,TA,14
+92,1,TA,Freddiee,85
+93,1,Freddie,TA,2
+94,1,TA,Freddie,18
+95,1,Freddie,TA,4
+96,1,TA,Freddie,7
+97,1,Freddie,TA,6
+98,1,TA,Freddie,8
+99,1,Freddie,TA,17
+100,1,TA,Freddie,17
+101,1,Freddie,TA,2
+102,1,TA,Freddie,27
+103,1,Freddie,TA,13
+104,1,TA,Freddie,10
+105,1,Freddie,TA,5
+106,1,TA,Freddie/Group,44
+107,1,Freddie,Group,2
+108,1,TA,Freddie,14
+109,1,Freddie,TA,20
+110,1,TA,Freddie/Group,198
+111,1,Freddie,TA,3
+112,1,TA,Group,98
+113,1,Adam,Group,18
+114,1,TA,Adam,18
+115,1,TA,Adam,42
+116,1,Adam,"TA, Freddie",6
+117,1,TA,Adam,7
+118,1,Adam,"TA, Freddie",25
+119,1,Freddie,Adam,12
+120,1,TA,"Adam, Freddie",21
+121,1,TA,"Adam, Freddie",89
+122,1,Adam,TA,6
+123,1,TA,Adam,14
+124,1,Adam,"TA, Freddie",25
+125,1,Adam,TA,9
+126,1,Adam,TA,13
+127,1,TA,Adam,36
+128,1,Adam,TA,53
+129,1,TA,Adam,21
+130,1,Adam,TA,7
+131,1,TA,"Freddie, Adam",23
+132,1,Adam,TA,7
+133,1,TA,Adam/Freddie,55
+134,1,Freddie,"TA, Adam",13
+135,1,Freddie,TA,24
+136,1,TA,Freddie,9
+137,1,Freddie,TA,4
+138,1,TA,Freddie,25
+139,1,Freddie,TA,1
+140,1,TA,Freddie,17
+141,1,Freddie,TA,24
+142,1,TA,Freddie,3
+143,1,Freddie,TA/Group,50
+144,1,TA,Freddie,10
+145,1,Freddie,TA,22
+146,1,TA,Freddie,11
+147,1,Freddie,TA,13
+148,1,TA,"Freddie, Adam",58
+149,1,Freddie,(Talking to himself),41
+150,1,Freddie,TA,9
+151,1,Freddie,"TA, Adam",60
+152,1,Freddie,(Himself),16
+153,1,TA,Freddie,7
+154,1,Freddie,TA,26
+155,1,TA,Freddie,3
+156,1,Freddie,"TA, Adam",20
+157,1,TA,Freddie,13
+158,1,Freddie,TA,25
+159,1,Freddie,TA,6
+160,1,TA,Freddie,17
+161,1,Freddie,TA,50
+162,1,Freddie,TA,10
+163,1,TA,Freddie,14
+164,1,Freddie,TA,38
+165,1,Freddie,"TA,Adam",81
+166,1,TA,Freddie,35
+167,1,Freddie,TA,22
+168,1,TA,Freddie,18
+169,1,Freddie,TA,27
+170,1,TA,Freddie,24
+171,1,Freddie,TA,11
+172,1,Freddie,TA,17
+173,1,TA,Freddie,16
+174,1,Freddie,TA,32
+175,1,TA,Freddie,18
+176,1,TA,Freddie,17
+177,1,Freddie,Group,11
+178,1,TA,Freddie,19
+179,1,Freddie,TA,80
+180,1,TA,Freddie,9
+181,1,Freddie,TA,63
+182,1,TA,Freddie,15
+183,1,TA,Freddie,54
+184,1,Freddie,TA,34
+185,1,Freddie,TA,13
+186,1,Adam,Freddie,6
+187,1,Freddie,Adam,5
+188,1,Adam,Freddie,6
+189,1,Freddie,Adam,16
+190,1,Adam,Freddie,3
+191,1,Adam,Freddie,20
+192,1,Freddie,Adam,33
+193,1,Adam,"Freddie, TA",52
+194,1,TA,Adam,11
+195,1,TA,Adam,11
+196,1,Freddie,Himself,29
+197,1,TA,Adam,20
+198,1,Adam,TA,3
+199,1,TA,Adam,23
+200,1,Adam,"Freddie, TA",7
+201,1,Adam,Freddie/Group,21
+202,1,Freddie,Adam,10
+203,1,Adam,Freddie/Group,7
+204,1,Freddie,Adam,38
+205,1,Freddie,"Himself, Adam, TA",46
+206,1,TA,Freddie,12
+207,1,Freddie,TA,18
+208,1,Freddie,TA,25
+209,1,Adam,Freddie,5
+210,1,Freddie,Himself,109
+211,1,TA,Freddie,15
+212,1,TA,"TA, Freddie, Adam, Mason",54
+213,1,Freddie,TA,9
+214,1,TA,TA,9
+215,1,TA,Group,7
+216,1,TA,TA,6
+217,1,Freddie,Group,11
+218,1,TA,Group,18
+219,1,Freddie,TA,10
+220,1,TA,"Mason, Freddie, TA, Adam",41
+221,1,Freddie,TA,10
+222,1,TA,Freddie,9
+223,1,TA,TA,27
+224,1,Freddie,TA,15
+225,1,TA,Freddie,7
+226,1,TA,Freddie,42
+227,1,TA,Freddie,4
+228,1,Freddie,TA,5
+229,1,TA,Freddie,4
+230,1,Freddie,TA,1
+231,1,TA,Freddie,9
+232,1,Freddie,TA,5
+233,1,TA,Freddie/TA,10
+234,1,TA,TA/Group,51
+235,1,TA,Group,25
+236,1,Freddie,TA,7
+237,1,TA,Freddie,23
+238,1,TA,Freddie,37
+239,1,Freddie,TA,10
+240,1,TA,Freddie,14
+241,2,TA,"Adam, Freddie, Mason",14
+242,2,TA,"Adam, Freddie, Mason",26
+243,2,Freddie,TA,21
+244,2,Adam,TA,4
+245,2,Adam,TA,37
+246,2,TA,"Adam, Freddie, Mason",40
+247,2,TA,"Adam, Freddie, Mason",65
+248,2,TA,Mason,24
+249,2,Freddie,TA,5
+250,2,TA,Freddie,29
+251,2,TA,TA,20
+252,2,TA,"Adam, Freddie, Mason",23
+253,2,Freddie,TA,10
+254,2,TA,"Adam, Freddie, Mason",14
+255,2,Freddie,TA,10
+256,2,TA,Freddie,83
+257,2,Freddie,TA,15
+258,2,TA,Freddie,3
+259,2,Freddie,TA,7
+260,2,TA,"Adam, Freddie, Mason",26
+261,2,Freddie,TA,22
+262,2,TA,Freddie,25
+263,2,TA,Freddie,32
+264,2,Freddie,TA,9
+265,2,TA,"Freddie, Adam, Mason",50
+266,2,Freddie,TA,4
+267,2,TA,"Freddie, Adam, Mason",24
+268,2,Freddie,TA,2
+269,2,TA,"Freddie, Adam, Mason",15
+270,2,Freddie,TA,42
+271,2,Adam,TA,9
+272,2,Freddie,Adam,11
+273,2,Adam,Freddie,5
+274,2,TA,"Freddie, Adam, Mason",78
+275,2,Freddie,TA,10
+276,2,Adam,TA/Freddie,13
+277,2,TA,Adam/Freddie,98
+278,2,Freddie,TA,15
+279,2,TA,Freddie,29
+280,2,TA,"Adam, Freddie, Mason",40
+281,2,Freddie,TA,24
+282,2,TA,"Adam, Freddie, Mason",14
+283,2,Freddie,TA,9
+284,2,Freddie,TA,26
+285,2,TA,Mason,3
+286,2,Freddie,TA,5
+287,2,TA,TA,4
+288,2,TA,TA,4
+289,2,TA,"Adam, Freddie, Mason",22
+290,2,Mason,TA,5
+291,2,TA,Mason,11
+292,2,Mason,TA,43
+293,2,TA,"Adam, Freddie, Mason",45
+294,2,TA,"Adam, Freddie, Mason, TA",87
+295,2,Freddie,TA,9
+296,2,TA,"Adam, Freddie, Mason",56
+297,2,TA,"Adam, Freddie, Mason",17
+298,2,Freddie,TA,1
+299,2,TA,"Adam, Freddie, Mason",57
+300,2,Freddie,TA,9
+301,2,Adam,TA,12
+302,2,TA,Mason,36
+303,2,Mason,TA,40
+304,2,TA,Mason,19
+305,2,Mason,TA,1
+306,2,TA,Mason,63
+307,2,Mason,TA,14
+308,2,TA,Mason,3
+309,2,TA,"Adam, Freddie, Mason",4
+310,2,TA,"Adam, Freddie, Mason",20
+311,2,TA,TA,3
+312,2,TA,"Adam, Freddie, Mason",33
+313,2,TA,TA,99
+314,2,TA,TA,3
+315,2,TA,"Adam, Freddie, Mason",18
+316,2,TA,TA,5
+317,2,TA,TA,13
+318,2,TA,TA,9
+319,2,TA,"Mason, Adam",143
+320,2,Freddie,TA,22
+321,2,TA,Freddie,49
+322,2,TA,"Freddie, Adam, Mason",20
+323,2,Freddie,TA,7
+324,2,TA,Freddie,5
+325,2,TA,"Freddie, Adam, Mason",26
+326,2,Freddie,TA,3
+327,2,TA,Freddie,49
+328,2,Freddie,TA,7
+329,2,TA,Freddie,36
+330,2,Adam,Group,6
+331,2,TA,"Adam, Freddie, Mason",30
+332,2,Freddie,TA,7
+333,2,TA,Freddie,10
+334,2,Freddie,TA,5
+335,2,Adam,TA,21
+336,2,Freddie,TA,4
+337,2,TA,"Adam, Freddie, Mason",15
+338,2,Freddie,TA,6
+339,2,TA,"Adam, Freddie, Mason",6
+340,2,Freddie,TA,12
+341,2,Freddie,TA/TA,19
+342,2,Adam,Freddie,4
+343,2,Freddie,Adam,15
+344,2,TA,Group,15
+345,2,Freddie,TA,3
+346,2,TA,Freddie,14
+347,2,Freddie,TA,40
+348,2,Adam,Freddie,6
+349,2,Adam,Freddie,9
+350,2,TA,Mason,53
+351,2,TA,Group,23
+352,2,TA,"Adam, Mason, Freddie",7
+353,2,Adam,TA,5
+354,2,Freddie,Adam,4
+355,2,Adam,"TA, TA, Mason, Freddie",11
+356,2,Freddie,Adam,8
+357,2,TA,Adam,20
+358,2,Adam,TA,4
+359,2,TA,"Freddie, Mason, Adam",36
+360,2,Adam,TA,14
+361,2,TA,"Freddie, Mason, Adam",22
+362,2,Freddie,TA,39
+363,2,TA,Freddie,8
+364,2,Freddie,TA,1
+365,2,TA,Mason,31
+366,2,Freddie,TA,19
+367,2,TA,"Adam, Mason, Freddie",37
+368,2,Freddie,TA,1
+369,2,TA,Freddie,3
+370,2,Freddie,TA,12
+371,2,TA,Freddie,29
+372,2,Freddie,TA/Sophie,23
+373,2,TA,TA/TA,96
+374,2,Adam,TA/TA/TA,40
+375,2,Freddie,"Adam, Mason, Freddie",21
+376,2,Adam,Freddie,8
+377,2,TA,Freddie/Adam,43
+378,2,TA,Freddie/Adam,65
+379,2,Freddie,TA,5
+380,2,TA,Freddie,23
+381,2,TA,"Adam, Mason, Freddie",65
+382,2,Freddie,TA,14
+383,2,TA,"Adam, Mason, Freddie",172
+384,2,TA,"Adam, Mason, Freddie",44
+385,2,TA,"Adam, Mason, Freddie",40
+386,2,Freddie,TA,27
+387,2,TA,Freddie/Group,156
+388,2,Freddie,TA,20
+389,2,TA,Freddie,10
+390,2,Freddie,TA,24
+391,2,TA,Freddie,10
+392,2,Freddie,TA,41
+393,2,TA,Freddie,7
+394,2,TA,Freddie,47
+395,2,Freddie,TA,54
+396,2,TA,Freddie,27
+397,2,Adam,"Adam, Mason, Freddie",1
+398,2,TA,"Adam, Mason, Freddie",17
+399,2,Adam,TA,20
+400,2,TA,Mason,8
+401,2,Freddie,TA,6
+402,2,TA,Freddie,14
+403,2,Freddie,TA,46
+404,2,TA,Freddie,1
+405,2,Freddie,"Adam, Mason, TA, TA, TA",9
+406,2,TA,Freddie,5
+407,2,Freddie,TA,9
+408,2,TA,Freddie,20
+409,2,Freddie,TA,4
+410,2,TA,Freddie,14
+411,2,Freddie,TA,19
+412,2,TA,Freddie,4
+413,2,TA,TA/Adam,45
+414,2,Adam,TA,7
+415,2,TA,Adam,32
+416,2,Adam,TA,20
+417,2,TA,Adam,27
+418,2,Adam,TA,13
+419,2,TA,Adam,18
+420,2,Adam,TA,30
+421,2,TA,Adam,35
+422,2,Adam,TA,7
+423,2,TA,Adam,46
+424,2,TA,"Adam, Mason, Freddie",7
+425,2,Freddie,"Adam, Mason, Freddie",2
+426,2,TA,Freddie,6
+427,2,Freddie,TA,3
+428,2,TA,Freddie,40
+429,2,Freddie,TA,4
+430,2,TA,Freddie,7
+431,2,Freddie,TA,22
+432,2,TA,"Adam, Mason, Freddie",91
+433,2,TA,"Adam, Mason, Freddie",6
+434,2,Freddie,"Adam, Mason, Freddie",8
+435,2,TA,Freddie,79
+436,2,Freddie,TA,1
+437,2,TA,Freddie,38
+438,2,Freddie,TA,2
+439,2,TA,Freddie,13
+440,2,Freddie,TA,10
+441,2,TA,Freddie,20
+442,2,Freddie,TA,11
+443,2,TA,Freddie,53
+444,2,Freddie,TA,5
+445,2,TA,Freddie,78
+446,2,Freddie,TA,6
+447,2,TA,Freddie,35
+448,2,Freddie,"TA, Adam, Mason, TA, TA",21
+449,2,Freddie,TA,7
+450,2,Freddie,TA,8
+451,2,TA,Freddie,10
+452,2,Freddie,TA,13
+453,2,TA,Freddie,16
+454,2,TA,Freddie,39
+455,2,Freddie,TA,4
+456,2,TA,Freddie,28
+457,2,Freddie,TA,14
+458,2,TA,Freddie,30
+459,2,Freddie,TA,2
+460,2,TA,"Adam, Mason, Freddie",13
+461,2,Freddie,TA,6
+462,2,Adam,"Adam, Mason, Freddie",3
+463,2,TA,"Mason, Adam, Freddie",32
+464,2,Freddie,TA?,27
+465,2,Adam,TA?,34
+466,2,TA,Freddie,22
+467,2,TA,TA,34
+468,2,Freddie,"Adam, Mason, Freddie",38
+469,2,TA,Freddie,14
+470,2,Freddie,TA,3
+471,2,TA,Freddie,3
+472,2,TA,Freddie,29
+473,2,Adam,TA?,7
+474,2,TA,Adam,43
+475,2,Adam,TA,7
+476,2,TA,Adam,61
+477,2,Adam,TA,6
+478,2,TA,Freddie,357
+479,2,Freddie,TA,4
+480,2,TA,Adam,269
+481,2,Adam,TA,5
+482,2,TA,Adam,123
+483,2,Adam,TA,2
+484,2,TA,Adam,18
+485,2,Adam,TA,4
+486,2,TA,Adam/Mason,9
+487,2,Mason,Conmer,12
+488,2,TA,Mason,16
+489,2,Mason,TA,4
+490,2,TA,Mason,32
+491,2,Mason,TA,1
+492,2,TA,Mason?,2
+493,2,Mason,TA,2
+494,3,Adam,"TA, TA",25
+495,3,TA,Mason,7
+496,3,Mason,TA,4
+497,3,TA,Freddie,252
+498,3,Freddie,TA,8
+499,3,TA,Freddie,14
+500,3,TA,Freddie,5
+501,3,Freddie,TA,8
+502,3,TA,Freddie,14
+503,3,Adam,"TA, TA",18
+504,3,TA,Adam,2
+505,3,Freddie,TA,4
+506,3,Adam,TA,26
+507,3,TA,Freddie,134
+508,3,Freddie,TA,3
+509,3,TA,TA,13
+510,3,TA,Freddie,80
+511,3,TA,Freddie,5
+512,3,TA,Freddie,13
+513,3,TA,Freddie,8
+514,3,Freddie,TA,7
+515,3,TA,Freddie,20
+516,3,Freddie,TA,3
+517,3,TA,Freddie,6
+518,3,Freddie,TA,9
+519,3,TA,Freddie/TA,11
+520,3,TA,TA,9
+521,3,TA,TA,6
+522,3,Freddie,TA/TA,21
+523,3,TA,Freddie/Adam,13
+524,3,Freddie,TA/Adam,3
+525,3,TA,Adam,80
+526,3,Adam,TA,2
+527,3,TA,Group,36
+528,3,TA,"Freddie, Adam, Mason, TA, TA",3
+529,3,TA,"Freddie, Adam, Mason, TA, TA",15
+530,3,TA,TA/Mason,26
+531,3,TA,Adam,2
+532,3,Adam,TA,8
+533,3,TA,Adam,15
+534,3,Adam,TA,12
+535,3,TA,"Freddie, Adam, Mason, TA, TA",6
+536,3,TA,"Freddie, Adam, Mason, TA, TA",10
+537,3,Freddie,TA,17
+538,3,TA,"Freddie, Adam, Mason, TA, TA",14
+539,3,Freddie,TA,16
+540,3,TA,"TA, TA, Mason, Freddie, Adam",11
+541,3,Freddie,TA,22
+542,3,TA,TA,13
+543,3,Freddie,TA,14
+544,3,TA,"TA, TA, Mason, Freddie, Adam",21
+545,3,TA,"TA, TA, Mason, Freddie, Adam",12
+546,3,TA,"TA, TA, Mason, Freddie, Adam",6
+547,3,Adam,TA,4
+548,3,Mason,TA,7
+549,3,TA,"TA, TA, Mason, Freddie, Adam",18
+550,3,TA,"TA, TA, Mason, Freddie, Adam",10
+551,3,Mason,TA,10
+552,3,TA,"TA, TA, Mason, Freddie, Adam",18
+553,3,Mason,TA,9
+554,3,TA,"TA, TA, Mason, Freddie, Adam",48
+555,3,TA,"TA, TA, Mason, Freddie, Adam",33
+556,3,TA,TA,11
+557,3,TA,"TA, TA, Mason, Freddie, Adam",66
+558,3,TA,"TA, TA, Mason, Freddie, Adam",73
+559,3,TA,TA,36
+560,3,Freddie,TA,3
+561,3,TA,TA,5
+562,3,TA,"TA, TA, Mason, Freddie, Adam",8
+563,3,TA,"TA, TA, Mason, Freddie, Adam",47
+564,3,TA,"TA, TA, Mason, Freddie, Adam",13
+565,3,TA,Students?,29
+566,3,Freddie,TA,12
+567,3,TA,Freddie,36
+568,3,Freddie,TA,6
+569,3,TA,Freddie,11
+570,3,Freddie,TA,4
+571,3,TA,Freddie,21
+572,3,Freddie,TA,6
+573,3,TA,Freddie/Group,8
+574,3,Freddie,TA,6
+575,3,TA,Freddie,11
+576,3,Freddie,TA,8
+577,3,TA,Freddie,7
+578,3,Freddie,TA,8
+579,3,TA,"TA, TA, Mason, Freddie, Adam",39
+580,3,Freddie,TA/Maddie,3
+581,3,TA,"TA, TA, Mason, Freddie, Adam",21
+582,3,TA,TA,8
+583,3,TA,TA,6
+584,3,TA,TA,18
+585,3,Freddie,TA,9
+586,3,TA,Freddie,91
+587,3,Freddie,"TA, TA, Mason, TA, Adam",60
+588,3,TA,Freddie,3
+589,3,Freddie,TA,19
+590,3,TA,"TA, TA, Mason, Freddie, Adam",72
+591,3,TA,TA,13
+592,3,TA,"TA, TA, Mason, Freddie, Adam",40
+593,3,Adam,"TA, TA",63
+594,3,TA,Adam/Freddie/Mason,34
+595,3,Freddie,TA,28
+596,3,Mason,TA,19
+597,3,TA,Mason,40
+598,3,Mason,TA,11
+599,3,TA,Mason,6
+600,3,Mason,TA,10
+601,3,TA,Mason,14
+602,3,Mason,TA,6
+603,3,TA,TA,19
+604,3,TA,Adam/Freddie/Mason,63
+605,3,Freddie,"TA, TA",19
+606,3,TA,Adam/Freddie/Mason,234
+607,3,Freddie,TA,6
+608,3,TA,Freddie,67
+609,3,Freddie,TA,3
+610,3,TA,Freddie,11
+611,3,TA,Freddie,127
+612,3,Freddie,TA,7
+613,3,TA,Freddie,31
+614,3,Freddie,TA,4
+615,3,TA,Freddie,110
+616,3,Freddie,TA,10
+617,3,TA,Freddie,11
+618,3,Freddie,TA,7
+619,3,TA,Freddie,41
+620,3,Freddie,TA,20
+621,3,TA,Freddie,5
+622,3,Freddie,TA,3
+623,3,Freddie,TA,21
+624,3,TA,Freddie,3
+625,3,Freddie,TA,6
+626,3,TA,Freddie,34
+627,3,Freddie,TA,5
+628,3,Freddie,TA,7
+629,3,TA,Freddie,13
+630,3,Freddie,TA,10
+631,3,TA,Mason,16
+632,3,Freddie,TA,4
+633,3,TA,Freddie,77
+634,3,Freddie,TA,20
+635,3,TA,Freddie,4
+636,3,TA,Freddie,5
+637,3,Freddie,TA,7
+638,3,TA,Freddie,8
+639,3,Freddie,TA,7
+640,3,TA,Freddie,8
+641,3,TA,Freddie,21
+642,3,Freddie,TA,29
+643,3,TA,Freddie,4
+644,3,Freddie,TA,7
+645,3,TA,Freddie,12
+646,3,Freddie,TA,6
+647,3,Freddie,TA,10
+648,3,TA,Freddie,13
+649,3,Freddie,TA,3
+650,3,TA,Freddie,15
+651,3,TA,Freddie,11
+652,3,Freddie,TA,3
+653,3,TA,Freddie,43
+654,3,Freddie,TA,16
+655,3,TA,Freddie,2
+656,3,Freddie,TA,9
+657,3,TA,Freddie,22
+658,3,Freddie,TA,3
+659,3,TA,Freddie,16
+660,3,TA,Freddie,86
+661,3,Freddie,TA,9
+662,3,TA,Freddie,51
+663,3,TA,Freddie,108
+664,3,Freddie,Adam,6
+665,3,Freddie,TA,6
+666,3,TA,Freddie,13
+667,3,Freddie,TA,7
+668,3,Freddie,TA,2
+669,3,TA,Freddie,7
+670,3,Freddie,TA,5
+671,3,TA,Freddie,37
+672,3,Freddie,"TA, TA, Adam, Mason",11
+673,3,TA,"TA, Freddie, Mason, Adam",18
+674,3,Freddie,TA,25
+675,3,TA,Freddie,6
+676,3,Freddie,TA,60
+677,3,TA,Freddie,22
+678,3,Freddie,TA,1
+679,3,TA,Freddie,70
+680,3,Freddie,TA,11
+681,3,TA,Freddie,26
+682,3,Freddie,TA,11
+683,3,TA,Freddie,3
+684,3,Freddie,TA,9
+685,3,TA,Freddie,7
+686,3,Freddie,Coner,1
+687,3,TA,Freddie,2
+688,3,Freddie,TA,9
+689,3,TA,Freddie,2
+690,3,TA,Freddie,28
+691,3,TA,Freddie,13
+692,3,Freddie,TA,4
+693,3,TA,Freddie,8
+694,3,Freddie,TA,14
+695,3,TA,Freddie/TA,41
+696,3,TA,TA,6
+697,3,TA,Freddie,9
+698,3,Freddie,TA,5
+699,3,TA,Freddie,72
+700,3,Freddie,TA,57
+701,3,TA,Freddie,22
+702,3,Freddie,TA,17
+703,3,TA,Freddie,36
+704,3,Freddie,TA,3
+705,3,TA,Freddie,64
+706,3,Freddie,TA,12
+707,3,TA,Freddie,60
+708,3,Freddie,TA,7
+709,3,TA,Freddie,1
+710,3,TA,TA,6
+711,3,TA,"Mason, Freddie, Adam",7
+712,3,Freddie,TA,12
+713,3,TA,Adam,10
+714,3,Freddie,TA,15
+715,3,TA,Mason,7
+716,3,Mason,TA,1
+717,3,TA,Mason,3
+718,3,Freddie,TA,11
+719,3,Freddie,TA,10
+720,3,TA,Freddie,15
+721,3,Freddie,TA,6
+722,3,TA,Freddie,6
+723,3,Freddie,TA,3
+724,3,TA,Freddie,25
+725,3,Freddie,TA,12
+726,3,TA,Freddie,36
+727,3,Freddie,TA,2
+728,3,TA,Freddie,36
+729,3,Freddie,TA,35
+730,3,TA,Freddie,66
+731,3,TA,Freddie,1
+732,3,Freddie,TA,3
+733,3,TA,Freddie,5
+734,3,Freddie,TA,5
+735,3,TA,Freddie,7
+736,3,Freddie,TA,5
+737,3,TA,Freddie,9
+738,3,Freddie,TA,6
+739,3,TA,Freddie,24
+740,3,Freddie,TA,12
+741,3,TA,Mason,38
+742,3,Freddie,"TA, TA, Adam, Mason",4
+743,3,TA,Adam,12
+744,3,Freddie,TA,6
+745,3,TA,Freddie,20
+746,3,Mason,TA,12
+747,3,TA,Mason,9
+748,3,Mason,TA,1
+749,3,TA,Mason,6
+750,3,TA,"TA, TA, Mason, Freddie, Adam",13
+751,3,Mason,TA,14
+752,3,TA,Mason,56
+753,3,Mason,TA,8
+754,3,TA,Mason,8
+755,3,Mason,TA,2
+756,3,TA,"TA, TA, Mason, Freddie, Adam",63
+757,3,Adam,TA,4
+758,3,TA,Adam,47
+759,3,TA,TA,10
+760,3,TA,TA,15
+761,3,TA,TA,14
+762,3,TA,TA,5
+763,3,TA,TA,43
+764,3,TA,TA,6
+765,3,TA,TA,12
+766,3,TA,,4
+767,3,TA,TA,16
+768,4,TA,Adam,31
+769,4,Adam,TA,26
+770,4,Freddie,Adam,7
+771,4,Adam,Freddie,22
+772,4,TA,Adam,25
+773,4,Adam,TA,6
+774,4,TA,Adam/Freddie,79
+775,4,Freddie,TA,35
+776,4,TA,Freddie,8
+777,4,Freddie,TA,15
+778,4,TA,Freddie,7
+779,4,Freddie,TA,14
+780,4,Freddie,TA,9
+781,4,TA,Freddie,23
+782,4,Freddie,TA,8
+783,4,TA,Freddie,8
+784,4,Freddie,TA,4
+785,4,Adam,TA,8
+786,4,Freddie,Adam,6
+787,4,Adam,Freddie,7
+788,4,Freddie,"TA, TA",7
+789,4,TA,Freddie,22
+790,4,Freddie,TA,1
+791,4,TA,Freddie,20
+792,4,TA,Freddie,14
+793,4,Freddie,TA,4
+794,4,TA,Freddie,14
+795,4,Freddie,TA,4
+796,4,TA,Freddie,12
+797,4,TA,Freddie,9
+798,4,Freddie,TA,7
+799,4,TA,Freddie,27
+800,4,Freddie,TA,5
+801,4,TA,Freddie,2
+802,4,TA,Freddie/TA,21
+803,4,Freddie,TA,25
+804,4,TA,Freddie,4
+805,4,TA,Freddie,11
+806,4,Freddie,TA,7
+807,4,TA,Freddie,54
+808,4,Freddie,TA,5
+809,4,TA,Freddie,9
+810,4,Freddie,TA,3
+811,4,TA,Freddie,6
+812,4,TA,Freddie,2
+813,4,Freddie,"TA, TA",8
+814,4,TA,Freddie,22
+815,4,Freddie,"TA, TA",15
+816,4,TA,Freddie,7
+817,4,Freddie,TA,11
+818,4,TA,Freddie,14
+819,4,TA,Freddie,9
+820,4,TA,Freddie,17
+821,4,Freddie,TA,4
+822,4,TA,Freddie,6
+823,4,Freddie,"TA, TA",9
+824,4,TA,TA,18
+825,4,Freddie,TA,4
+826,4,TA,TA,5
+827,4,TA,TA,16
+828,4,TA,TA,6
+829,4,Freddie,TA/TA,19
+830,4,TA,Freddie,17
+831,4,TA,Freddie,33
+832,4,TA,Freddie,31
+833,4,Freddie,TA,6
+834,4,TA,Freddie,27
+835,4,Freddie,TA,9
+836,4,TA,Freddie,22
+837,4,TA,Freddie,6
+838,4,Freddie,TA,8
+839,4,TA,TA,15
+840,4,Freddie,TA,15
+841,4,TA,Freddie,31
+842,4,Freddie,TA,2
+843,4,TA,Freddie,10
+844,4,Freddie,TA,4
+845,4,TA,Freddie/TA,25
+846,4,TA,Freddie,48
+847,4,TA,Freddie,24
+848,4,TA,Freddie,4
+849,4,Freddie,TA,8
+850,4,Freddie,TA,5
+851,4,TA,Freddie,2
+852,4,Freddie,TA,2
+853,4,TA,Freddie,32
+854,4,TA,TA/Freddie,5
+855,4,Freddie,TA,2
+856,4,TA,TA,24
+857,4,Freddie,TA,3
+858,4,TA,Group,3
+859,4,Freddie,"TA, TA, Adam, TA",1
+860,4,TA,"TA, Freddie, Adam, TA",6
+861,4,Freddie,"TA, TA, Adam, TA",2
+862,4,TA,"TA, Freddie, Adam, TA",40
+863,4,Adam,TA,5
+864,4,TA,Adam,5
+865,4,Adam,TA,6
+866,4,TA,Adam,18
+867,4,Adam,TA,10
+868,4,Adam,TA,16
+869,4,TA,Adam,22
+870,4,Adam,TA,21
+871,4,Adam,TA,15
+872,4,TA,Adam,16
+873,4,Adam,TA,1
+874,4,TA,Adam,34
+875,4,Adam,TA,12
+876,4,TA,Adam,52
+877,4,Adam,TA,3
+878,4,TA,Adam,3
+879,4,Adam,TA,11
+880,4,TA,Adam,67
+881,4,TA,Adam,3
+882,4,TA,Adam,376
+883,4,Adam,TA,4
+884,4,TA,Adam,115
+885,4,Adam,TA,20
+886,4,TA,Adam,562
+887,4,TA,"TA, Freddie, Adam, TA",13
+888,4,TA,Adam,25
+889,4,TA,Freddie,17
+890,4,Adam,TA,2
+891,4,TA,Adam,29
+892,4,Adam,TA,10
+893,4,TA,Adam,10
+894,4,Adam,TA,9
+895,4,TA,Adam,46
+896,4,Adam,TA,8
+897,4,TA,Adam,16
+898,4,Adam,TA,5
+899,4,Adam,TA,7
+900,4,Freddie,Adam,3
+901,4,TA,Adam,79
+902,4,Adam,TA,1
+903,4,TA,Mason,19
+904,4,Freddie,TA,14
+905,4,TA,Mason/Freddie,26
+906,4,Freddie,TA,9
+907,4,TA,Mason/Freddie,6
+908,4,Freddie,TA,9
+909,4,TA,Mason/Freddie,4
+910,4,Freddie,TA,5
+911,4,TA,Group,157
+912,4,Freddie,TA,10
+913,4,TA,Freddie,4
+914,4,Freddie,TA,10
+915,4,TA,Freddie,11
+916,4,Freddie,TA,5
+917,4,TA,Freddie,10
+918,4,Freddie,TA,12
+919,4,TA,Adam,46
+920,4,Adam,TA,15
+921,4,TA,Adam,1
+922,4,Freddie,TA,21
+923,4,TA,Mason,20
+924,4,Freddie,TA,5
+925,4,Freddie,TA,7
+926,4,TA,Freddie,41
+927,4,Freddie,TA,13
+928,4,TA,Freddie,38
+929,4,Freddie,TA,5
+930,4,TA,Freddie,57
+931,4,Freddie,TA,43
+932,4,TA,Freddie,11
+933,4,Freddie,TA,3
+934,4,TA,Freddie,4
+935,4,Freddie,TA,29
+936,4,TA,Freddie,30
+937,4,Freddie,TA,13
+938,4,TA,Freddie,14
+939,4,Freddie,TA,6
+940,4,TA,Freddie,17
+941,4,Freddie,TA,2
+942,4,TA,Freddie,5
+943,4,Freddie,TA,16
+944,4,TA,Freddie,7
+945,4,Freddie,TA,1
+946,4,TA,Freddie,55
+947,4,Freddie,TA,12
+948,4,TA,Freddie,13
+949,4,Freddie,TA,18
+950,4,TA,Freddie,21
+951,4,TA,Group,5
+952,4,TA,TA,1
+953,4,Freddie,TA,3
+954,4,TA,Adam,4
+955,4,Adam,TA,1
+956,4,TA,Mason,8
+957,4,Freddie,TA,4
+958,4,TA,Group,18
+959,4,Adam,TA,7
+960,4,TA,Freddie,6
+961,4,Freddie,TA,2
+962,4,TA,Mason,9
+963,4,Freddie,TA,7
+964,4,TA,Adam,485
+965,4,Adam,TA,3
+966,4,TA,TA/Group,34
+967,4,TA,Group,6
+968,4,Adam,TA,6
+969,4,TA,Group,55
+970,4,Adam,TA,8
+971,4,TA,Group,63
+972,4,Adam,TA,7
+973,4,Freddie,TA,4
+974,4,TA,TA,28
+975,4,TA,TA,8
+976,4,TA,"Freddie, Adam, Mason",152
+977,4,TA,TA,12
+978,4,TA,TA,9
+979,4,TA,TA,16
+980,4,TA,TA,45
+981,4,Freddie,TA,7
+982,4,TA,Freddie,7
+983,4,TA,TA,20
+984,4,TA,TA,35
+985,4,TA,"Freddie, Adam, Mason",14
+986,4,Freddie,TA,6
+987,4,TA,Freddie,44
+988,4,Freddie,TA,4
+989,4,TA,Freddie,26
+990,4,Freddie,TA,35
+991,4,TA,Freddie,94
+992,4,Freddie,TA,11
+993,4,Freddie,TA,3
+994,4,TA,Freddie,1
+995,4,Freddie,TA,6
+996,4,TA,Freddie,63
+997,4,Freddie,TA,4
+998,4,TA,Freddie,1
+999,4,Freddie,TA,4
+1000,4,TA,Freddie,10
+1001,4,Freddie,TA,10
+1002,4,TA,Freddie,23
+1003,4,Freddie,TA,2
+1004,4,TA,Freddie,48
+1005,4,TA,Freddie,45
+1006,4,Freddie,TA,15
+1007,4,TA,Freddie,5
+1008,4,TA,TA,5
+1009,4,TA,TA,64
+1010,4,Freddie,TA,7
+1011,4,TA,Freddie,18
+1012,4,TA,TA,39
+1013,4,TA,TA,12
+1014,4,TA,TA,15
+1015,4,TA,TA,4
+1016,4,TA,TA,20
+1017,4,Freddie,TA,5
+1018,4,TA,Freddie,87
+1019,4,TA,TA,6
+1020,4,TA,TA,97
+1021,4,Freddie,TA,2
+1022,4,TA,Freddie,124
+1023,4,TA,Freddie,109
+1024,4,Freddie,TA,8
+1025,4,TA,Freddie,20
+1026,4,TA,Freddie,3
+1027,4,Freddie,TA,2
+1028,4,TA,Freddie,20
+1029,4,Freddie,TA,1
+1030,4,TA,Freddie,1
+1031,4,Freddie,TA,2
+1032,4,TA,Freddie,13
+1033,4,TA,"TA, TA",10
+1034,4,Freddie,TA,6
+1035,4,TA,Freddie,45
+1036,4,Freddie,TA,3
+1037,4,TA,Freddie,9
+1038,4,Freddie,TA,12
+1039,4,TA,Mason,90
+1040,4,Freddie,TA,3
+1041,4,TA,Mason,38
+1042,4,Freddie,TA,8
+1043,4,Mason,"TA, TA, Freddie, Adam, TA",5
+1044,4,TA,"Freddie, Adam, Mason",53
+1045,4,TA,"Freddie, Adam, Mason",139
+1046,4,Freddie,"Freddie, Adam, Mason",11
+1047,4,TA,Freddie,29
+1048,4,Freddie,"Freddie, Adam, Mason",22
+1049,4,TA,TA/Mason,124
+1050,4,Mason,TA,10
+1051,4,TA,"Freddie, Adam, Mason",15
+1052,4,Mason,TA,3
+1053,4,TA,"Freddie, Adam, Mason",13
+1054,4,Freddie,TA,5
+1055,4,TA,Freddie,15
+1056,4,Freddie,TA,22
+1057,4,Mason,"Freddie, Adam, Mason",7
+1058,4,TA,"Freddie, Adam, Mason",6
+1059,4,Freddie,Mason,3
+1060,4,TA,Freddie,139
+1061,4,Freddie,TA,2
+1062,4,TA,Freddie,61
+1063,4,TA,Group,26
+1064,4,TA,TA,7
+1065,4,TA,TA,30
+1066,4,Freddie,TA,3
+1067,4,TA,Adam,143
+1068,4,Adam,TA,8
+1069,4,TA,Adam,84
+1070,4,Adam,TA,9
+1071,4,TA,Adam,13
+1072,4,Adam,TA,11
+1073,4,TA,Group,96
+1074,4,Freddie,TA,7
+1075,4,Adam,Freddie,2
+1076,4,TA,TA,15
+1077,4,TA,"Mason, Freddie, Adam",244
+1078,4,Adam,TA,22
+1079,4,TA,Adam,15
+1080,4,Adam,TA,15
+1081,4,TA,Adam,12
+1082,4,Adam,TA,9
+1083,4,TA,Adam,22
+1084,4,Adam,TA,5
+1085,4,Adam,TA,17
+1086,4,TA,Adam/Freddie,63
+1087,4,Freddie,TA,19
+1088,4,Freddie,TA,9
+1089,4,TA,Freddie,9
+1090,4,TA,Freddie,15
+1091,4,Freddie,TA,20
+1092,4,TA,Freddie,27
+1093,4,Freddie,TA,18
+1094,4,TA,Freddie,4
+1095,4,Freddie,TA,40
+1096,4,TA,Freddie/Mason,99
+1097,4,Mason,TA,8
+1098,4,TA,Mason,14
+1099,4,Mason,TA,16
+1100,4,TA,Mason,20
+1101,4,Mason,TA,11
+1102,4,Mason,TA,18
+1103,4,TA,Mason,3
+1104,4,TA,Mason,9
+1105,4,Mason,TA,1
+1106,4,TA,Mason,24
+1107,4,Mason,TA,42
+1108,4,TA,Mason,259
+1109,4,Freddie,TA,13
+1110,4,TA,Freddie,95
+1111,4,Freddie,TA,3
+1112,4,TA,Freddie,2
+1113,4,Adam,Group,4
+1114,4,TA,Adam,59
+1115,4,Freddie,TA,27
+1116,4,TA,Freddie,22
+1117,4,Freddie,TA,5
+1118,4,TA,Freddie,3
+1119,4,Freddie,TA,18
+1120,4,TA,Freddie/Mason,27
+1121,4,Mason,TA,3
+1122,4,TA,Mason,28
+1123,4,Freddie,TA,7
+1124,4,TA,Freddie,9
+1125,4,Freddie,TA,14
+1126,4,TA,Freddie,11
+1127,4,Freddie,TA,21
+1128,4,TA,Freddie,23
+1129,4,Freddie,TA,3
+1130,4,TA,Freddie,12
+1131,4,Mason,TA,11
+1132,4,TA,Mason,7
+1133,4,Mason,TA,10
+1134,4,TA,Mason,17
+1135,4,Mason,TA,1
+1136,4,TA,Mason,9
+1137,4,Mason,TA,9
+1138,4,TA,Mason,15
+1139,4,Mason,TA,15
+1140,4,TA,Mason,15
+1141,4,Mason,TA,11
+1142,4,Mason,TA,7
+1143,4,TA,Mason,7
+1144,4,Mason,TA,18
+1145,4,Adam,Mason,2
+1146,4,TA,Mason,16
+1147,4,Adam,TA,5
+1148,4,TA,Adam,9
+1149,4,Adam,TA,8
+1150,4,Mason,TA,9
+1151,4,TA,Mason,8
+1152,4,Mason,TA,15
+1153,4,TA,Mason,7
+1154,4,Mason,TA,11
+1155,4,TA,Mason,68
+1156,4,Freddie,TA,13
+1157,4,TA,Freddie,81
+1158,4,TA,Group,119
+1159,4,TA,TA,1
+1160,4,TA,TA,36
+1161,4,TA,Coner,6
+1162,4,TA,TA,28
+1163,4,TA,Freddie,2
+1164,4,TA,Freddie,18
+1165,4,Freddie,TA,5
+1166,4,TA,Freddie,6
+1167,4,Freddie,TA,10
+1168,4,TA,Freddie,26
+1169,4,TA,TA,1
+1170,4,TA,Freddie,19
+1171,4,TA,Freddie,3
+1172,4,TA,Freddie,6
+1173,4,TA,TA,3
+1174,4,TA,Freddie,3
+1175,4,TA,Freddie,12
+1176,4,TA,TA,15
+1177,4,TA,TA,8
+1178,4,TA,TA,4
+1179,4,TA,Gorup,16
+1180,4,TA,Freddie,32
+1181,4,TA,TA,11
+1182,4,TA,TA,11
+1183,4,TA,TA,37
+1184,4,TA,TA,4
+1185,4,TA,TA,6
+1186,4,Freddie,TA/And,6
+1187,4,TA,Freddie,6
+1188,4,Freddie,TA,8
+1189,4,TA,Freddie,16
+1190,4,TA,Freddie,3
+1191,4,Freddie,TA,4
+1192,4,TA,Freddie,2
+1193,4,TA,Group,134
+1194,4,TA,TA,106
+1195,4,TA,TA,20
+1196,4,TA,TA,12
+1197,4,Freddie,TA/TA,13
+1198,4,TA,Freddie,26
+1199,4,TA,Freddie,176
+1200,4,TA,Gorup,17
+1201,4,Freddie,TA,3
+1202,4,TA,Group,58
+1203,4,TA,TA,5
+1204,4,TA,TA,17
+1205,4,Freddie,TA,5
+1206,4,TA,Freddie,16
+1207,4,TA,Group,7
+1208,4,TA,TA,22
+1209,4,TA,TA,49
+1210,4,TA,TA,21
+1211,4,TA,Freddie,20
+1212,4,TA,TA,23
+1213,4,TA,TA,1
+1214,4,TA,TA,44
+1215,4,Freddie,TA,3
+1216,4,TA,Freddie,16
+1217,4,TA,Freddie,7
+1218,4,TA,TA,4
+1219,4,TA,Freddie,27
+1220,4,TA,Freddie,187
+1221,4,TA,TA,18
+1222,4,TA,TA,6
+1223,4,TA,Freddie,27
+1224,4,TA,Freddie,182
+1225,4,Freddie,TA,3
+1226,4,TA,Freddie,59
+1227,4,Freddie,TA,1
+1228,4,TA,Freddie,34
+1229,4,TA,TA,8
+1230,4,TA,TA,10
+1231,4,TA,Freddie,61
+1232,4,Freddie,TA,2
+1233,4,TA,Freddie,226
+1234,4,Freddie,TA,8
+1235,4,TA,Freddie,69
+1236,4,Freddie,TA,4
+1237,4,TA,Freddie,45
+1238,4,TA,TA,23
+1239,4,TA,TA,16
+1240,4,TA,TA,19
+1241,4,TA,TA,5
+1242,4,TA,TA',2
+1243,4,TA,TA,7

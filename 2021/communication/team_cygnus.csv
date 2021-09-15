@@ -1,0 +1,1010 @@
+id,day,talking,listening,words
+1,1,TA,George,8
+2,1,TA,George,11
+3,1,George,James,14
+4,1,TA,George,3
+5,1,George,Alfredo,11
+6,1,George,Alfredo,3
+7,1,TA,George,6
+8,1,George,Alfredo,10
+9,1,Alfredo,George,19
+10,1,TA,George,19
+11,1,George,James,14
+12,1,TA,George,12
+13,1,George,James,26
+14,1,TA,Alfredo,11
+15,1,George,"Alfredo, James",28
+16,1,TA,George,22
+17,1,TA,Alfredo,12
+18,1,Alfredo,George,5
+19,1,George,Alfredo,23
+20,1,Alfredo,George,9
+21,1,TA,George,9
+22,1,George,Alfredo,10
+23,1,Alfredo,George,30
+24,1,George,Alfredo,57
+25,1,TA,Alfredo,13
+26,1,Alfredo,George,11
+27,1,George,Alfredo,85
+28,1,George,Alfredo,3
+29,1,Alfredo,George,5
+30,1,George,Alfredo,12
+31,1,Alfredo,George,6
+32,1,George,Alfredo,22
+33,1,TA,Alfredo,50
+34,1,Alfredo,James,1
+35,1,TA,Alfredo,17
+36,1,Alfredo,James,10
+37,1,George,"Alfredo, James",1
+38,1,Alfredo,George,11
+39,1,TA,George,7
+40,1,TA,"George, Alfredo",9
+41,1,TA,"George, Alfredo",7
+42,1,Alfredo,George,11
+43,1,TA,Alfredo,16
+44,1,Alfredo,"George, James",39
+45,1,TA,Alfredo,1
+46,1,George,"Alfredo, James",28
+47,1,TA,George,10
+48,1,George,Alfredo,17
+49,1,Alfredo,George,24
+50,1,TA,George,7
+51,1,George,James,5
+52,1,George,James,37
+53,1,George,James,58
+54,1,TA,George,10
+55,1,George,James,37
+56,1,TA,George,30
+57,1,George,James,79
+58,1,TA,Alfredo,5
+59,1,Alfredo,James,23
+60,1,TA,"George, Alfredo",35
+61,1,Alfredo,George,15
+62,1,George,Alfredo,46
+63,1,TA,Alfredo,2
+64,1,Alfredo,James,34
+65,1,TA,George,8
+66,1,George,Alfredo,20
+67,1,TA,Alfredo,7
+68,1,Alfredo,James,17
+69,1,TA,Alfredo,9
+70,1,Alfredo,James,103
+71,1,TA,George,13
+72,1,TA,George,11
+73,1,George,James,148
+74,1,Alfredo,George,35
+75,1,George,Alfredo,3
+76,1,TA,"George, Alfredo",34
+77,1,Alfredo,James,1
+78,1,TA,Alfredo,10
+79,1,Alfredo,James,3
+80,1,TA,"George, Alfredo",87
+81,1,George,Alfredo,6
+82,1,TA,Group,7
+83,1,George,"Alfredo, James",18
+84,1,Alfredo,George,4
+85,1,George,Alfredo,5
+86,1,Alfredo,George,7
+87,1,George,Alfredo,4
+88,1,Alfredo,George,6
+89,1,Alfredo,George,32
+90,1,George,Alfredo,11
+91,1,Alfredo,George,6
+92,1,George,Alfredo,32
+93,1,Alfredo,George,34
+94,1,George,Alfredo,7
+95,1,George,Alfredo,40
+96,1,George,Alfredo,69
+97,1,Alfredo,George,51
+98,1,George,Alfredo,18
+99,1,George,Alfredo,9
+100,1,TA,"George, Alfredo",25
+101,1,TA,"George, Alfredo",29
+102,1,George,James,8
+103,1,TA,George,13
+104,1,TA,"George, Alfredo",13
+105,1,TA,"George, Alfredo",120
+106,1,George,"Alfredo, James",28
+107,1,Alfredo,George,6
+108,1,George,Alfredo,2
+109,1,Alfredo,George,17
+110,1,George, Alfredo,50
+111,1,Alfredo,George,50
+112,1,George,Alfredo,34
+113,1,George,Alfredo,40
+114,1,Alfredo,George,3
+115,1,George,Alfredo,91
+116,1,George,Alfredo,31
+117,1,Alfredo,George,15
+118,1,George,Alfredo,4
+119,1,George,Alfredo,28
+120,1,George,Alfredo,42
+121,1,Alfredo,George,65
+122,1,George,Alfredo,37
+123,1,Alfredo,George,7
+124,1,George,Alfredo,20
+125,1,TA,"George, Alfredo",15
+126,1,George,James,6
+127,1,TA,"George, Alfredo",34
+128,1,George,"Alfredo, James",24
+129,1,Alfredo,George,33
+130,1,George,Alfredo,13
+131,1,Alfredo,George,10
+132,1,TA,"George, Alfredo",8
+133,1,George,James,18
+134,1,George,Alfredo,63
+135,1,TA,George,76
+136,1,George,James,9
+137,1,TA,Alfredo,15
+138,1,George,James,18
+139,1,TA,George,9
+140,1,George,James,19
+141,1,TA,Alfredo,40
+142,1,George,James,5
+143,1,TA,George,8
+144,1,George,James,18
+145,1,TA,George,16
+146,1,George,James,5
+147,1,TA,George,39
+148,1,George,James,5
+149,1,TA,George,3
+150,1,George,James,18
+151,1,Alfredo,George,15
+152,1,TA,"George, Alfredo",22
+153,1,TA,"George, Alfredo",16
+154,1,TA,"George, Alfredo",9
+155,1,George,James,11
+156,1,TA,"George, Alfredo",58
+157,1,George,James,21
+158,1,TA,George,3
+159,1,George,"Alfredo, James",6
+160,1,Alfredo,"George, James",15
+161,1,George,"Alfredo, James",18
+162,1,George,"Alfredo, James",17
+163,1,George,"Alfredo, James",14
+164,1,TA,George,66
+165,1,TA,George,17
+166,1,George,James,96
+167,1,TA,George,145
+168,1,Alfredo,James,5
+169,1,George,James,2
+170,1,TA,"George, Alfredo",8
+171,1,Alfredo,"George, James",2
+172,1,George,"Alfredo, James",2
+173,1,TA,"George, Alfredo",26
+174,1,Alfredo,"George, James",40
+175,1,George,"Alfredo, James",8
+176,1,Alfredo,"George, James",35
+177,1,George,Alfredo,11
+178,1,TA,Alfredo,19
+179,1,George,Alfredo,8
+180,1,Alfredo,George,9
+181,1,TA,"George, Alfredo",24
+182,1,Alfredo,George,26
+183,1,Alfredo,George,12
+184,1,George,Alfredo,3
+185,1,George,Alfredo,30
+186,1,George,Alfredo,3
+187,1,Alfredo,George,12
+188,1,George,Alfredo,6
+189,1,Alfredo,George,5
+190,1,George,Alfredo,59
+191,1,Alfredo,George,32
+192,1,TA,"George, Alfredo",11
+193,1,George,Alfredo,11
+194,1,George,"Alfredo, James",25
+195,1,Alfredo,George,55
+196,1,George,Alfredo,11
+197,1,Alfredo,George,15
+198,1,George,Alfredo,1
+199,1,Alfredo,"George, James",44
+200,1,TA,Alfredo,6
+201,1,TA,Alfredo,9
+202,1,Alfredo,George,14
+203,1,George,Alfredo,10
+204,1,Alfredo,George,50
+205,1,TA,"George, Alfredo",8
+206,1,TA,"George, Alfredo",5
+207,1,Alfredo,"George, James",27
+208,1,TA,"George, Alfredo",45
+209,1,George,"Alfredo, James",35
+210,1,Alfredo,George,8
+211,1,George,Alfredo,19
+212,1,TA,George,20
+213,1,George,James,19
+214,1,Alfredo,"George, James",15
+215,1,TA,"George, Alfredo",32
+216,1,George,James,13
+217,1,Alfredo,"George, James",43
+218,1,TA,"George, Alfredo",53
+219,1,George,"Alfredo, James",17
+220,1,Alfredo,"George, James",99
+221,1,George,"Alfredo, James",3
+222,1,Alfredo,George,11
+223,1,George,Alfredo,33
+224,1,Alfredo,George,90
+225,1,George,Alfredo,5
+226,1,George,Alfredo,35
+227,1,George,Alfredo,43
+228,1,Alfredo,George,12
+229,1,George,Alfredo,11
+230,1,Alfredo,George,25
+231,1,George,Alfredo,12
+232,1,Alfredo,George,43
+233,1,George,Alfredo,81
+234,1,Alfredo,George,37
+235,1,George,Alfredo,4
+236,1,Alfredo,George,12
+237,1,George,Alfredo,71
+238,1,Alfredo,George,157
+239,1,George,Alfredo,22
+240,1,Alfredo,George,22
+241,1,Alfredo,George,45
+242,1,Alfredo,George,18
+243,1,George,Alfredo,3
+244,1,TA,"George, Alfredo",20
+245,1,George,James,2
+246,1,TA,George,35
+247,1,Alfredo,George,60
+248,1,George,Alfredo,66
+249,1,Alfredo,George,38
+250,1,George,Alfredo,51
+251,1,Alfredo,George,18
+252,1,George,Alfredo,41
+253,1,TA,"George, Alfredo",10
+254,1,George,Alfredo,6
+255,1,TA,"George, Alfredo",58
+256,1,Alfredo,George,5
+257,1,George,Alfredo,11
+258,1,Alfredo,George,45
+259,1,George,Alfredo,22
+260,1,Alfredo,George,3
+261,1,TA,"George, Alfredo",44
+262,1,George,James,2
+263,1,TA,"George, Alfredo",37
+264,1,George,James,9
+265,1,TA,George,21
+266,1,George,James,11
+267,1,TA,Alfredo,19
+268,1,Alfredo,James,8
+269,1,TA,Alfredo,17
+270,1,George,James,7
+271,1,TA,Alfredo,10
+272,1,Alfredo,James,6
+273,1,TA,Alfredo,50
+274,1,Alfredo,James,13
+275,1,TA,Alfredo,3
+276,1,Alfredo,James,6
+277,1,TA,Alfredo,3
+278,1,Alfredo,James,9
+279,1,TA,Alfredo,4
+280,1,Alfredo,James,23
+281,1,TA,Alfredo,18
+282,1,Alfredo,James,8
+283,1,TA,Alfredo,3
+284,2,TA,"George, Alfredo",42
+285,2,George,Andy,9
+286,2,TA,George,16
+287,2,TA,George,24
+288,2,George,Andy,12
+289,2,TA,"Alfredo, George",30
+290,2,Alfredo,Andy,14
+291,2,Alfredo,Andy,8
+292,2,TA,"Alfredo, George",5
+293,2,George,Andy,17
+294,2,TA,George,6
+295,2,George,Andy,8
+296,2,Alfredo,Andy,60
+297,2,TA,"Alfredo, George",60
+298,2,Alfredo,Andy,18
+299,2,TA,"Alfredo, George",5
+300,2,Alfredo,Andy,27
+301,2,George,Andy,13
+302,2,TA,"Alfredo, George",11
+303,2,Alfredo,Andy,20
+304,2,George,Andy,7
+305,2,TA,"Alfredo, George",15
+306,2,George,Andy,19
+307,2,TA,Alfredo,7
+308,2,Alfredo,Andy,19
+309,2,TA,"Alfredo, George",14
+310,2,Alfredo,Andy,19
+311,2,TA,"Alfredo, George",16
+312,2,Alfredo,Andy,30
+313,2,TA,"Alfredo, George",16
+314,2,Alfredo,Andy,39
+315,2,George,Andy,29
+316,2,Alfredo,George,8
+317,2,George,Andy,8
+318,2,TA,"Alfredo, George",21
+319,2,Alfredo,Andy,5
+320,2,TA,"Alfredo, George",16
+321,2,George,Andy,11
+322,2,Alfredo,Andy,7
+323,2,TA,"Alfredo, George",21
+324,2,Alfredo,Andy,30
+325,2,TA,Alfredo,10
+326,2,Alfredo,"Andy, George",32
+327,2,George,Alfredo,32
+328,2,TA,Alfredo,13
+329,2,Alfredo,Andy,7
+330,2,TA,Alfredo,9
+331,2,Alfredo,andy,42
+332,2,TA,Alfredo,9
+333,2,Alfredo,George,36
+334,2,George,Alfredo,17
+335,2,Alfredo,Andy,30
+336,2,TA,Alfredo,6
+337,2,Alfredo,Andy,15
+338,2,TA,Alfredo,10
+339,2,Alfredo,Andy,2
+340,2,TA,Alfredo,2
+341,2,Alfredo,Andy,5
+342,2,TA,Alfredo,5
+343,2,George,Andy,11
+344,2,Alfredo,George,14
+345,2,Alfredo,"Andy, George",20
+346,2,TA,"Alfredo, George",6
+347,2,Alfredo,Andy,15
+348,2,TA,Alfredo,8
+349,2,Alfredo,Andy,9
+350,2,TA,Alfredo,14
+351,2,TA,Alfredo,23
+352,2,Alfredo,Andy,65
+353,2,TA,"Alfredo, George",34
+354,2,George,Andy,15
+355,2,TA,"Alfredo, George",37
+356,2,Alfredo,Andy,34
+357,2,TA,"Alfredo, George",34
+358,2,George,Andy,2
+359,2,Alfredo,Andy,23
+360,2,TA,"Alfredo, George",19
+361,2,TA,"Alfredo, George",68
+362,2,Alfredo,Andy,8
+363,2,TA,"Alfredo, George",29
+364,2,TA,"Alfredo, George",7
+365,2,George,"Alfredo, andy",14
+366,2,George,"Alfredo, andy",43
+367,2,TA,"Alfredo, George",12
+368,2,Alfredo,Andy,5
+369,2,George,Alfredo,17
+370,2,TA,"Alfredo, George",92
+371,2,TA,"Alfredo, George",102
+372,2,Alfredo,George,46
+373,2,George,Alfredo,21
+374,2,TA,George,8
+375,2,George,Andy,104
+376,2,Alfredo,George,116
+377,2,TA,"Alfredo, George",14
+378,2,George,"Alfredo, Andy",59
+379,2,TA,"Alfredo, George",27
+380,2,George,Andy,7
+381,2,Alfredo,Andy,41
+382,2,George,Alfredo,29
+383,2,Alfredo,George,27
+384,2,George,"Alfredo, Andy",79
+385,2,TA,George,16
+386,2,George,"Alfredo, Andy",29
+387,2,George,"Alfredo, Andy",19
+388,2,George,"Alfredo, Andy",74
+389,2,Alfredo,"George, Andy",30
+390,2,TA,"Alfredo, George",8
+391,2,George,"Alfredo, Andy",111
+392,2,TA,George,8
+393,2,George,"Alfredo, Andy",9
+394,2,TA,"Alfredo, George",50
+395,2,Alfredo,andy,9
+396,2,TA,Alfredo,12
+397,2,Alfredo,Andy,11
+398,2,Alfredo,Andy,11
+399,2,TA,Alfredo,21
+400,2,George,"Alfredo, Andy",98
+401,2,TA,"Alfredo, George",3
+402,2,Alfredo,"George, Andy",47
+403,2,George,"Alfredo, Andy",37
+404,2,TA,"Alfredo, George",11
+405,2,George,"Alfredo, Andy",8
+406,2,Alfredo,Andy,54
+407,2,TA,"Alfredo, George",4
+408,2,Alfredo,Andy,61
+409,2,TA,"Alfredo, George",6
+410,2,George,Andy,31
+411,2,Alfredo,George,39
+412,2,TA,"Alfredo, George",9
+413,2,George,Andy,15
+414,2,TA,"Alfredo, George",13
+415,2,Alfredo,andy,47
+416,2,TA,Group,7
+417,2,George,??,8
+418,2,Alfredo,Andy,19
+419,2,TA,"Alfredo, George",9
+420,2,George,Andy,26
+421,2,Alfredo,Andy,30
+422,2,George,Andy,36
+423,2,George,Andy,9
+424,2,Alfredo,"George, Andy",30
+425,2,TA,"Alfredo, George",8
+426,2,George,Andy,13
+427,2,TA,"Alfredo, George",34
+428,2,Alfredo,"George, Andy",126
+429,2,TA,"Alfredo, George",73
+430,2,George,andy,6
+431,2,TA,"Alfredo, George",20
+432,2,Alfredo,"George, Andy",3
+433,2,TA,"Alfredo, George",18
+434,2,TA,"Alfredo, George",5
+435,2,TA,"Alfredo, George",25
+436,2,Alfredo,Andy,20
+437,2,George,Alfredo,13
+438,2,Alfredo,George,11
+439,2,TA,"Alfredo, George",19
+440,2,George,"Alfredo, Andy",32
+441,2,TA,"Alfredo, George",20
+442,2,George,"Alfredo, Andy",25
+443,2,TA,"Alfredo, George",12
+444,2,Alfredo,Andy,8
+445,2,George,Andy,1
+446,2,TA,"Alfredo, George",55
+447,2,TA,"George, Alfredo",47
+448,2,Alfredo,Andy,12
+449,2,TA,Alfredo,21
+450,2,Alfredo,Andy,20
+451,2,George,"Alfredo, Andy",11
+452,2,Alfredo,George,4
+453,2,George,Alfredo,4
+454,2,TA,"Alfredo, George",5
+455,2,George,Andy,2
+456,2,TA,"Alfredo, George",28
+457,2,Alfredo,"George, Andy",23
+458,2,George,Alfredo,9
+459,2,Alfredo,George,70
+460,2,TA,George,19
+461,2,George,Andy,4
+462,2,Alfredo,"George, Andy",5
+463,2,TA,Alfredo,6
+464,2,Alfredo,Andy,10
+465,2,TA,Alfredo,11
+466,2,Alfredo,andy,66
+467,2,TA,Alfredo,5
+468,2,Alfredo,andy,63
+469,2,TA,"Alfredo, George",7
+470,2,George,"Alfredo, Andy",15
+471,2,George,"Alfredo, Andy",66
+472,2,Alfredo,George,2
+473,2,TA,George,9
+474,2,George,Andy,11
+475,2,TA,George,29
+476,2,George,"Alfredo, Andy",9
+477,2,TA,"Alfredo, George",6
+478,2,Alfredo,"George, Andy",18
+479,2,TA,Alfredo,9
+480,2,Alfredo,Andy,52
+481,2,TA,George,7
+482,2,George,"Alfredo, Andy",20
+483,2,TA,George,10
+484,2,Alfredo,"George, Andy",6
+485,2,TA,"Alfredo, George",36
+486,2,George,Andy,6
+487,2,TA,"Alfredo, George",34
+488,2,Alfredo,Andy,47
+489,2,TA,Alfredo,24
+490,2,Alfredo,andy',33
+491,2,TA,"Alfredo, George",59
+492,2,George,Andy,5
+493,2,TA,George,33
+494,2,George,Andy,35
+495,2,Alfredo,Andy,13
+496,2,TA,"Alfredo, George",58
+497,2,George,"Albert, Andy",9
+498,2,TA,"Alfredo, George",7
+499,2,TA,"Alfredo, George",14
+500,2,TA,"Alfredo, George",14
+501,2,Alfredo,Andy,7
+502,2,George,Andy,6
+503,2,TA,"Alfredo, George",41
+504,2,Alfredo,Andy,45
+505,2,TA,"Alfredo, George",48
+506,2,Alfredo,Andy,5
+507,2,TA,Alfredo,65
+508,2,Alfredo,Andy,4
+509,2,TA,Alfredo,76
+510,2,Alfredo,Andy,2
+511,2,TA,Alfredo,18
+512,2,TA,Alfredo,28
+513,2,Alfredo,Andy,3
+514,2,TA,Alfredo,81
+515,2,Alfredo,Andy,4
+516,2,TA,"Alfredo, George",188
+517,2,TA,"Alfredo, George",16
+518,2,TA,"Alfredo, George",47
+519,2,George,Andy,6
+520,2,TA,George,5
+521,2,Alfredo,George,15
+522,2,TA,"Alfredo, George",53
+523,2,George,Andy,4
+524,2,TA,"Alfredo, George",25
+525,2,Alfredo,"George, Andy",25
+526,2,Alfredo,"George, Andy",97
+527,2,TA,"Alfredo, George",116
+528,2,TA,"Alfredo, George",31
+529,2,Alfredo,Andy,45
+530,2,TA,Alfredo,36
+531,2,Alfredo,Andy,94
+532,2,TA,"Alfredo, George",8
+533,2,Alfredo,Andy,9
+534,2,TA,Alfredo,17
+535,2,TA,Alfredo,37
+536,2,Alfredo,George,17
+537,2,George,Alfredo,8
+538,2,TA,Alfredo,6
+539,2,TA,Alfredo,56
+540,2,Alfredo,Andy,2
+541,2,TA,Alfredo,33
+542,2,Alfredo,Andy,4
+543,2,TA,Alfredo,91
+544,2,Alfredo,Andy,6
+545,2,TA,George,20
+546,2,George,"Alfredo, Andy",3
+547,2,TA,George,5
+548,2,Alfredo,George,2
+549,2,TA,George,7
+550,2,George,Andy,9
+551,2,TA,George,23
+552,2,Alfredo,"George, Andy",22
+553,2,George,Alfredo,24
+554,2,Alfredo,George,14
+555,2,TA,Alfredo,82
+556,2,George,Andy,4
+557,2,TA,George,206
+558,2,George,Andy,17
+559,2,TA,George,73
+560,2,George,Andy,10
+561,2,TA,George,106
+562,2,Alfredo,"Alfredo, George",49
+563,2,TA,Alfredo,37
+564,2,TA,Alfredo,53
+565,2,TA,George,25
+566,2,Alfredo,Andy,12
+567,2,TA,"Alfredo, George",36
+568,2,George,Andy,5
+569,2,TA,George,6
+570,2,George,Andy,2
+571,2,TA,Alfredo,13
+572,2,Alfredo,Andy,12
+573,2,TA,Alfredo,40
+574,2,Alfredo,Andy,60
+575,2,TA,Alfredo,18
+576,2,George,Andy,17
+577,2,Alfredo,George,6
+578,2,George,Alfredo,1
+579,2,TA,George,64
+580,3,George,Ella,4
+581,3,TA,George,19
+582,3,George,Ella,4
+583,3,TA,George,11
+584,3,George,Ella,13
+585,3,TA,George,39
+586,3,TA,George,10
+587,3,George,Ella,19
+588,3,TA,George,90
+589,3,TA,George,27
+590,3,TA,George,16
+591,3,George,Ella,6
+592,3,TA,George,25
+593,3,George,Ella,7
+594,3,TA,George,61
+595,3,George,Ella,7
+596,3,TA,George/Alfredo,27
+597,3,TA,George,12
+598,3,TA,Alfredo,8
+599,3,George,Ella,3
+600,3,TA,George,12
+601,3,George,Ella,28
+602,3,TA,George,11
+603,3,George,Ella,1
+604,3,TA,George,14
+605,3,George,Ella,6
+606,3,TA,Gabriiel,24
+607,3,George,Ella,8
+608,3,TA,George,67
+609,3,TA,George,4
+610,3,TA,"George, Alfredo, Jason",3
+611,3,Alfredo,"George, Jason, Ella",10
+612,3,TA,George,53
+613,3,George,Ella,8
+614,3,TA,George,8
+615,3,TA,George,12
+616,3,George,Jason,2
+617,3,TA,George,12
+618,3,George,Jason,5
+619,3,TA,Ella,15
+620,3,TA,Jason,3
+621,3,TA,Jason,3
+622,3,TA,George,38
+623,3,Alfredo,"Jason, Ella, George",15
+624,3,TA,George,15
+625,3,George,Jason,18
+626,3,TA,George,7
+627,3,George,Jason,4
+628,3,TA,George,24
+629,3,George,Jason,4
+630,3,TA,George,3
+631,3,George,Jason,13
+632,3,TA,George,4
+633,3,George,Jason,9
+634,3,TA,George,2
+635,3,George,Jason,3
+636,3,TA,George,5
+637,3,TA,Alfredo,14
+638,3,Alfredo,Ella,1
+639,3,TA,George,12
+640,3,George,Jason,12
+641,3,TA,George,11
+642,3,George,Jason,12
+643,3,TA,George,86
+644,3,George,Jason,3
+645,3,TA,George,9
+646,3,TA,George,21
+647,3,George,Jason,13
+648,3,TA,Ella,37
+649,3,TA,Jason,2
+650,3,TA,Ella,4
+651,3,TA,Jason,6
+652,3,TA,Ella,12
+653,3,TA,Jason,13
+654,3,TA,Ella,10
+655,3,TA,Jason,9
+656,3,TA,Jason,28
+657,3,TA,George,20
+658,3,George,Jason,3
+659,3,TA,George,30
+660,3,George,Jason,13
+661,3,TA,George,7
+662,3,George,Jason,39
+663,3,TA,George,28
+664,3,TA,George,19
+665,3,George,Jason,1
+666,3,TA,"Ella, George, Alfredo",44
+667,3,TA,"Jason, Alfredo, George",11
+668,3,Alfredo,Ella,4
+669,3,TA,Alfredo,42
+670,3,TA,Alfredo,16
+671,3,TA,George,34
+672,3,George,Ella,13
+673,3,TA,George,8
+674,3,George,Ella,4
+675,3,TA,George,5
+676,3,TA,George,64
+677,3,TA,"Alfredo, George",11
+678,3,TA,"Alfredo, George",3
+679,3,Alfredo,Ella,2
+680,3,TA,Alfredo,16
+681,3,Alfredo,Ella,7
+682,3,TA,"Alfredo, George",23
+683,3,TA,George,7
+684,3,TA,"Ella, Alfredo, George",23
+685,3,TA,Jason,19
+686,3,George,"Ella, Jason, Alfredo",10
+687,3,TA,George,48
+688,3,George,Jason,47
+689,3,TA,George,9
+690,3,George,Jason,7
+691,3,TA,George,20
+692,3,George,Jason,25
+693,3,TA,George,13
+694,3,George,Jason,10
+695,3,TA,George,23
+696,3,TA,Ella,6
+697,3,TA,Jason,2
+698,3,TA,Ella,2
+699,3,TA,George,23
+700,3,George,Jason,5
+701,3,TA,George,15
+702,3,TA,Jason,13
+703,3,TA,Ella,11
+704,3,TA,Jason,21
+705,3,TA,"Jason, Alfredo, George",10
+706,3,George,"Alfredo, Ella, Jason",75
+707,3,TA,Ella,17
+708,3,TA,Jason,20
+709,3,TA,George,78
+710,3,George,Jason,30
+711,3,TA,George,10
+712,3,George,Jason,12
+713,3,TA,George,108
+714,3,George,Jason,30
+715,3,TA,George,66
+716,3,TA,Ella,77
+717,3,TA,Jason,4
+718,3,TA,Ella,99
+719,3,Alfredo,Jason,4
+720,3,TA,Ella,26
+721,3,TA,Jason,29
+722,3,TA,"Ella, George, Alfredo",49
+723,3,TA,"Ella, George, Alfredo",32
+724,3,TA,"Ella, George, Alfredo",38
+725,3,TA,Jason,3
+726,3,TA,Ella,44
+727,3,George,Jason,2
+728,3,TA,George,8
+729,3,George,Jason,8
+730,3,TA,"Jason, George, Alfredo",12
+731,3,TA,"Jason, George, Alfredo",34
+732,3,TA,"Jason, George, Alfredo",13
+733,4,TA,George,29
+734,4,George,Jason,1
+735,4,TA,George,49
+736,4,TA,George,53
+737,4,TA,"George, Alfredo",50
+738,4,Alfredo,Jason,4
+739,4,George,Jason,20
+740,4,TA,"George, Alfredo",17
+741,4,Alfredo,Jason,8
+742,4,TA,Alfredo,5
+743,4,Alfredo,Jason,24
+744,4,TA,Alfredo,16
+745,4,Alfredo,Jason,7
+746,4,TA,Alfredo,8
+747,4,Alfredo,Jason,5
+748,4,TA,Alfredo,66
+749,4,Alfredo,Jason,1
+750,4,TA,"Alfredo, George",65
+751,4,George,Jason,1
+752,4,TA,George,22
+753,4,George,Jason,9
+754,4,TA,George,3
+755,4,George,Jason,4
+756,4,TA,George,2
+757,4,George,Jason,3
+758,4,TA,George,39
+759,4,TA,George,13
+760,4,George,Jason,1
+761,4,TA,George,3
+762,4,TA,"George, Alfredo",56
+763,4,George,Jason,6
+764,4,TA,"George, Alfredo",34
+765,4,George,Jason,30
+766,4,TA,George,4
+767,4,George,Jason,8
+768,4,TA,George,4
+769,4,George,Jason,14
+770,4,TA,George,18
+771,4,George,Jason,1
+772,4,TA,George,39
+773,4,George,Jason,22
+774,4,TA,George,19
+775,4,George,Jason,8
+776,4,TA,George,6
+777,4,George,Jason,29
+778,4,TA,George,20
+779,4,George,Jason,17
+780,4,TA,George,66
+781,4,George,Jason,1
+782,4,TA,George,13
+783,4,TA,George,15
+784,4,George,Jason,1
+785,4,TA,George,93
+786,4,George,Jason,37
+787,4,TA,George,25
+788,4,George,Jason,7
+789,4,TA,Alfredo,6
+790,4,Alfredo,Jason,5
+791,4,TA,Alfredo,7
+792,4,George,Jason,15
+793,4,TA,Alfredo,41
+794,4,Alfredo,Jason,3
+795,4,TA,Alfredo,22
+796,4,Alfredo,Jason,2
+797,4,TA,Alfredo,16
+798,4,TA,Alfredo,38
+799,4,George,Jason,15
+800,4,TA,George,49
+801,4,George,Jason,12
+802,4,TA,George,3
+803,4,George,Jason,15
+804,4,Alfredo,Jason,5
+805,4,TA,"Alfredo, George",69
+806,4,George,Jason,10
+807,4,Alfredo,Jason,1
+808,4,TA,"Alfredo, George",81
+809,4,Alfredo,Jason,7
+810,4,TA,Alfredo,5
+811,4,Alfredo,Jason,11
+812,4,TA,Alfredo,107
+813,4,Alfredo,Jason,19
+814,4,TA,Alfredo,78
+815,4,Alfredo,Jason,3
+816,4,TA,Alfredo,16
+817,4,TA,George,7
+818,4,George,Jason,38
+819,4,TA,George,12
+820,4,George,Jason,5
+821,4,TA,George,16
+822,4,George,Jason,8
+823,4,TA,George,3
+824,4,TA,George,38
+825,4,George,Jason,4
+826,4,TA,George,2
+827,4,George,Jason,31
+828,4,TA,George,5
+829,4,George,Jason,26
+830,4,TA,George,49
+831,4,George,Jason,16
+832,4,TA,George,51
+833,4,Alfredo,Jason,3
+834,4,TA,Alfredo,21
+835,4,TA,George,26
+836,4,George,Jason,6
+837,4,TA,George,29
+838,4,George,Jason,11
+839,4,TA,"George, Alfredo",59
+840,4,Alfredo,Jason,14
+841,4,TA,George,1
+842,4,George,Jason,1
+843,4,TA,George,38
+844,4,George,JAson,6
+845,4,TA,George,12
+846,4,George,Jason,11
+847,4,TA,George,29
+848,4,George,Jason,1
+849,4,TA,George,19
+850,4,George,Jason,13
+851,4,TA,George,6
+852,4,George,Jason,7
+853,4,TA,George,14
+854,4,George,JAson,6
+855,4,TA,George,52
+856,4,TA,George,50
+857,4,TA,George,17
+858,4,TA,George,24
+859,4,George,Jason,19
+860,4,TA,George,10
+861,4,George,Jason,49
+862,4,George,Jason,5
+863,4,TA,"George, Jason, Alfredo",5
+864,4,George,"Jason, Matthew",13
+865,4,TA,George,52
+866,4,George,Jason,7
+867,4,TA,Jason,29
+868,4,TA,George,15
+869,4,TA,George,24
+870,4,George,Jason,41
+871,4,TA,George,38
+872,4,George,Matthew,5
+873,4,TA,George,19
+874,4,TA,George,36
+875,4,TA,"Jason, George, Alfredo",9
+876,4,TA,"George, Alfredo",97
+877,4,George,Jason,2
+878,4,TA,Ella,15
+879,4,TA,Jason,16
+880,4,TA,Jason,65
+881,4,TA,"George, Alfredo",31
+882,4,George,JAson,26
+883,4,TA,George,15
+884,4,Alfredo,George,8
+885,4,George,Alfredo,57
+886,4,Alfredo,George,12
+887,4,George,Alfredo,23
+888,4,Alfredo,George,83
+889,4,George,Alfredo,51
+890,4,Alfredo,George,32
+891,4,George,Alfredo,34
+892,4,TA,"George, Alfredo",16
+893,4,George,Jason,8
+894,4,TA,George,10
+895,4,George,Jason,12
+896,4,Alfredo,JAson,3
+897,4,George,Alfredo,2
+898,4,TA,George,68
+899,4,TA,"George, Alfredo",19
+900,4,Alfredo,Ella,1
+901,4,TA,Alfredo,15
+902,4,Alfredo,Ella,26
+903,4,George,Alfredo,7
+904,4,Alfredo,George,3
+905,4,George,Alfredo,12
+906,4,Alfredo,George,3
+907,4,TA,"Alfredo, George",12
+908,4,Alfredo,George,20
+909,4,George,Alfredo,12
+910,4,Alfredo,George,7
+911,4,TA,"Alfredo, George",22
+912,4,Alfredo,Jason,30
+913,4,George,Jason,48
+914,4,TA,"George, Alfredo",114
+915,4,George,Jason,48
+916,4,TA,George,57
+917,4,Alfredo,George,51
+918,4,George,Alfredo,52
+919,4,Alfredo,George,20
+920,4,George,Alfredo,23
+921,4,TA,"George, Alfredo",36
+922,4,George,Al,17
+923,4,Alfredo,George,1
+924,4,George,Alfredo,29
+925,4,TA,"Alfredo, George",55
+926,4,TA,Alfredo,24
+927,4,George,Jason,12
+928,4,TA,George,15
+929,4,George,Jason,2
+930,4,TA,"George, Alfredo",46
+931,4,George,Jason,6
+932,4,TA,"George, Alfredo",30
+933,4,George,Jason,5
+934,4,TA,George,38
+935,4,George,Jason,18
+936,4,George,Jason,55
+937,4,Alfredo,George,26
+938,4,George,Alfredo,28
+939,4,TA,"George, Alfredo",36
+940,4,George,Jason,32
+941,4,George,Jason,53
+942,4,TA,George,55
+943,4,George,Jason,87
+944,4,TA,George,10
+945,4,George,JAson,14
+946,4,TA,George,43
+947,4,George,Jason,7
+948,4,TA,George,14
+949,4,George,Jason,1
+950,4,TA,George,25
+951,4,George,Jason,9
+952,4,TA,George,7
+953,4,TA,Jason,15
+954,4,George,JAson,31
+955,4,TA,George,10
+956,4,George,JAson,53
+957,4,TA,George,33
+958,4,George,Jason,6
+959,4,TA,George,2
+960,4,George,JAson,16
+961,4,TA,George,9
+962,4,George,Jason,20
+963,4,TA,George,15
+964,4,TA,Alfredo,9
+965,4,Alfredo,Jason,1
+966,4,TA,Alfredo,95
+967,4,George,Jason,7
+968,4,TA,George,62
+969,4,TA,"George, Alfredo",29
+970,4,TA,"George, Alfredo",64
+971,4,George,Jason,10
+972,4,TA,George,15
+973,4,George,Jason,2
+974,4,TA,George,68
+975,4,George,Jason,8
+976,4,TA,George,50
+977,4,George,Jason,25
+978,4,TA,George,17
+979,4,George,JAson,11
+980,4,Alfredo,Jason,12
+981,4,George,Jason,27
+982,4,Alfredo,Jason,19
+983,4,George,JAson,16
+984,4,TA,George,29
+985,4,George,JAson,10
+986,4,Alfredo,Jason,31
+987,4,TA,"George, Alfredo",31
+988,4,George,JAson,56
+989,4,Alfredo,Jason,19
+990,4,TA,Alfredo,81
+991,4,TA,Jason,4
+992,4,TA,Alfredo,42
+993,4,Alfredo,Jason,14
+994,4,TA,"George, Alfredo",25
+995,4,George,Jason,17
+996,4,TA,"George, Ella",8
+997,4,TA,Jason,35
+998,4,George,Jason,31
+999,4,TA,"George, Alfredo, Jason",25
+1000,4,George,JAson,21
+1001,4,TA,Alfredo,6
+1002,4,Alfredo,Jason,5
+1003,4,TA,"Alfredo, George",4
+1004,4,George,JAson,23
+1005,4,TA,"George, Alfredo",15
+1006,4,George,Jason,56
+1007,4,TA,"Jason, George, Alfredo",12
+1008,4,Alfredo,"Jason, Ella, George",10
+1009,4,TA,Alfredo,9
