@@ -8,7 +8,7 @@ In addition to learning to code, campers who reside on campus will participate i
 
 
 ## &#x1F3AE; 2021 Camp Dates:  
-Week 1 Monday, June 14 through Friday, June 18, 2021 
+Week 1 Monday, June 14 through Friday, June 18, 2021     
 Week 2 Monday, June 21 through Friday, June 25, 2021
 
 The Zoom virtual sessions will run from 12:30 - 3:30pm EDT Monday through Friday. The in-person campers will have morning instruction related to college readiness and coding sessions from 12:30 - 3:30pm EDT Monday through Friday.
