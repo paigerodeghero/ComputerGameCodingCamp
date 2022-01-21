@@ -53,13 +53,13 @@ h1 {
 }
 
 h2 {
-  color: #88FB04;
+  color: #3eb73a;/*#88FB04;*/
   font-family: 'MyWebFont';
   font-weight: normal;
   font-size: 28px;
 }
 .greenFont{
-  color: #88FB04;
+  color: #3eb73a;/*#88FB04;*/
 }
 
 h1, h3, h5 {
@@ -67,17 +67,17 @@ h1, h3, h5 {
 }
 
 h2, h4  {
-  color: #88FB04;
+  color: #3eb73a;/*#88FB04;*/
 }
 
 .navBar {
   color: black;
-  background-color: #88FB04;
+  background-color: #3eb73a;/*#88FB04;*/
 }
 
 .navBarHover:hover{
   color:black;
-  background-color: #659F22;
+  background-color: 659F22;
 }
 
 .people{
@@ -121,8 +121,7 @@ h2, h4  {
 /* The typewriter cursor effect */
 /* @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #659F22}
-} */
+50% { border-color: ##3eb73a} /*659F22}*/} */
 
 /* Use footerScrollContent when there's scrolling on the page, it keeps the footer as the last thing on the page. */
 
