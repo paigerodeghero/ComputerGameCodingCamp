@@ -34,7 +34,7 @@ Joey Binz, B.S. ([Clemson University](https://www.clemson.edu/)) (2022)
 [James Dominic, M.S.](https://domini4.github.io/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021, 2022)  
 [Ella Kokinda, B.S.](https://ella.dev/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021, 2022)    
 [Makayla Moster, M.S.](https://makayla-moster.github.io) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021, 2022)  
-Matthew Re, B.S. ([University of South Carolina](https://sc.edu/)) (2021, 2022) 
+[Matthew Re, B.S.](https://matthewjre.github.io/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021, 2022) 
 
 &nbsp;
 # \*Camp Guest Speakers\*
