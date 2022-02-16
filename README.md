@@ -6,7 +6,7 @@ We are excited to host this camp for the *third* year in a row!
 
 Visit our website:  [codeatclemson.com](codeatclemson.com)      
 
-## &#x1F3AE; 2021 Camp Dates:  
+## &#x1F3AE; 2022 Camp Dates:  
 2022 Camp Dates: July 11th-29th (M-F)
 
 The Zoom virtual sessions will run from 12:30 - 3:30pm EDT Monday through Friday. 
@@ -23,16 +23,16 @@ The Zoom virtual sessions will run from 12:30 - 3:30pm EDT Monday through Friday
 
 
 ### Collaborators: 
-[Thomas Beeson, Ed.S, MA, BCBA](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson University - Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html)) (2020, 2021)    
-[Jeanette Ashworth, PhD](https://www.jeanetteashworth.com/) (2021)  
+[Thomas Beeson, Ed.S, MA, BCBA](https://www.clemson.edu/academics/studentaccess/contact-us.html) ([Clemson University - Spectrum Program](https://www.clemson.edu/academics/studentaccess/autism-transition.html)) (2020, 2021, 2022)    
+[Jeanette Ashworth, PhD](https://www.jeanetteashworth.com/) (2021, 2022)  
 
 ### Instructors & Content Developers:
-Jason Lehmann, B.S. (QA Lead at [Aspiritech](https://www.aspiritech.org/)) (2021)     
-Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (2020, 2021)  
-[James Dominic, M.S.](https://domini4.github.io/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021)  
-[Ella Kokinda, B.S.](https://ella.dev/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021)    
-[Makayla Moster, B.S.](https://makayla-moster.github.io) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021)  
-Matthew Re, B.S. ([University of South Carolina](https://sc.edu/)) (2021) 
+Jason Lehmann, B.S. (QA Lead at [Aspiritech](https://www.aspiritech.org/)) (2021, 2022)     
+Conner Phillis, B.S. (Software Engineer at [KeyMark](https://www.keymarkinc.com/)) (2020, 2021, 2022)  
+[James Dominic, M.S.](https://domini4.github.io/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2020, 2021, 2022)  
+[Ella Kokinda, B.S.](https://ella.dev/) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021, 2022)    
+[Makayla Moster, M.S.](https://makayla-moster.github.io) (PhD student at [Clemson University](http://www.clemson.edu/)) (2021, 2022)  
+Matthew Re, B.S. ([University of South Carolina](https://sc.edu/)) (2021, 2022) 
 
 &nbsp;
 # \*Camp Guest Speakers\*
@@ -45,6 +45,7 @@ Richard Knoll, Microsoft MakeCode Team (2020)
 &nbsp;
 # \*Peer-Reviewed Research Publications\*
 (1) Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021. 	&#x1F389; **_Best Paper Award_** 	&#x1F389; [Paper Link](https://www.microsoft.com/en-us/research/publication/how-a-remote-video-game-coding-camp-improved-autistic-college-students-self-efficacy-in-communication/) 
+(2) Moster, M., Kokinda, E., Re, M., Dominic, J., Lehmann, J., Begel, A., Rodeghero, P. "'Can You Help Me?' An Experience Report of Teamwork in a Game Coding Camp for Autistic High School Students", to appear in Proc. of the 44th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '22), Pittsburgh, PA, USA, May 21-29, 2022. [Paper Link](https://makayla-moster.github.io/assets/papers/2022_ICSE_SEET_Experience_Report.pdf) [Camp Materials](https://zenodo.org/record/5902445#.Ygz7nt_MIuU)
 
 &nbsp;
 # \*Media\*
