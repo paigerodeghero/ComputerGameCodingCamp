@@ -45,6 +45,7 @@ Richard Knoll, Microsoft MakeCode Team (2020)
 &nbsp;
 # \*Peer-Reviewed Research Publications\*
 (1) Begel, A., Dominic, J., Phillis, C., Beeson, T., Rodeghero, P. "How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication", in Proc. of the 51st Technical Symposium on Computer Science Education (SIGCSE'21), Toronto, Canada, March 13-20, 2021. 	&#x1F389; **_Best Paper Award_** 	&#x1F389; [Paper Link](https://www.microsoft.com/en-us/research/publication/how-a-remote-video-game-coding-camp-improved-autistic-college-students-self-efficacy-in-communication/) 
+
 (2) Moster, M., Kokinda, E., Re, M., Dominic, J., Lehmann, J., Begel, A., Rodeghero, P. "'Can You Help Me?' An Experience Report of Teamwork in a Game Coding Camp for Autistic High School Students", to appear in Proc. of the 44th IEEE/ACM International Conference on Software Engineering - Software Engineering Education and Training Track (ICSE SEET '22), Pittsburgh, PA, USA, May 21-29, 2022. [Paper Link](https://makayla-moster.github.io/assets/papers/2022_ICSE_SEET_Experience_Report.pdf) [Camp Materials](https://zenodo.org/record/5902445#.Ygz7nt_MIuU)
 
 &nbsp;
