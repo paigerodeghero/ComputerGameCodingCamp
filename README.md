@@ -1,21 +1,15 @@
 
 # &#x1f42f; Computer Game Coding Camp for Autism &#x1f42f;
-Computer Game Coding Camp (CGCC) for Autism is a two-week camp for high school students and rising seniors on the autism spectrum (ASD) that exposes them to high-level video game development and networking with peers. Throughout the two-week camp, campers learn the high-level processes of software development, game development, interpersonal communication, collaboration, and end up with their own game, from scratch.    
+Computer Game Coding Camp (CGCC) for Autism is a summer camp for high school students and rising seniors on the autism spectrum (ASD) that exposes them to high-level video game development and networking with peers. Throughout the camp, campers learn the high-level processes of software development, game development, interpersonal communication, collaboration, and end up with their own game, from scratch.    
 
-We are excited to host this camp for the second year in a row. This year, our two-week coding camp will be provided in two formats, virtual through Zoom and in-person (on the Clemson University campus). Campers may participate fully online, fully in-person, or choose one week to be online and the other week to be in-person. It is recommended that campers register for both weeks.
+We are excited to host this camp for the *third* year in a row!
 
-In addition to learning to code, campers who reside on campus will participate in activities and instruction designed to further develop their executive functioning, problem-solving, and self-advocacy skills, which are necessary for college success.
-
+Visit our website:  [codeatclemson.com](codeatclemson.com)      
 
 ## &#x1F3AE; 2021 Camp Dates:  
-Week 1 Monday, June 14 through Friday, June 18, 2021     
-Week 2 Monday, June 21 through Friday, June 25, 2021
+2022 Camp Dates: July 11th-29th (M-F)
 
-The Zoom virtual sessions will run from 12:30 - 3:30pm EDT Monday through Friday. The in-person campers will have morning instruction related to college readiness and coding sessions from 12:30 - 3:30pm EDT Monday through Friday.
-
-## &#x1F3AE; [Sign up here!](https://www.clemson.edu/summer/summer-scholars/cusp.html?utm_medium=email&_hsmi=118725944&_hsenc=p2ANqtz-9aFnvVFjiX19Y8_Jph8Qiatj7tRdb49FShUfV97XVcsNc23R1kEiQ6SNQmc4CUelt1RDkynHwR7xBmtYiyxgtMjDK7isSjyYylvk2O89UEs-dN8gg&utm_content=118725944&utm_source=hs_email)
-
-
+The Zoom virtual sessions will run from 12:30 - 3:30pm EDT Monday through Friday. 
 
 ### 	Questions? Contact us at: [cgcc@clemson.edu](mailto:cgcc@clemson.edu?subject=[CGCC-Website-Contact])
 
@@ -43,7 +37,9 @@ Matthew Re, B.S. ([University of South Carolina](https://sc.edu/)) (2021)
 &nbsp;
 # \*Camp Guest Speakers\*
 Kaylin Norman-Slack, The Pokémon Company International (2021)   
-Peli de Halleux, PhD, Microsoft MakeCode Team (2020)   
+Sofia Rodriguez and Soo Hyun (Andy) Moon, UW HCDE, Project RESet (2021)     
+Vanessa Casteñada-Gill, CEO of Social Cipher, Inc. (2021)    
+Peli de Halleux, PhD, Microsoft MakeCode Team (2020)    
 Richard Knoll, Microsoft MakeCode Team (2020)
 
 &nbsp;
