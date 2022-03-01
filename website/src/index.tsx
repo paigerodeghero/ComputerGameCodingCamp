@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { BrowserRouter, HashRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import { createTheme, responsiveFontSizes } from "@mui/material";
 import { ThemeProvider as LegacyThemeProvider } from "@mui/styles";
 import { ThemeProvider } from "@mui/system";

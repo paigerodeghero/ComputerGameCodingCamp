@@ -32,7 +32,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2020, 2021"
-          imageUrl="http://codeatclemson.com/website/images/paige.jpeg"
+          imageUrl="http://codeatclemson.com/people/headshots/paige_small.jpeg"
         />
         <Person
           stringName="Andrew Begel, Ph.D."
@@ -57,7 +57,7 @@ const MeetTheTeam = () => {
             </>
           }
           years="2020, 2021"
-          imageUrl="http://codeatclemson.com/website/images/andy_small.jpg"
+          imageUrl="http://codeatclemson.com/people/headshots/andy_small.jpg"
         />
       </PersonSection>
       <PersonSection title="Collaborators">
@@ -84,7 +84,7 @@ const MeetTheTeam = () => {
           stringName="Jeanette Ashworth, Ph.D."
           name={"Jeanette Ashworth, Ph.D."}
           years="2021"
-          imageUrl="http://codeatclemson.com/website/images/jeanette_small.jpg"
+          imageUrl="http://codeatclemson.com/people/headshots/jeanette_small.jpg"
         />
       </PersonSection>
       <PersonSection title="Instructors and Content Developers">
@@ -108,7 +108,7 @@ const MeetTheTeam = () => {
             </>
           }
           years="2021"
-          imageUrl="http://codeatclemson.com/website/images/Jason_small.jpg"
+          imageUrl="http://codeatclemson.com/people/headshots/Jason_small.jpg"
         />
         <Person
           stringName="Conner Phillis"
@@ -122,7 +122,7 @@ const MeetTheTeam = () => {
             </>
           }
           years="2020, 2021"
-          imageUrl="http://codeatclemson.com/website/images/Conner_small.png"
+          imageUrl="http://codeatclemson.com/people/headshots/Conner_small.png"
         />
         <Person
           stringName="James Dominic, M.S."
@@ -137,7 +137,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2020, 2021"
-          imageUrl="http://codeatclemson.com/website/images/james_small.jpg"
+          imageUrl="http://codeatclemson.com/people/headshots/james_small.jpg"
         />
         <Person
           stringName="Ella Kokinda, B.S."
@@ -152,7 +152,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2021"
-          imageUrl="http://codeatclemson.com/website/images/ella_small.jpg"
+          imageUrl="http://codeatclemson.com/people/headshots/ella_small.jpg"
         />
         <Person
           stringName="Makayla Moster, M.S."
@@ -171,7 +171,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2021"
-          imageUrl="http://codeatclemson.com/website/images/makayla_small.jpg"
+          imageUrl="http://codeatclemson.com/people/headshots/makayla_small.jpg"
         />
         <Person
           stringName="Matthew Re, B.S."
@@ -190,7 +190,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2021"
-          imageUrl="http://codeatclemson.com/website/images/Matthew_Re_500.png"
+          imageUrl="http://codeatclemson.com/people/headshots/Matthew_Re_500.png"
         />
       </PersonSection>
     </SecondaryPageHost>
