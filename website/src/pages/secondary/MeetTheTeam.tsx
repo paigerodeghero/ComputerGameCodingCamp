@@ -83,6 +83,12 @@ const MeetTheTeam = () => {
         <Person
           stringName="Jeanette Ashworth, Ph.D."
           name={"Jeanette Ashworth, Ph.D."}
+          affiliation={
+            <Link href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881"
+            >
+              Center for a Happier Life, PLLC
+            </Link>
+          }
           years="2021"
           imageUrl="http://codeatclemson.com/people/headshots/jeanette_small.jpg"
         />
