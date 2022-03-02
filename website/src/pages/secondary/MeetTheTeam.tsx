@@ -1,9 +1,7 @@
 import { Divider, Link, Skeleton, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import { PropsWithChildren, ReactNode } from "react";
-import {
-  SecondaryPageHost,
-} from "../../layout/SecondaryPage";
+import { SecondaryPageHost } from "../../layout/SecondaryPage";
 
 export {};
 
@@ -22,7 +20,11 @@ const MeetTheTeam = () => {
         <Person
           stringName="Paige Rodeghero, Ph.D."
           name={
-            <Link href="https://paigerodeghero.com" underline="none" color="inherit">
+            <Link
+              href="https://paigerodeghero.com"
+              underline="none"
+              color="inherit"
+            >
               Paige Rodeghero, Ph.D.
             </Link>
           }
@@ -37,7 +39,11 @@ const MeetTheTeam = () => {
         <Person
           stringName="Andrew Begel, Ph.D."
           name={
-            <Link href="https:://www.andrewbegel.com" underline="none" color="inherit">
+            <Link
+              href="https:://www.andrewbegel.com"
+              underline="none"
+              color="inherit"
+            >
               Andrew Begel
             </Link>
           }
@@ -84,8 +90,7 @@ const MeetTheTeam = () => {
           stringName="Jeanette Ashworth, Ph.D."
           name={"Jeanette Ashworth, Ph.D."}
           affiliation={
-            <Link href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881"
-            >
+            <Link href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881">
               Center for a Happier Life, PLLC
             </Link>
           }
@@ -108,7 +113,11 @@ const MeetTheTeam = () => {
           affiliation={
             <>
               QA Lead at{" "}
-              <Link href="https://www.aspiritech.org" underline="none" color="inherit">
+              <Link
+                href="https://www.aspiritech.org"
+                underline="none"
+                color="inherit"
+              >
                 Aspiritech
               </Link>
             </>
@@ -122,7 +131,11 @@ const MeetTheTeam = () => {
           affiliation={
             <>
               Software Engineer at{" "}
-              <Link href="https://www.keymarkinc.com" underline="none" color="inherit">
+              <Link
+                href="https://www.keymarkinc.com"
+                underline="none"
+                color="inherit"
+              >
                 Keymark
               </Link>
             </>
@@ -133,12 +146,20 @@ const MeetTheTeam = () => {
         <Person
           stringName="James Dominic, M.S."
           name={
-            <Link href="https://domini4.github.io" underline="none" color="inherit">
+            <Link
+              href="https://domini4.github.io"
+              underline="none"
+              color="inherit"
+            >
               James Dominic, M.S.
             </Link>
           }
           affiliation={
-            <Link href="https://www.clemson.edu" underline="none" color="inherit">
+            <Link
+              href="https://www.clemson.edu"
+              underline="none"
+              color="inherit"
+            >
               Clemson University
             </Link>
           }
@@ -153,7 +174,11 @@ const MeetTheTeam = () => {
             </Link>
           }
           affiliation={
-            <Link href="https://www.clemson.edu" underline="none" color="inherit">
+            <Link
+              href="https://www.clemson.edu"
+              underline="none"
+              color="inherit"
+            >
               Clemson University
             </Link>
           }
@@ -172,7 +197,11 @@ const MeetTheTeam = () => {
             </Link>
           }
           affiliation={
-            <Link href="https://www.clemson.edu" underline="none" color="inherit">
+            <Link
+              href="https://www.clemson.edu"
+              underline="none"
+              color="inherit"
+            >
               Clemson University
             </Link>
           }
@@ -191,18 +220,22 @@ const MeetTheTeam = () => {
             </Link>
           }
           affiliation={
-            <Link href="https://www.clemson.edu" underline="none" color="inherit">
+            <Link
+              href="https://www.clemson.edu"
+              underline="none"
+              color="inherit"
+            >
               Clemson University
             </Link>
           }
           years="2021"
           imageUrl="http://codeatclemson.com/people/headshots/Matthew_Re_500.png"
         />
-        <Person 
+        <Person
           stringName="Tiffany Liu"
           name={
             <Link
-              href="https://https://www.linkedin.com/in/tiffany-liu-13b236ab/"
+              href="https://www.linkedin.com/in/tiffany-liu-13b236ab/"
               underline="none"
               color="inherit"
             >
@@ -210,14 +243,37 @@ const MeetTheTeam = () => {
             </Link>
           }
           affiliation={
-            <Link href="https://www.stanford.edu" underline="none" color="inherit">
+            <Link
+              href="https://www.stanford.edu"
+              underline="none"
+              color="inherit"
+            >
               Stanford University
             </Link>
           }
           years=""
           imageUrl="https://codeatclemson.com/people/headshots/tiffany.jpg"
-          />
+        />
       </PersonSection>
+      <Person
+        stringName="Joey Binz"
+        name={
+          <Link
+            href="https://www.linkedin.com/in/joey-binz-093403196/"
+            underline="none"
+            color="inherit"
+          >
+            Joey Binz
+          </Link>
+        }
+        affiliation={
+          <Link href="https://www.clemson.edu" underline="none" color="inherit">
+            Clemson University
+          </Link>
+        }
+        years=""
+        imageUrl="https://codeatclemson.edu/people/headshots/joeybinz_photo.jpg"
+      />
     </SecondaryPageHost>
   );
 };
@@ -240,10 +296,10 @@ const PersonSection = (props: PersonSectionProps) => {
       <Box
         sx={{
           display: {
-            sm: 'flex',
-            md: 'grid',
+            sm: "flex",
+            md: "grid",
           },
-          flexDirection: 'column',
+          flexDirection: "column",
           gridTemplateColumns: "1fr 1fr",
         }}
       >
