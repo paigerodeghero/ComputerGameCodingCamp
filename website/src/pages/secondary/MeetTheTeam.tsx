@@ -191,13 +191,32 @@ const MeetTheTeam = () => {
             </Link>
           }
           affiliation={
-            <Link href="www.clemson.edu" underline="none" color="inherit">
+            <Link href="https://www.clemson.edu" underline="none" color="inherit">
               Clemson University
             </Link>
           }
           years="2021"
           imageUrl="http://codeatclemson.com/people/headshots/Matthew_Re_500.png"
         />
+        <Person 
+          stringName="Tiffany Liu"
+          name={
+            <Link
+              href="https://https://www.linkedin.com/in/tiffany-liu-13b236ab/"
+              underline="none"
+              color="inherit"
+            >
+              Tiffany Liu
+            </Link>
+          }
+          affiliation={
+            <Link href="https://www.stanford.edu" underline="none" color="inherit">
+              Stanford University
+            </Link>
+          }
+          years=""
+          imageUrl="https://codeatclemson.com/people/headshots/tiffany.jpg"
+          />
       </PersonSection>
     </SecondaryPageHost>
   );
