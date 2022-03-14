@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/computergamecodingcamp/static/css/main.e6c13ad2.css",
-    "main.js": "/computergamecodingcamp/static/js/main.4a87d738.js",
+    "main.js": "/computergamecodingcamp/static/js/main.52a5c62c.js",
     "static/js/787.e52a6a6f.chunk.js": "/computergamecodingcamp/static/js/787.e52a6a6f.chunk.js",
     "static/media/CGCC_PixelArt_Long_DragonFire.png": "/computergamecodingcamp/static/media/CGCC_PixelArt_Long_DragonFire.67d9cc98b1eb40787a62.png",
     "index.html": "/computergamecodingcamp/index.html",
     "main.e6c13ad2.css.map": "/computergamecodingcamp/static/css/main.e6c13ad2.css.map",
-    "main.4a87d738.js.map": "/computergamecodingcamp/static/js/main.4a87d738.js.map",
+    "main.52a5c62c.js.map": "/computergamecodingcamp/static/js/main.52a5c62c.js.map",
     "787.e52a6a6f.chunk.js.map": "/computergamecodingcamp/static/js/787.e52a6a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4a87d738.js"
+    "static/js/main.52a5c62c.js"
   ]
 }
