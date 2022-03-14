@@ -34,7 +34,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2020, 2021"
-          imageUrl="http://codeatclemson.com/people/headshots/paige_small.jpeg"
+          imageUrl="https://codeatclemson.com/people/headshots/paige_small.jpg"
         />
         <Person
           stringName="Andrew Begel, Ph.D."
@@ -90,7 +90,7 @@ const MeetTheTeam = () => {
           stringName="Jeanette Ashworth, Ph.D."
           name={"Jeanette Ashworth, Ph.D."}
           affiliation={
-            <Link href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881">
+            <Link href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881" underline="none" color="inherit">
               Center for a Happier Life, PLLC
             </Link>
           }
@@ -272,7 +272,7 @@ const MeetTheTeam = () => {
           </Link>
         }
         years=""
-        imageUrl="https://codeatclemson.edu/people/headshots/joeybinz_photo.jpg"
+        imageUrl="https://codeatclemson.com/people/headshots/joeybinz_photo.jpg"
       />
     </SecondaryPageHost>
   );
