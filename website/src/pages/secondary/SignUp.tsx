@@ -63,10 +63,10 @@ const SignUp = () => {
             <strong>Sign-Up Link</strong>: <MaterialLink>TBA</MaterialLink>
           </li>
           <li>
-            <strong>Early Registration Deadline</strong>: March 15, 2022
+            <strong>Early Registration Deadline</strong>: April 20, 2022
           </li>
           <li>
-            <strong>Late Registration Deadline</strong>: April 30, 2022
+            <strong>Late Registration Deadline</strong>: May 15, 2022
           </li>
         </ul>
       </Typography>
