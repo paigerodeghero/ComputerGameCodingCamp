@@ -44,7 +44,7 @@ const MeetTheTeam = () => {
               underline="none"
               color="inherit"
             >
-              Andrew Begel
+              Andrew Begel, Ph.D.
             </Link>
           }
           affiliation={
