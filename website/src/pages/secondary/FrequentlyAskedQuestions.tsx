@@ -15,10 +15,7 @@ const FrequentlyAskedQuestions = () => {
         </ul>
       </FaqItem>
       <FaqItem title="What is the deadline for registration for the 2022 camp?">
-        <ul>
-          <li>Early Registration: March 15, 2022</li>
-          <li>Late Registration: April 30, 2022</li>
-        </ul>
+        There is no registration deadline so far
       </FaqItem>
       <FaqItem title="What equipment is required to complete the camp?">
         <ul>

@@ -33,7 +33,7 @@ const MeetTheTeam = () => {
               Clemson University
             </Link>
           }
-          years="2020, 2021"
+          years="2020, 2021, 2022"
           imageUrl="https://codeatclemson.com/people/headshots/paige_small.jpg"
         />
         <Person
@@ -62,7 +62,7 @@ const MeetTheTeam = () => {
               </Link>
             </>
           }
-          years="2020, 2021"
+          years="2020, 2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/andy_small.jpg"
         />
       </PersonSection>
@@ -83,7 +83,7 @@ const MeetTheTeam = () => {
               Clemson University
             </Link>
           }
-          years="2020, 2021"
+          years="2020, 2021, 2022"
           imageUrl="https://media-exp1.licdn.com/dms/image/C5603AQF_qxZG7B4jMg/profile-displayphoto-shrink_200_200/0/1517432368672?e=1649894400&v=beta&t=Z07Muzi4gE11WrTH3oNEzXXcZEGM5LsvrOoTXZKff30"
         />
         <Person
@@ -94,7 +94,7 @@ const MeetTheTeam = () => {
               Center for a Happier Life, PLLC
             </Link>
           }
-          years="2021"
+          years="2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/jeanette_small.jpg"
         />
       </PersonSection>
@@ -122,7 +122,7 @@ const MeetTheTeam = () => {
               </Link>
             </>
           }
-          years="2021"
+          years="2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/Jason_small.jpg"
         />
         <Person
@@ -140,7 +140,7 @@ const MeetTheTeam = () => {
               </Link>
             </>
           }
-          years="2020, 2021"
+          years="2020, 2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/Conner_small.png"
         />
         <Person
@@ -163,7 +163,7 @@ const MeetTheTeam = () => {
               Clemson University
             </Link>
           }
-          years="2020, 2021"
+          years="2020, 2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/james_small.jpg"
         />
         <Person
@@ -182,7 +182,7 @@ const MeetTheTeam = () => {
               Clemson University
             </Link>
           }
-          years="2021"
+          years="2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/ella_small.jpg"
         />
         <Person
@@ -205,7 +205,7 @@ const MeetTheTeam = () => {
               Clemson University
             </Link>
           }
-          years="2021"
+          years="2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/makayla_small.jpg"
         />
         <Person
@@ -228,7 +228,7 @@ const MeetTheTeam = () => {
               Clemson University
             </Link>
           }
-          years="2021"
+          years="2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/Matthew_Re_500.png"
         />
         <Person
@@ -251,7 +251,7 @@ const MeetTheTeam = () => {
               Stanford University
             </Link>
           }
-          years=""
+          years="2022"
           imageUrl="https://codeatclemson.com/people/headshots/tiffany.jpg"
         />
       </PersonSection>
@@ -271,7 +271,7 @@ const MeetTheTeam = () => {
             Clemson University
           </Link>
         }
-        years=""
+        years="2022"
         imageUrl="https://codeatclemson.com/people/headshots/joeybinz_photo.jpg"
       />
     </SecondaryPageHost>
