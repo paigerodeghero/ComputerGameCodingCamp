@@ -2,8 +2,6 @@ import { Typography } from "@mui/material";
 import { SecondaryPageHost } from "../../layout/SecondaryPage";
 import Section from "../../layout/Section";
 
-export {};
-
 const ContactUs = () => {
   return (
     <SecondaryPageHost>

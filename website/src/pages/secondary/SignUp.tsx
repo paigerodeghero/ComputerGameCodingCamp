@@ -55,18 +55,14 @@ const SignUp = () => {
         2022 Camp Dates and Sign-Up Link
       </Typography>
       <Typography component="div">
+        <Typography component='div' variant="h6"> Registration Link Coming Soon  </Typography>
+
         <ul>
           <li>
             <strong>Camp Dates</strong>: July 11th - July 29th (M-F)
           </li>
           <li>
             <strong>Sign-Up Link</strong>: <MaterialLink>TBA</MaterialLink>
-          </li>
-          <li>
-            <strong>Early Registration Deadline</strong>: April 20, 2022
-          </li>
-          <li>
-            <strong>Late Registration Deadline</strong>: May 15, 2022
           </li>
         </ul>
       </Typography>

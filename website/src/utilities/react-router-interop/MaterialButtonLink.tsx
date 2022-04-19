@@ -21,7 +21,7 @@ const MaterialButtonLink = (props: MaterialButtonLinkProps) => {
     [to]
   );
 
-  return <Button {...props} component={renderLink}></Button>;
+  return <Button  {...props} component={renderLink}></Button>;
 };
 
 export default MaterialButtonLink

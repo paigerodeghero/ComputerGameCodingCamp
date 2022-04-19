@@ -57,8 +57,8 @@ const Header = () => {
           <Box
             sx={{
               display: "grid",
-              gridTemplateColumns: "repeat(5, 1fr)",
-              width: 600,
+              gridTemplateColumns: "repeat(6, 1fr)",
+              width: 900,
             }}
           >
             <MaterialButtonLink to="/sign-up" variant="text">
@@ -74,7 +74,10 @@ const Header = () => {
               Research
             </MaterialButtonLink>
             <MaterialButtonLink to="/contact-us" variant="text">
-              Contact Us
+              Contact
+            </MaterialButtonLink>
+            <MaterialButtonLink to="/code-of-conduct" variant="text">
+              Code of Conduct
             </MaterialButtonLink>
           </Box>
         </Box>
@@ -158,9 +161,8 @@ const NextCampDates = () => (
         2022 Camp Dates: July 11th-29th (M-F)
       </Typography>
       <p>
-        <SignUpDate title="Early Registration Deadline" date="March 15, 2022" />
-        <SignUpDate title="Late Registration Deadline" date="April 30, 2022" />
-        <Link
+        <Typography textAlign={'center'} component="div" variant="h5">Registration link coming soon!</Typography>
+        {/* <Link
           component="div"
           sx={{
             paddingTop: 3,
@@ -168,7 +170,7 @@ const NextCampDates = () => (
           }}
         >
           Sign Up Here! (Link Coming Soon)
-        </Link>
+        </Link> */}
       </p>
       <Box
         component="p"

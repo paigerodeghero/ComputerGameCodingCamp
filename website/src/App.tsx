@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Homepage } from "./pages";
+import CodeOfConduct from "./pages/secondary/CodeOfConduct";
 import ContactUs from "./pages/secondary/ContactUs";
 import FrequentlyAskedQuestions from "./pages/secondary/FrequentlyAskedQuestions";
 import MeetTheTeam from "./pages/secondary/MeetTheTeam";
@@ -17,6 +18,7 @@ function App() {
         <Route path="/team" element={<MeetTheTeam />} />
         <Route path="/research" element={<Research />} />
         <Route path="/contact-us" element={<ContactUs />} />
+        <Route path="/code-of-conduct" element={ <CodeOfConduct />} />
       </Routes>
     </div>
   );

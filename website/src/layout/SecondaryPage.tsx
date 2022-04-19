@@ -93,7 +93,7 @@ export const SecondaryPageHeader = () => {
             sx={{
               justifySelf: "center",
               display: "grid",
-              gridTemplateColumns: "repeat(5, 1fr)",
+              gridTemplateColumns: "repeat(6, 1fr)",
               width: "100%",
             }}
           >
@@ -111,6 +111,9 @@ export const SecondaryPageHeader = () => {
             </MaterialButtonLink>
             <MaterialButtonLink to="/contact-us" variant="text">
               Contact
+            </MaterialButtonLink>
+            <MaterialButtonLink to="/code-of-conduct" variant="text" >
+              Code of Conduct
             </MaterialButtonLink>
           </Box>
         </Box>
