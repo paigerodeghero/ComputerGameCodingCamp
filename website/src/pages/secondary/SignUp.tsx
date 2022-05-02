@@ -1,4 +1,4 @@
-import { Box, Link as MaterialLink, Typography } from "@mui/material";
+import { Box, Link, Link as MaterialLink, Typography } from "@mui/material";
 import { SecondaryPageHost } from "../../layout/SecondaryPage";
 
 export {};
@@ -55,8 +55,9 @@ const SignUp = () => {
         2022 Camp Dates and Sign-Up Link
       </Typography>
       <Typography component="div">
-        <Typography component='div' variant="h6"> Registration Link Coming Soon  </Typography>
-
+        <Link variant="h6" href="https://forms.gle/M6ghnHbgGsdWk4d76">
+          Register Here!
+        </Link>
         <ul>
           <li>
             <strong>Camp Dates</strong>: July 11th - July 29th (M-F)

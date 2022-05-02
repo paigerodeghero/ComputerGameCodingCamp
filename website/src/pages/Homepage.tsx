@@ -44,9 +44,11 @@ const Header = () => {
           textAlign="center"
           variant="h2"
           component="div"
-          gutterBottom
         >
           Code @ Clemson
+        </Typography>
+        <Typography textAlign="center" variant="subtitle1" component="div" gutterBottom>
+          Presented by EdASE
         </Typography>
         <Box
           sx={{
@@ -158,20 +160,20 @@ const NextCampDates = () => (
           paddingTop: 2,
         }}
       >
-        2022 Camp Dates: July 11th-29th (M-F)
+        2022 Camp Dates: July 11th-29th, 1 - 3:30 Eastern
       </Typography>
-      <p>
-        <Typography textAlign={'center'} component="div" variant="h5">Registration link coming soon!</Typography>
-        {/* <Link
-          component="div"
+      <Box component="p" display="flex" justifyContent="center">
+        <Link
+          href="https://forms.gle/M6ghnHbgGsdWk4d76"
+          variant="h4"
           sx={{
             paddingTop: 3,
             textAlign: "center",
           }}
         >
-          Sign Up Here! (Link Coming Soon)
-        </Link> */}
-      </p>
+          Register Here!
+        </Link>
+      </Box>
       <Box
         component="p"
         sx={{

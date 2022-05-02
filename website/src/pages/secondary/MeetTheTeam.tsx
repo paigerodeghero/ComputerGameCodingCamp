@@ -255,25 +255,6 @@ const MeetTheTeam = () => {
           imageUrl="https://codeatclemson.com/people/headshots/tiffany.jpg"
         />
       </PersonSection>
-      <Person
-        stringName="Joey Binz"
-        name={
-          <Link
-            href="https://www.linkedin.com/in/joey-binz-093403196/"
-            underline="none"
-            color="inherit"
-          >
-            Joey Binz
-          </Link>
-        }
-        affiliation={
-          <Link href="https://www.clemson.edu" underline="none" color="inherit">
-            Clemson University
-          </Link>
-        }
-        years="2022"
-        imageUrl="https://codeatclemson.com/people/headshots/joeybinz_photo.jpg"
-      />
     </SecondaryPageHost>
   );
 };
