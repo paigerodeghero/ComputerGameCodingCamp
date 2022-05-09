@@ -1,10 +1,8 @@
 import { Typography } from "@mui/material"
 import { SecondaryPageHost } from "../../layout/SecondaryPage"
 
-const CodeOfConduct = () => {
+export const CodeOfConductText = () => {
   return (
-    <SecondaryPageHost >
-      <Typography textAlign={'center'} variant="h4" paddingBottom={3} >Code of Conduct</Typography>
     <Typography>
       The CGCC Teaching Team commits to: creating an inclusive, welcoming, safe coding camp where everyone has the opportunity to learn, succeed and have fun. We respectfully communicate and interact with all camp participants and their parents/guardians.
       <br />
@@ -47,6 +45,25 @@ const CodeOfConduct = () => {
       <br />
       ● Understanding that CGCC program staff cannot monitor, nor be responsible for, what my camper does online outside of program activities. I will review and discuss online safety and this code of conduct with my teen.
     </Typography>
+  )
+}
+
+export const CodeOfConductWithHeader = () => {
+  return (
+    <>
+    <Typography textAlign={"center"} variant="h4">
+    Code of Conduct
+  </Typography>
+  <CodeOfConductText />
+</>
+  )
+}
+
+const CodeOfConduct = () => {
+  return (
+    <SecondaryPageHost >
+      <Typography textAlign={'center'} variant="h4" paddingBottom={3} >Code of Conduct</Typography>
+      <CodeOfConductText />
     </SecondaryPageHost >
   )
 }

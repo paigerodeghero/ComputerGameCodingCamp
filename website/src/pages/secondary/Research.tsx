@@ -1,4 +1,5 @@
 import { Typography } from "@mui/material";
+import { Link } from "react-router-dom";
 import { SecondaryPageHost } from "../../layout/SecondaryPage";
 import Section from "../../layout/Section";
 
@@ -45,7 +46,7 @@ const Research = () => {
           If you are on the fence about whether you should allow your child to
           participate in the research side of CGCC, or have any questions or
           concerns about how we do research at CGCC, feel free to reach out to
-          us here!
+          us <Link to={"/contact-us"} >here</Link >!
         </p>
       </Section>
       <Section title="Check out our publications from previous camps!">

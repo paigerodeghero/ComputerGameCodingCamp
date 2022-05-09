@@ -112,8 +112,8 @@ export const SecondaryPageHeader = () => {
             <MaterialButtonLink to="/contact-us" variant="text">
               Contact
             </MaterialButtonLink>
-            <MaterialButtonLink to="/code-of-conduct" variant="text" >
-              Code of Conduct
+            <MaterialButtonLink to="/acknowledgements" variant="text" >
+              Acknowledgements
             </MaterialButtonLink>
           </Box>
         </Box>

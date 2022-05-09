@@ -1,12 +1,15 @@
 import { Box, Link, Link as MaterialLink, Typography } from "@mui/material";
 import { SecondaryPageHost } from "../../layout/SecondaryPage";
+import CodeOfConduct, { CodeOfConductText, CodeOfConductWithHeader } from "./CodeOfConduct";
 
 export {};
 
 const SignUp = () => {
   return (
     <SecondaryPageHost>
-      <Typography variant="h3" textAlign={'center'}>Camp Sign Up</Typography>
+      <Typography variant="h3" textAlign={"center"}>
+        Camp Sign Up
+      </Typography>
       <Box
         marginTop={3}
         marginBottom={3}
@@ -17,7 +20,7 @@ const SignUp = () => {
           },
           flexDirection: "column",
           alignItems: "center",
-          placeItems: 'center',
+          placeItems: "center",
           gridTemplateColumns: {
             sm: "1fr 1fr",
             lg: "1fr 1fr 1fr",
@@ -60,10 +63,10 @@ const SignUp = () => {
         </Link>
         <ul>
           <li>
-            <strong>Camp Dates</strong>: July 11th - July 29th (M-F)
+            <strong>Camp Dates</strong>: July 11th - July 29th, 1pm - 3:30pm Eastern Time, M-F
           </li>
           <li>
-            <strong>Sign-Up Link</strong>: <MaterialLink>TBA</MaterialLink>
+            <strong>Sign-Up Link</strong>: <MaterialLink href="https://forms.gle/M6ghnHbgGsdWk4d76">Here</MaterialLink>
           </li>
         </ul>
       </Typography>
@@ -89,6 +92,10 @@ const SignUp = () => {
         </MaterialLink>
         !
       </Typography>
+
+      <Box marginTop={5}>
+        <CodeOfConductWithHeader />
+      </Box>
     </SecondaryPageHost>
   );
 };

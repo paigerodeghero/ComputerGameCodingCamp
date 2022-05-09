@@ -19,7 +19,7 @@ export const NavigationDrawer = (props: DrawerProps) => {
         <ListItemLink to={"/team"} primary="Team" />
         <ListItemLink to={"/research"} primary="Research" />
         <ListItemLink to={"/contact-us"} primary="Contact Us" />
-        <ListItemLink to={"/code-of-conduct"} primary="Code Of Conduct" />
+        <ListItemLink to={"/acknowledgements"} primary="Acknowledgements" />
       </List>
     </Drawer>
   );

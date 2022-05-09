@@ -11,7 +11,7 @@ const FrequentlyAskedQuestions = () => {
       </Typography>
       <FaqItem title="What are the dates of the camp?">
         <ul>
-          <li>2022 Camp: Monday trough Friday July 11th - July 29th</li>
+          <li>2022 Camp: Monday trough Friday July 11th - July 29th,  1pm - 3:30pm Eastern Time, M-F</li>
         </ul>
       </FaqItem>
       <FaqItem title="What is the deadline for registration for the 2022 camp?">

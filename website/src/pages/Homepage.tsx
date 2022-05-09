@@ -5,6 +5,7 @@ import React, { useState } from "react";
 import CGCC_PixelArt_Long_DragonFire from "../assets/img/cover/CGCC_PixelArt_Long_DragonFire.png";
 import { NavigationDrawer } from "../layout/Drawer";
 import MaterialButtonLink from "../utilities/react-router-interop/MaterialButtonLink";
+import { CodeOfConductWithHeader } from "./secondary/CodeOfConduct";
 
 const Component = () => (
   <Box
@@ -78,8 +79,8 @@ const Header = () => {
             <MaterialButtonLink to="/contact-us" variant="text">
               Contact
             </MaterialButtonLink>
-            <MaterialButtonLink to="/code-of-conduct" variant="text">
-              Code of Conduct
+            <MaterialButtonLink to="/acknowledgements" variant="text">
+              Acknowledgements
             </MaterialButtonLink>
           </Box>
         </Box>
@@ -160,7 +161,7 @@ const NextCampDates = () => (
           paddingTop: 2,
         }}
       >
-        2022 Camp Dates: July 11th-29th, 1 - 3:30 Eastern
+        2022 Camp Dates: July 11th-29th, 1pm - 3:30pm Eastern Time, M-F
       </Typography>
       <Box component="p" display="flex" justifyContent="center">
         <Link
@@ -198,36 +199,11 @@ const NextCampDates = () => (
         </Typography>
       </p>
     </Box>
+
+    <Box marginTop={5}>
+      <CodeOfConductWithHeader />
+    </Box>
   </Box>
 );
 
 export default Component;
-
-type SignUpDateProps = {
-  title: string;
-  date: string;
-};
-function SignUpDate(props: SignUpDateProps) {
-  return (
-    <Box
-      sx={{
-        display: "flex",
-        flexDirection: {
-          xs: "column",
-          sm: "row",
-        },
-        alignItems: {
-          xs: "center",
-          sm: "flex-start",
-        },
-      }}
-    >
-      <Typography component="div" fontWeight="bold">
-        {props.title}:
-      </Typography>
-      <Typography component="div" sx={{ paddingLeft: 1 }}>
-        {props.date}
-      </Typography>
-    </Box>
-  );
-}
