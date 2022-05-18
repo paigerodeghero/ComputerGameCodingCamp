@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a3eb96e1.css",
-    "main.js": "/static/js/main.91d6dc92.js",
+    "main.js": "/static/js/main.6742f80e.js",
     "static/js/787.e52a6a6f.chunk.js": "/static/js/787.e52a6a6f.chunk.js",
     "static/media/CGCC_PixelArt_Long_DragonFire.png": "/static/media/CGCC_PixelArt_Long_DragonFire.67d9cc98b1eb40787a62.png",
     "index.html": "/index.html",
     "main.a3eb96e1.css.map": "/static/css/main.a3eb96e1.css.map",
-    "main.91d6dc92.js.map": "/static/js/main.91d6dc92.js.map",
+    "main.6742f80e.js.map": "/static/js/main.6742f80e.js.map",
     "787.e52a6a6f.chunk.js.map": "/static/js/787.e52a6a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3eb96e1.css",
-    "static/js/main.91d6dc92.js"
+    "static/js/main.6742f80e.js"
   ]
 }
