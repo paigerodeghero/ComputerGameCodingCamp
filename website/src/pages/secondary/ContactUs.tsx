@@ -19,9 +19,9 @@ const ContactUs = () => {
       </Section>
       <Section title="Want to Sponsor the Camp?">
         We'd love to provide our campers with swag and godies that are shipped
-        to their homes before our camp every year. We could also like to support
+        to their homes before our virtual camp every year. We could also like to support
         our volunteers if at all possible for all the time that they devote to
-        this camp. If you'd like to help fund our camp, please{" "}
+        this camp. If you'd like to help fund our virtual camp, please{" "}
         <a href="mailto:cgcc@clemson.edu">email us</a>.
       </Section>
     </SecondaryPageHost>

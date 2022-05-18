@@ -11,7 +11,7 @@ const FrequentlyAskedQuestions = () => {
       </Typography>
       <FaqItem title="What are the dates of the camp?">
         <ul>
-          <li>2022 Camp: Monday trough Friday July 11th - July 29th,  1pm - 3:30pm Eastern Time, M-F</li>
+          <li>2022 Virtual Camp: Monday trough Friday July 11th - July 29th,  1pm - 3:30pm Eastern Time, M-F</li>
         </ul>
       </FaqItem>
       <FaqItem title="What is the deadline for registration for the 2022 camp?">
@@ -97,7 +97,7 @@ const FrequentlyAskedQuestions = () => {
           <li>
             We are always looking for collaborators and volunteers to help with
             the camp. Feel fre to reach out and{" "}
-            <MaterialLink href="mailto:cgcc@clemson.edu">email</MaterialLink>our
+            <MaterialLink href="mailto:cgcc@clemson.edu">email</MaterialLink> our
             team if interested!
           </li>
         </ul>

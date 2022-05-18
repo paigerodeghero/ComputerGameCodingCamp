@@ -254,6 +254,43 @@ const MeetTheTeam = () => {
           years="2022"
           imageUrl="https://codeatclemson.com/people/headshots/tiffany.jpg"
         />
+        <Person
+          stringName="Aiden Sherlock"
+          name={"Aiden Sherlock"}
+          affiliation={
+            <Link
+              href="https://www.clemson.edu"
+              underline="none"
+              color="inherit"
+            >
+              Clemson University
+            </Link>
+          }
+          years="2022"
+          imageUrl="http://codeatclemson.com/people/headshots/Aiden.png"
+        />
+        
+        <Person
+          stringName="Sanjana Pendharkar"
+          name={<Link
+            href="https://www.linkedin.com/in/sanjanapendharkar/"
+            underline="none"
+            color="inherit"
+          >
+            Sanjana Pendharkar
+          </Link>}
+          affiliation={
+            <Link
+              href="https://www.rutgers.edu/"
+              underline="none"
+              color="inherit"
+            >
+              Rutgers University
+            </Link>
+          }
+          years="2022"
+          imageUrl="http://codeatclemson.com/people/headshots/Sanjana_Pendharkar_Picture.png"
+        />
       </PersonSection>
     </SecondaryPageHost>
   );

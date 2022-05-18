@@ -12,7 +12,7 @@ const Research = () => {
         Research
       </Typography>
       <Section title="Our Goals">
-        For the past two summers, the CGCC team has been hosting these camps
+        For the past two summers, the CGCC team has been hosting these virtual camps
         with the goal of introducing autistic students to their potential in
         video game development. While we will always keep this goal priority
         number 1, we also conduct these camps to perform research in autism and

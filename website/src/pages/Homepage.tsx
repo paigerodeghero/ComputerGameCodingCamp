@@ -49,7 +49,7 @@ const Header = () => {
           Code @ Clemson
         </Typography>
         <Typography textAlign="center" variant="subtitle1" component="div" gutterBottom>
-          Presented by EdASE
+          A Virtual Camp Presented by EdASE
         </Typography>
         <Box
           sx={{
@@ -161,7 +161,7 @@ const NextCampDates = () => (
           paddingTop: 2,
         }}
       >
-        2022 Camp Dates: July 11th-29th, 1pm - 3:30pm Eastern Time, M-F
+        2022 Virtual Camp Dates: July 11th-29th, 1pm - 3:30pm Eastern Time, M-F
       </Typography>
       <Box component="p" display="flex" justifyContent="center">
         <Link
@@ -187,7 +187,7 @@ const NextCampDates = () => (
       </Box>
       <p>
         <Typography component="div">
-          Join us for our third Computer Game Coding Camp (CGCC)! This camp is
+          Join us for our third Virtual Computer Game Coding Camp (CGCC)! This virtual camp is
           for high school students on the autism spectrum (ASD). The camp will
           expose students to high-level video game design and development and
           provide opportunities for networking with peers. While developing
