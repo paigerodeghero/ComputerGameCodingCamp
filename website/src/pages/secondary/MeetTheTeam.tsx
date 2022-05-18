@@ -84,7 +84,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2020, 2021, 2022"
-          imageUrl="https://media-exp1.licdn.com/dms/image/C5603AQF_qxZG7B4jMg/profile-displayphoto-shrink_200_200/0/1517432368672?e=1649894400&v=beta&t=Z07Muzi4gE11WrTH3oNEzXXcZEGM5LsvrOoTXZKff30"
+          imageUrl="http://codeatclemson.com/people/headshots/Tom.jfif"
         />
         <Person
           stringName="Jeanette Ashworth, Ph.D."
