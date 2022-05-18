@@ -267,7 +267,7 @@ const MeetTheTeam = () => {
             </Link>
           }
           years="2022"
-          imageUrl="http://codeatclemson.com/people/headshots/Aiden.png"
+          imageUrl="http://codeatclemson.com/people/headshots/Aiden.jpg"
         />
         
         <Person
