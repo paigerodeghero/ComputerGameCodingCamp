@@ -8,6 +8,7 @@ import FrequentlyAskedQuestions from "./pages/secondary/FrequentlyAskedQuestions
 import MeetTheTeam from "./pages/secondary/MeetTheTeam";
 import Research from "./pages/secondary/Research";
 import SignUp from "./pages/secondary/SignUp";
+import SkillMap from "./pages/secondary/SkillMap";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route path="/research" element={<Research />} />
             <Route path="/contact-us" element={<ContactUs />} />
             <Route path="/acknowledgements" element={<Acknowledgements />} />
+            <Route path="/skill-map" element={<SkillMap />}/>
           </Routes>
         </Box>
         <Box width="100%">
