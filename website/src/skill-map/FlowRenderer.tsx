@@ -113,7 +113,6 @@ export const VerticalFlow = () => {
     return (
       <ReactFlow nodes={nodes} edges={edges} nodeTypes={nodeTypes}>
         <Background gap={18} size={1} />
-        <MiniMap />
       </ReactFlow>
     );
   }
