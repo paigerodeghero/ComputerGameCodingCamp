@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a3eb96e1.css",
-    "main.js": "/static/js/main.e7d70d51.js",
+    "main.js": "/static/js/main.4bf27a8a.js",
     "static/js/787.e52a6a6f.chunk.js": "/static/js/787.e52a6a6f.chunk.js",
     "static/media/CGCC_PixelArt_Long_DragonFire.png": "/static/media/CGCC_PixelArt_Long_DragonFire.67d9cc98b1eb40787a62.png",
     "index.html": "/index.html",
     "main.a3eb96e1.css.map": "/static/css/main.a3eb96e1.css.map",
-    "main.e7d70d51.js.map": "/static/js/main.e7d70d51.js.map",
+    "main.4bf27a8a.js.map": "/static/js/main.4bf27a8a.js.map",
     "787.e52a6a6f.chunk.js.map": "/static/js/787.e52a6a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3eb96e1.css",
-    "static/js/main.e7d70d51.js"
+    "static/js/main.4bf27a8a.js"
   ]
 }
