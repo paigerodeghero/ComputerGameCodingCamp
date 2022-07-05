@@ -44,17 +44,20 @@ function ListItemLink(props: ListItemLinkProps) {
 
 export default ListItemLink
 
-const useListItemLinkStyles = makeStyles((theme: Theme) => ({
+export const useListItemLinkStyles = makeStyles((theme: Theme) => ({
 	button: {
 		justifyContent: 'flex-start',
+		
 
 		// 1.25 is enough, not too much, not too little
 		padding: theme.spacing(1.25, 2),
 
 		width: '100%',
+		
 
 		color: theme.palette.text.secondary,
 		textTransform: 'none',
+		
 	},
 
 	selected: {

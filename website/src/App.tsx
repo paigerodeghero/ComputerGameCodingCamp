@@ -9,6 +9,8 @@ import MeetTheTeam from "./pages/secondary/MeetTheTeam";
 import Research from "./pages/secondary/Research";
 import SignUp from "./pages/secondary/SignUp";
 
+
+
 function App() {
   return (
     <div className="App">
@@ -24,7 +26,7 @@ function App() {
             <Route path="/acknowledgements" element={<Acknowledgements />} />
           </Routes>
         </Box>
-        <Box width="100%">
+        {/*<Box width="100%">
           <Divider />
           <Box
             flex="1"
@@ -51,7 +53,7 @@ function App() {
               </Box>
             </Link>
           </Box>
-        </Box>
+        </Box>*/}
       </Box>
     </div>
   );
