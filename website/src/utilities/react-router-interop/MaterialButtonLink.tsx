@@ -24,4 +24,21 @@ const MaterialButtonLink = (props: MaterialButtonLinkProps) => {
   return <Button  {...props} component={renderLink}></Button>;
 };
 
+
+export const MaterialButtonExternalLink = (props: MaterialButtonLinkProps) => {
+  const { to } = props;
+
+  const renderLink = useMemo(
+    () =>
+      // eslint-disable-next-line react/display-name
+      forwardRef<HTMLAnchorElement, Omit<LinkProps, "to">>((itemProps, ref) => {
+        const { color, ...remainingProps } = itemProps;
+        return <a href={to} ref={ref} {...remainingProps} />;
+      }),
+    [to]
+  );
+
+  return <Button  {...props} component={renderLink}></Button>;
+};
+
 export default MaterialButtonLink

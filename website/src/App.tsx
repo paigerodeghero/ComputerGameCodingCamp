@@ -10,6 +10,8 @@ import Research from "./pages/secondary/Research";
 import SignUp from "./pages/secondary/SignUp";
 import SkillMap from "./pages/secondary/SkillMap";
 
+
+
 function App() {
   return (
     <div className="App">
@@ -26,7 +28,7 @@ function App() {
             <Route path="/skill-map" element={<SkillMap />}/>
           </Routes>
         </Box>
-        <Box width="100%">
+        {/*<Box width="100%">
           <Divider />
           <Box
             flex="1"
@@ -53,7 +55,7 @@ function App() {
               </Box>
             </Link>
           </Box>
-        </Box>
+        </Box>*/}
       </Box>
     </div>
   );
