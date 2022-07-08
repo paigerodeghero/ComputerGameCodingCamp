@@ -17,7 +17,7 @@ import { green } from "@mui/material/colors";
 type SkillMapElementProps = {
   title: ReactNode;
   description: ReactNode;
-  videoLink: string;
+  videoLink?: string;
 };
 
 const SkillMapElement = (props: NodeProps<SkillMapElementProps>) => {
@@ -97,7 +97,8 @@ export const InternalSkillMapElement = (
           {props.title}
         </Box>
         {/* button section */}
-        <Box display="flex" alignItems="flex-start">
+        {props.videoLink !== undefined && (
+          <Box display="flex" alignItems="flex-start">
           <IconButton
             onClick={() => {
               window.open(props.videoLink, "_blank");
@@ -115,6 +116,7 @@ export const InternalSkillMapElement = (
             }}
           />
         </Box>
+        )}
       </Box>
       <Box component={Divider} marginX={-2} />
       <Box component={Typography} variant={"caption"} paddingY={1}>

@@ -108,6 +108,8 @@ const nodes = {
     type: 'skillTreeNode',
     data: {
       title: "Adding Score",
+      description: 'In this video we show you how to implement basic score keeping in Godot',
+      videoLink: 'https://youtu.be/pzXJTVdxLdo'
     },
     position
   },
@@ -121,23 +123,24 @@ const nodes = {
     },
     position,
   },
-  shooting: {
-    id: "Shooting",
-    type: "skillTreeNode",
-    data: {
-      title: "Shooting",
-      description: "How to introduce shooting into your game",
-    },
-    position,
-  },
   dying: {
     id: "Dying",
     type: "skillTreeNode",
     data: {
       title: 'Dying',
-      description: "how to make your character die in the game",
+      description: "Challenge: see signal video and attempt to make this work.",
     },
     position,
+  },
+  rolling: {
+    id: 'rolling',
+    type: 'skillTreeNode',
+    data: {
+      title: 'Rolling',
+      description: "How to make your character roll with the arrow keys on your computer.",
+      videoLink: 'https://youtu.be/dQw4w9WgXcQ'
+    },
+    position
   },
   sideScrolling: {
     id: "SideScrolling",
@@ -239,14 +242,6 @@ const nodes = {
     },
     position
   },
-  gameOverUi: {
-    id: "game-over-ui",
-    type: 'skillTreeNode',
-    data: {
-      title: 'gameOverUi'
-    },
-    position
-  },
   addingSounds: {
     id: "adding-sounds",
     type: 'skillTreeNode',
@@ -254,14 +249,6 @@ const nodes = {
       title: 'Adding Sounds',
       description: 'In this video we show you how to add sound effects for your game!',
       videoLink: 'https://youtu.be/gKfOsjc9RDs'
-    },
-    position
-  },
-  gameLevels: {
-    id: 'game-levels',
-    type: 'skillTreeNode',
-    data: {
-      title: 'Game Levels'
     },
     position
   },
@@ -300,8 +287,9 @@ export const initialEdges: Edge[] = [
   makeConnection(nodes.obstacleCollision, nodes.keepingScore),
   makeConnection(nodes.keepingScore, nodes.addingScore),
   makeConnection(nodes.addingScore, nodes.explosions),
-  makeConnection(nodes.explosions, nodes.shooting),
-  makeConnection(nodes.shooting, nodes.dying),
+  makeConnection(nodes.addingScore, nodes.rolling),
+  makeConnection(nodes.explosions, nodes.dying),
+  makeConnection(nodes.rolling, nodes.dying),
 
   makeConnection(nodes.dying, nodes.sideScrolling),
   makeConnection(nodes.sideScrolling, nodes.buildingAndSharingGames),
@@ -330,15 +318,7 @@ export const initialEdges: Edge[] = [
   makeConnection(nodes.characterMovement, nodes.animation),
   makeConnection(nodes.animation, nodes.buildingAndSharingGames),
 
-  makeConnection(nodes.dying, nodes.gameOverUi),
-  makeConnection(nodes.characterMovement, nodes.animation),
-  makeConnection(nodes.gameOverUi, nodes.buildingAndSharingGames),
-
   makeConnection(nodes.dying, nodes.addingSounds),
   makeConnection(nodes.characterMovement, nodes.addingSounds),
   makeConnection(nodes.addingSounds, nodes.buildingAndSharingGames),
-
-  makeConnection(nodes.dying, nodes.gameLevels),
-  makeConnection(nodes.characterMovement, nodes.gameLevels),
-  makeConnection(nodes.gameLevels, nodes.buildingAndSharingGames)
 ];
