@@ -1,6 +1,9 @@
 import { Handle, NodeProps, Position } from "react-flow-renderer";
 import {
   Checkbox,
+  Dialog,
+  DialogContent,
+  DialogTitle,
   Divider,
   IconButton,
   Paper,
@@ -14,7 +17,7 @@ import { green } from "@mui/material/colors";
 type SkillMapElementProps = {
   title: ReactNode;
   description: ReactNode;
-  videoLink: string,
+  videoLink: string;
 };
 
 const SkillMapElement = (props: NodeProps<SkillMapElementProps>) => {
@@ -85,7 +88,7 @@ export const InternalSkillMapElement = (
       paddingY={1}
       paddingX={2}
       sx={{
-        backgroundColor: complete ? green[400] : 'paper'
+        backgroundColor: complete ? green[400] : "paper",
       }}
     >
       <Box display="flex" justifyContent="space-between">
@@ -95,16 +98,22 @@ export const InternalSkillMapElement = (
         </Box>
         {/* button section */}
         <Box display="flex" alignItems="flex-start">
-          <IconButton>
-            <LaunchOutlined />
-          </IconButton>
-          <IconButton>
+          <IconButton
+            onClick={() => {
+              window.open(props.videoLink, "_blank");
+            }}
+          >
             <OndemandVideoOutlined />
           </IconButton>
-          <Checkbox sx={{ paddingX: 1 }} checked={complete} onChange={v => {
-            setComplete(v.target.checked)
-            setElementComplete(props.id, v.target.checked)
-          }} />
+          
+          <Checkbox
+            sx={{ paddingX: 1 }}
+            checked={complete}
+            onChange={(v) => {
+              setComplete(v.target.checked);
+              setElementComplete(props.id, v.target.checked);
+            }}
+          />
         </Box>
       </Box>
       <Box component={Divider} marginX={-2} />

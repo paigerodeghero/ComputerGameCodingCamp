@@ -7,7 +7,6 @@ import ReactFlow, {
   Background,
   useNodesState,
   useEdgesState,
-  MiniMap,
 } from "react-flow-renderer";
 import { initialNodes, initialEdges } from "./elements";
 import SkillMapElement, { InternalSkillMapElement } from "./SkillMapElement";
@@ -33,7 +32,6 @@ const getElementLayouts = (
   edges: Edge[],
   direction: string = "TB"
 ) => {
-  const isHorizontal = direction === "LR";
 
   dagreGraph.setGraph({ rankdir: direction });
 
@@ -111,7 +109,7 @@ export const VerticalFlow = () => {
     );
   } else {
     return (
-      <ReactFlow nodes={nodes} edges={edges} nodeTypes={nodeTypes}>
+      <ReactFlow nodes={nodes} edges={edges} nodeTypes={nodeTypes} fitView>
         <Background gap={18} size={1} />
       </ReactFlow>
     );
