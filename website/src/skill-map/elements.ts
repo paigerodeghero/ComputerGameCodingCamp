@@ -332,7 +332,7 @@ export const initialEdges: Edge[] = [
 
   makeConnection(nodes.dying, nodes.gameOverUi),
   makeConnection(nodes.characterMovement, nodes.animation),
-  makeConnection(nodes.animation, nodes.buildingAndSharingGames),
+  makeConnection(nodes.gameOverUi, nodes.buildingAndSharingGames),
 
   makeConnection(nodes.dying, nodes.addingSounds),
   makeConnection(nodes.characterMovement, nodes.addingSounds),
