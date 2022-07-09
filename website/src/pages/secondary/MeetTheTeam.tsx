@@ -16,7 +16,7 @@ const MeetTheTeam = () => {
       >
         Camp Team
       </Typography>
-      <PersonSection title="Leaders">
+      <PersonSection title="Directors">
         <Person
           stringName="Paige Rodeghero, Ph.D."
           name={
@@ -66,7 +66,7 @@ const MeetTheTeam = () => {
           imageUrl="http://codeatclemson.com/people/headshots/andy_small.jpg"
         />
       </PersonSection>
-      <PersonSection title="Collaborators">
+      <PersonSection title="Team">
         <Person
           stringName="Thomas Beeson, Ed.S., MA, BCBA"
           name={
@@ -90,15 +90,17 @@ const MeetTheTeam = () => {
           stringName="Jeanette Ashworth, Ph.D."
           name={"Jeanette Ashworth, Ph.D."}
           affiliation={
-            <Link href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881" underline="none" color="inherit">
+            <Link
+              href="https://www.psychologytoday.com/us/therapists/jeanette-ashworth-woodinville-wa/900881"
+              underline="none"
+              color="inherit"
+            >
               Center for a Happier Life, PLLC
             </Link>
           }
           years="2021, 2022"
           imageUrl="http://codeatclemson.com/people/headshots/jeanette_small.jpg"
         />
-      </PersonSection>
-      <PersonSection title="Instructors and Content Developers">
         <Person
           stringName="Jason Lehmann, B.S."
           name={
@@ -269,16 +271,18 @@ const MeetTheTeam = () => {
           years="2022"
           imageUrl="http://codeatclemson.com/people/headshots/Aiden.JPG"
         />
-        
+
         <Person
           stringName="Sanjana Pendharkar"
-          name={<Link
-            href="https://www.linkedin.com/in/sanjanapendharkar/"
-            underline="none"
-            color="inherit"
-          >
-            Sanjana Pendharkar
-          </Link>}
+          name={
+            <Link
+              href="https://www.linkedin.com/in/sanjanapendharkar/"
+              underline="none"
+              color="inherit"
+            >
+              Sanjana Pendharkar
+            </Link>
+          }
           affiliation={
             <Link
               href="https://www.rutgers.edu/"
@@ -291,6 +295,24 @@ const MeetTheTeam = () => {
           years="2022"
           imageUrl="http://codeatclemson.com/people/headshots/Sanjana_Pendharkar_Picture.png"
         />
+        <Person
+          stringName="Bonita Sharif"
+          name={
+            <Link
+              href="https://www.shbonita.me/"
+              underline="none"
+              color="inherit"
+            >
+              Bonita Sharif
+            </Link>
+          }
+          affiliation={
+            <Link href="https://www.unl.edu/" underline="none" color="inherit">
+              University of Nebraska - Lincoln
+            </Link>
+          }
+          years="2022"
+        ></Person>
       </PersonSection>
     </SecondaryPageHost>
   );

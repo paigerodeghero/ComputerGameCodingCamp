@@ -4,7 +4,9 @@ import { Box } from "@mui/system";
 import React, { useState } from "react";
 import CGCC_PixelArt_Long_DragonFire from "../assets/img/cover/CGCC_PixelArt_Long_DragonFire.png";
 import { NavigationDrawer } from "../layout/Drawer";
-import MaterialButtonLink, {MaterialButtonExternalLink} from "../utilities/react-router-interop/MaterialButtonLink";
+import MaterialButtonLink, {
+  MaterialButtonExternalLink,
+} from "../utilities/react-router-interop/MaterialButtonLink";
 import { CodeOfConductWithHeader } from "./secondary/CodeOfConduct";
 
 const Component = () => (
@@ -24,7 +26,7 @@ const Component = () => (
 const Header = () => {
   const [drawerOpen, setDrawerOpen] = useState<boolean>(false);
 
-  console.log('drawer state: ', drawerOpen)
+  console.log("drawer state: ", drawerOpen);
 
   return (
     <>
@@ -41,14 +43,15 @@ const Header = () => {
           },
         }}
       >
-        <Typography
-          textAlign="center"
-          variant="h2"
-          component="div"
-        >
+        <Typography textAlign="center" variant="h2" component="div">
           Code @ Clemson
         </Typography>
-        <Typography textAlign="center" variant="subtitle1" component="div" gutterBottom>
+        <Typography
+          textAlign="center"
+          variant="subtitle1"
+          component="div"
+          gutterBottom
+        >
           A Virtual Camp Presented by EdASE
         </Typography>
         <Box
@@ -76,28 +79,30 @@ const Header = () => {
             <MaterialButtonLink to="/faqs" variant="text">
               FAQs
             </MaterialButtonLink>
-            
-           
+
             <MaterialButtonLink to="/contact-us" variant="text">
               Contact
             </MaterialButtonLink>
-             <MaterialButtonExternalLink to="https://twitter.com/EdASE_Research" variant="text" target="_blank">
-             <span>
-              Follow Us &nbsp;
-             <svg
-                color=""
-                xmlns="http://www.w3.org/2000/svg"
-                width="1rem"
-                height="1rem"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  fill="#1d9bf0"
-                  d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"
-                />
-              </svg>
-          
-            </span>
+            <MaterialButtonExternalLink
+              to="https://twitter.com/EdASE_Research"
+              variant="text"
+              target="_blank"
+            >
+              <span>
+                Follow Us &nbsp;
+                <svg
+                  color=""
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="1rem"
+                  height="1rem"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    fill="#1d9bf0"
+                    d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"
+                  />
+                </svg>
+              </span>
             </MaterialButtonExternalLink>
           </Box>
         </Box>
@@ -204,21 +209,41 @@ const NextCampDates = () => (
       </Box>
       <p>
         <Typography component="div">
-          Join us for our third Virtual Computer Game Coding Camp (CGCC)! This virtual camp is
-          for high school students on the autism spectrum (ASD). The camp will
-          expose students to high-level video game design and development and
-          provide opportunities for networking with peers. While developing
-          their video game, students will improve their teamwork skills such as
-          communication and collaboration. Throughout the camp, campers will
-          learn the high-level processes of software development, game
-          development, interpersonal communication, collaboration, and end up
-          with their own game, from scratch.
+          Join us for our third Virtual Computer Game Coding Camp (CGCC)! This
+          virtual camp is for high school students on the autism spectrum (ASD).
+          The camp will expose students to high-level video game design and
+          development and provide opportunities for networking with peers. While
+          developing their video game, students will improve their teamwork
+          skills such as communication and collaboration. Throughout the camp,
+          campers will learn the high-level processes of software development,
+          game development, interpersonal communication, collaboration, and end
+          up with their own game, from scratch.
         </Typography>
       </p>
     </Box>
 
     <Box marginTop={5}>
       <CodeOfConductWithHeader />
+    </Box>
+
+    <Box marginTop={5}>
+      <Box width="100%" display="flex" alignItems={'center'} justifyContent={'center'}>
+        <Box display="flex" width="40vw" gap={3}>
+          <a href="https://nsf.gov">
+            <img
+              src="http://codeatclemson.com/img/nsf-logo.png"
+              alt={"nsf"}
+              height="200"
+              width="200"
+            />
+          </a>
+          This material is based upon work supported by the National Foundation
+          under grant ITEST-2148720. Any opinions, findings, and conclusions or
+          recommendations expressed in the material are those of the author(s)
+          and do not necessarily reflect the views of the National Science
+          Foundation.
+        </Box>
+      </Box>
     </Box>
   </Box>
 );
