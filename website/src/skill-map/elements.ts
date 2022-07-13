@@ -132,16 +132,6 @@ const nodes = {
     },
     position,
   },
-  rolling: {
-    id: 'rolling',
-    type: 'skillTreeNode',
-    data: {
-      title: 'Rolling',
-      description: "How to make your character roll with the arrow keys on your computer.",
-      videoLink: 'https://youtu.be/dQw4w9WgXcQ'
-    },
-    position
-  },
   sideScrolling: {
     id: "SideScrolling",
     type: "skillTreeNode",
@@ -287,9 +277,7 @@ export const initialEdges: Edge[] = [
   makeConnection(nodes.obstacleCollision, nodes.keepingScore),
   makeConnection(nodes.keepingScore, nodes.addingScore),
   makeConnection(nodes.addingScore, nodes.explosions),
-  makeConnection(nodes.addingScore, nodes.rolling),
   makeConnection(nodes.explosions, nodes.dying),
-  makeConnection(nodes.rolling, nodes.dying),
 
   makeConnection(nodes.dying, nodes.sideScrolling),
   makeConnection(nodes.sideScrolling, nodes.buildingAndSharingGames),
